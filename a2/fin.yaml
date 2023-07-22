@@ -1,5 +1,5 @@
 # Clash total line 93682
-# Last updated Sat 07/22/2023 13:21:45.52
+# Last updated Sat 07/22/2023 22:03:57.27
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,00-gov.cn
@@ -57149,6 +57149,7 @@ payload:
   - DOMAIN-SUFFIX,licoshnit.com
   - DOMAIN-SUFFIX,licted.com
   - DOMAIN-SUFFIX,liddingremorse.digital
+  - DOMAIN-SUFFIX,lidicando.com
   - DOMAIN-SUFFIX,lidjetsyak.com
   - DOMAIN-SUFFIX,lidsaich.net
   - DOMAIN-SUFFIX,lie2anyone.com
@@ -90620,7 +90621,6 @@ payload:
   - DOMAIN-SUFFIX,www.jaup0lake.com
   - DOMAIN-SUFFIX,www.jenxsw21lb.com
   - DOMAIN-SUFFIX,www.jinshanju.com
-  - DOMAIN-SUFFIX,www.jklhs7u.com
   - DOMAIN-SUFFIX,www.jody0sora.com
   - DOMAIN-SUFFIX,www.josh7cuba.com
   - DOMAIN-SUFFIX,www.jsnzoe301m.com

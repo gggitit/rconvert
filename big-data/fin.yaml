@@ -1,5 +1,5 @@
-# Clash total line 4139
-# Last updated Sat 07/22/2023 13:24:41.00
+# Clash total line 4141
+# Last updated Sat 07/22/2023 22:06:29.36
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -4072,6 +4072,7 @@ payload:
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
   - PROCESS-NAME,com.vuclip.viu
+  - PROCESS-NAME,com.wbd.stream
   - PROCESS-NAME,music
   - PROCESS-NAME,tv
   - PROCESS-NAME,tv.twitch.android.app
@@ -4109,6 +4110,7 @@ payload:
   - USER-AGENT,KKTV*
   - USER-AGENT,LINE%20TV*
   - USER-AGENT,LINE*
+  - USER-AGENT,Max*
   - USER-AGENT,My5*
   - USER-AGENT,Naver%20TV*
   - USER-AGENT,Niconico*

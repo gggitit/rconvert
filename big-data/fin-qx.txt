@@ -1,5 +1,5 @@
-# Quantumult total line 4127
-# Last updated Sat 07/22/2023 13:24:40.92
+# Quantumult total line 4128
+# Last updated Sat 07/22/2023 22:06:29.31
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -4096,6 +4096,7 @@ USER-AGENT,JOOX*,LIST
 USER-AGENT,KKTV*,LIST
 USER-AGENT,LINE%20TV*,LIST
 USER-AGENT,LINE*,LIST
+USER-AGENT,Max*,LIST
 USER-AGENT,My5*,LIST
 USER-AGENT,Naver%20TV*,LIST
 USER-AGENT,Niconico*,LIST
