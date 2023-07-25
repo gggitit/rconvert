@@ -1,5 +1,5 @@
-# Quantumult total line 4075
-# Last updated Sat 07/22/2023 22:06:39.03
+# Quantumult total line 4076
+# Last updated Tue 07/25/2023 22:16:11.09
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -59,6 +59,7 @@ HOST-SUFFIX,100bt.com,LIST
 HOST-SUFFIX,100offer.com,LIST
 HOST-SUFFIX,11467.com,LIST
 HOST-SUFFIX,114chn.com,LIST
+HOST-SUFFIX,114menhu.com,LIST
 HOST-SUFFIX,114piaowu.com,LIST
 HOST-SUFFIX,114shouji.com,LIST
 HOST-SUFFIX,115.com,LIST

@@ -1,5 +1,5 @@
-# Clash total line 4113
-# Last updated Sat 07/22/2023 22:06:39.08
+# Clash total line 4114
+# Last updated Tue 07/25/2023 22:16:11.14
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,100offer.com
   - DOMAIN-SUFFIX,11467.com
   - DOMAIN-SUFFIX,114chn.com
+  - DOMAIN-SUFFIX,114menhu.com
   - DOMAIN-SUFFIX,114piaowu.com
   - DOMAIN-SUFFIX,114shouji.com
   - DOMAIN-SUFFIX,115.com
