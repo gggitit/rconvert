@@ -1,5 +1,5 @@
-# Clash total line 1392
-# Last updated Tue 07/25/2023 22:15:51.65
+# Clash total line 1405
+# Last updated Fri 07/28/2023 22:15:40.74
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -9,6 +9,7 @@ payload:
   - DOMAIN,a57.foxnews.com
   - DOMAIN,aff.equalweb.com
   - DOMAIN,ajax.cat.net
+  - DOMAIN,ajax.cdnjs.com
   - DOMAIN,ajax.googleapis.com
   - DOMAIN,ajax.microsoft.com
   - DOMAIN,alt-images.codestream.com
@@ -220,6 +221,7 @@ payload:
   - DOMAIN,cdn.safecharge.com
   - DOMAIN,cdn.sanity.io
   - DOMAIN,cdn.sc.gl
+  - DOMAIN,cdn.sciencecast.org
   - DOMAIN,cdn.search.brave.com
   - DOMAIN,cdn.segment.com
   - DOMAIN,cdn.sellix.io
@@ -230,6 +232,7 @@ payload:
   - DOMAIN,cdn.skk.moe
   - DOMAIN,cdn.smooch.io
   - DOMAIN,cdn.solvvy.com
+  - DOMAIN,cdn.split.io
   - DOMAIN,cdn.sprig.com
   - DOMAIN,cdn.sstatic.net
   - DOMAIN,cdn.tailwindcss.com
@@ -564,6 +567,7 @@ payload:
   - DOMAIN,p.typekit.com
   - DOMAIN,p.typekit.net
   - DOMAIN,packages.argotunnel.com
+  - DOMAIN,packages.httpie.io
   - DOMAIN,packages.jetbrains.team
   - DOMAIN,participants.evolv.ai
   - DOMAIN,parts.blog.livedoor.jp
@@ -608,6 +612,7 @@ payload:
   - DOMAIN,raw.github.com
   - DOMAIN,rebound.postmarkapp.com
   - DOMAIN,registry.bower.io
+  - DOMAIN,registry.npmjs.cf
   - DOMAIN,registry.npmjs.com
   - DOMAIN,registry.npmjs.org
   - DOMAIN,renderer-assets.typeform.com
@@ -653,6 +658,7 @@ payload:
   - DOMAIN,s3.filebase.com
   - DOMAIN,s3.m.0x.mk
   - DOMAIN,s3.masto.ai
+  - DOMAIN,s3.stackabuse.com
   - DOMAIN,s3.toot.io
   - DOMAIN,s3.wp.com
   - DOMAIN,s3media.squarespace.com
@@ -707,6 +713,7 @@ payload:
   - DOMAIN,static.adguardvpn.com
   - DOMAIN,static.agilebits.com
   - DOMAIN,static.apkpure.com
+  - DOMAIN,static.arxiv.org
   - DOMAIN,static.assetlab.io
   - DOMAIN,static.bit.cloud
   - DOMAIN,static.bit.dev
@@ -797,6 +804,7 @@ payload:
   - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN,storage.crisp.chat
   - DOMAIN,storage.gra.cloud.ovh.net
+  - DOMAIN,storage.sciencecast.org
   - DOMAIN,storageapi.fleek.co
   - DOMAIN,storageapi.fleek.one
   - DOMAIN,storageapi2.fleek.co
@@ -818,6 +826,7 @@ payload:
   - DOMAIN,thumbsnap.com
   - DOMAIN,tiles.stadiamaps.com
   - DOMAIN,topbar-static.piano.io
+  - DOMAIN,tvdownloaddw-a.akamaihd.net
   - DOMAIN,twemoji.maxcdn.com
   - DOMAIN,typeface.nyt.com
   - DOMAIN,typescript.azureedge.net
@@ -864,6 +873,7 @@ payload:
   - DOMAIN,web.onekey-asset.com
   - DOMAIN,webfonts.zoho.com
   - DOMAIN,webpack.js.org
+  - DOMAIN,website-cdn.ipinfo.io
   - DOMAIN,widget.intercom.io
   - DOMAIN,widget.trustpilot.com
   - DOMAIN,widget.user.com
@@ -1167,6 +1177,7 @@ payload:
   - DOMAIN-SUFFIX,nordcdn.com
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,now.sh
+  - DOMAIN-SUFFIX,npm.staticblitz.com
   - DOMAIN-SUFFIX,odycdn.com
   - DOMAIN-SUFFIX,oktacdn.com
   - DOMAIN-SUFFIX,olemovienews.com
@@ -1174,6 +1185,7 @@ payload:
   - DOMAIN-SUFFIX,omnisnippet1.com
   - DOMAIN-SUFFIX,onrender.com
   - DOMAIN-SUFFIX,operacdn.com
+  - DOMAIN-SUFFIX,oreillystatic.com
   - DOMAIN-SUFFIX,packagist.org
   - DOMAIN-SUFFIX,packd.liuxingbaoyu.xyz
   - DOMAIN-SUFFIX,pagecdn.io
@@ -1314,6 +1326,7 @@ payload:
   - DOMAIN-SUFFIX,squarespace-cdn.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,stack.imgur.com
+  - DOMAIN-SUFFIX,stackblitz.io
   - DOMAIN-SUFFIX,static2cdn.hubspot.com
   - DOMAIN-SUFFIX,statically.io
   - DOMAIN-SUFFIX,staticaly.com

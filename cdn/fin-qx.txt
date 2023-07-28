@@ -1,5 +1,5 @@
-# Quantumult total line 1392
-# Last updated Tue 07/25/2023 22:15:51.62
+# Quantumult total line 1405
+# Last updated Fri 07/28/2023 22:15:40.71
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -8,6 +8,7 @@ HOST,a5.behance.net,LIST
 HOST,a57.foxnews.com,LIST
 HOST,aff.equalweb.com,LIST
 HOST,ajax.cat.net,LIST
+HOST,ajax.cdnjs.com,LIST
 HOST,ajax.googleapis.com,LIST
 HOST,ajax.microsoft.com,LIST
 HOST,alt-images.codestream.com,LIST
@@ -219,6 +220,7 @@ HOST,cdn.roboflow.com,LIST
 HOST,cdn.safecharge.com,LIST
 HOST,cdn.sanity.io,LIST
 HOST,cdn.sc.gl,LIST
+HOST,cdn.sciencecast.org,LIST
 HOST,cdn.search.brave.com,LIST
 HOST,cdn.segment.com,LIST
 HOST,cdn.sellix.io,LIST
@@ -229,6 +231,7 @@ HOST,cdn.sketch.com,LIST
 HOST,cdn.skk.moe,LIST
 HOST,cdn.smooch.io,LIST
 HOST,cdn.solvvy.com,LIST
+HOST,cdn.split.io,LIST
 HOST,cdn.sprig.com,LIST
 HOST,cdn.sstatic.net,LIST
 HOST,cdn.tailwindcss.com,LIST
@@ -563,6 +566,7 @@ HOST,p.twitchcdn.net,LIST
 HOST,p.typekit.com,LIST
 HOST,p.typekit.net,LIST
 HOST,packages.argotunnel.com,LIST
+HOST,packages.httpie.io,LIST
 HOST,packages.jetbrains.team,LIST
 HOST,participants.evolv.ai,LIST
 HOST,parts.blog.livedoor.jp,LIST
@@ -607,6 +611,7 @@ HOST,quriobot.com,LIST
 HOST,raw.github.com,LIST
 HOST,rebound.postmarkapp.com,LIST
 HOST,registry.bower.io,LIST
+HOST,registry.npmjs.cf,LIST
 HOST,registry.npmjs.com,LIST
 HOST,registry.npmjs.org,LIST
 HOST,renderer-assets.typeform.com,LIST
@@ -652,6 +657,7 @@ HOST,s3.eu-central-2.wasabisys.com,LIST
 HOST,s3.filebase.com,LIST
 HOST,s3.m.0x.mk,LIST
 HOST,s3.masto.ai,LIST
+HOST,s3.stackabuse.com,LIST
 HOST,s3.toot.io,LIST
 HOST,s3.wp.com,LIST
 HOST,s3media.squarespace.com,LIST
@@ -706,6 +712,7 @@ HOST,static.addtoany.com,LIST
 HOST,static.adguardvpn.com,LIST
 HOST,static.agilebits.com,LIST
 HOST,static.apkpure.com,LIST
+HOST,static.arxiv.org,LIST
 HOST,static.assetlab.io,LIST
 HOST,static.bit.cloud,LIST
 HOST,static.bit.dev,LIST
@@ -796,6 +803,7 @@ HOST,steamuserimages-a.akamaihd.net,LIST
 HOST,steamvideo-a.akamaihd.net,LIST
 HOST,storage.crisp.chat,LIST
 HOST,storage.gra.cloud.ovh.net,LIST
+HOST,storage.sciencecast.org,LIST
 HOST,storageapi.fleek.co,LIST
 HOST,storageapi.fleek.one,LIST
 HOST,storageapi2.fleek.co,LIST
@@ -817,6 +825,7 @@ HOST,thumbs44.redgifs.com,LIST
 HOST,thumbsnap.com,LIST
 HOST,tiles.stadiamaps.com,LIST
 HOST,topbar-static.piano.io,LIST
+HOST,tvdownloaddw-a.akamaihd.net,LIST
 HOST,twemoji.maxcdn.com,LIST
 HOST,typeface.nyt.com,LIST
 HOST,typescript.azureedge.net,LIST
@@ -863,6 +872,7 @@ HOST,web-toolbar.playstation.com,LIST
 HOST,web.onekey-asset.com,LIST
 HOST,webfonts.zoho.com,LIST
 HOST,webpack.js.org,LIST
+HOST,website-cdn.ipinfo.io,LIST
 HOST,widget.intercom.io,LIST
 HOST,widget.trustpilot.com,LIST
 HOST,widget.user.com,LIST
@@ -1166,6 +1176,7 @@ HOST-SUFFIX,nodejs.org,LIST
 HOST-SUFFIX,nordcdn.com,LIST
 HOST-SUFFIX,notion-static.com,LIST
 HOST-SUFFIX,now.sh,LIST
+HOST-SUFFIX,npm.staticblitz.com,LIST
 HOST-SUFFIX,odycdn.com,LIST
 HOST-SUFFIX,oktacdn.com,LIST
 HOST-SUFFIX,olemovienews.com,LIST
@@ -1173,6 +1184,7 @@ HOST-SUFFIX,ominisrc.com,LIST
 HOST-SUFFIX,omnisnippet1.com,LIST
 HOST-SUFFIX,onrender.com,LIST
 HOST-SUFFIX,operacdn.com,LIST
+HOST-SUFFIX,oreillystatic.com,LIST
 HOST-SUFFIX,packagist.org,LIST
 HOST-SUFFIX,packd.liuxingbaoyu.xyz,LIST
 HOST-SUFFIX,pagecdn.io,LIST
@@ -1313,6 +1325,7 @@ HOST-SUFFIX,sqspcdn.com,LIST
 HOST-SUFFIX,squarespace-cdn.com,LIST
 HOST-SUFFIX,ssl-images-amazon.com,LIST
 HOST-SUFFIX,stack.imgur.com,LIST
+HOST-SUFFIX,stackblitz.io,LIST
 HOST-SUFFIX,static2cdn.hubspot.com,LIST
 HOST-SUFFIX,statically.io,LIST
 HOST-SUFFIX,staticaly.com,LIST

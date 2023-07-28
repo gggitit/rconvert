@@ -1,5 +1,5 @@
-# Main total line 4141
-# Last updated Tue 07/25/2023 22:16:02.74
+# Main total line 4156
+# Last updated Fri 07/28/2023 22:15:52.38
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -7,6 +7,7 @@ DOMAIN,a.deviantart.net
 DOMAIN,a5.behance.net
 DOMAIN,aff.equalweb.com
 DOMAIN,ajax.cat.net
+DOMAIN,ajax.cdnjs.com
 DOMAIN,ajax.googleapis.com
 DOMAIN,ajax.microsoft.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
@@ -220,6 +221,7 @@ DOMAIN,cdn.roboflow.com
 DOMAIN,cdn.safecharge.com
 DOMAIN,cdn.sanity.io
 DOMAIN,cdn.sc.gl
+DOMAIN,cdn.sciencecast.org
 DOMAIN,cdn.search.brave.com
 DOMAIN,cdn.sellix.io
 DOMAIN,cdn.setapp.com
@@ -229,6 +231,7 @@ DOMAIN,cdn.sketch.com
 DOMAIN,cdn.skk.moe
 DOMAIN,cdn.smooch.io
 DOMAIN,cdn.solvvy.com
+DOMAIN,cdn.split.io
 DOMAIN,cdn.sprig.com
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.termius.com
@@ -320,6 +323,7 @@ DOMAIN,down.filen-4.net
 DOMAIN,down.filen-5.net
 DOMAIN,down.filen.io
 DOMAIN,down.filen.net
+DOMAIN,download.anydesk.com
 DOMAIN,download.maxmind.com
 DOMAIN,download.mozilla.org
 DOMAIN,download.parallels.com
@@ -575,6 +579,7 @@ DOMAIN,p.bstarstatic.com
 DOMAIN,p.typekit.com
 DOMAIN,p.typekit.net
 DOMAIN,packages.argotunnel.com
+DOMAIN,packages.httpie.io
 DOMAIN,participants.evolv.ai
 DOMAIN,parts.blog.livedoor.jp
 DOMAIN,pcz.javidol.org
@@ -612,8 +617,10 @@ DOMAIN,quriobot.com
 DOMAIN,raw.github.com
 DOMAIN,rebound.postmarkapp.com
 DOMAIN,registry.bower.io
+DOMAIN,registry.npmjs.cf
 DOMAIN,registry.npmjs.com
 DOMAIN,registry.npmjs.org
+DOMAIN,releases.arc.net
 DOMAIN,renderer-assets.typeform.com
 DOMAIN,repo1.maven.org
 DOMAIN,repository.jboss.org
@@ -656,6 +663,7 @@ DOMAIN,s3.eu-central-2.wasabisys.com
 DOMAIN,s3.filebase.com
 DOMAIN,s3.m.0x.mk
 DOMAIN,s3.masto.ai
+DOMAIN,s3.stackabuse.com
 DOMAIN,s3.toot.io
 DOMAIN,s3.wp.com
 DOMAIN,s3media.squarespace.com
@@ -706,6 +714,7 @@ DOMAIN,static.ada.support
 DOMAIN,static.addtoany.com
 DOMAIN,static.adguardvpn.com
 DOMAIN,static.agilebits.com
+DOMAIN,static.arxiv.org
 DOMAIN,static.assetlab.io
 DOMAIN,static.bit.cloud
 DOMAIN,static.bit.dev
@@ -779,6 +788,7 @@ DOMAIN,staticw2.yotpo.com
 DOMAIN,steamusercontent.com
 DOMAIN,storage.crisp.chat
 DOMAIN,storage.gra.cloud.ovh.net
+DOMAIN,storage.sciencecast.org
 DOMAIN,storageapi.fleek.co
 DOMAIN,storageapi.fleek.one
 DOMAIN,storageapi2.fleek.co
@@ -840,6 +850,7 @@ DOMAIN,web-toolbar.playstation.com
 DOMAIN,web.onekey-asset.com
 DOMAIN,webfonts.zoho.com
 DOMAIN,webpack.js.org
+DOMAIN,website-cdn.ipinfo.io
 DOMAIN,widget.intercom.io
 DOMAIN,widget.trustpilot.com
 DOMAIN,widget.user.com
@@ -984,6 +995,7 @@ DOMAIN-SUFFIX,amazonaws.co.uk
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,amazontools.com
 DOMAIN-SUFFIX,amazonuniversity.jobs
 DOMAIN-SUFFIX,amazonvideo.cc
 DOMAIN-SUFFIX,amazonvideo.com
@@ -2380,6 +2392,7 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,nowestatic.com
 DOMAIN-SUFFIX,nowvideo.club
+DOMAIN-SUFFIX,npm.staticblitz.com
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,nypost.help
@@ -2414,6 +2427,7 @@ DOMAIN-SUFFIX,openload.co
 DOMAIN-SUFFIX,operacdn.com
 DOMAIN-SUFFIX,optifine.net
 DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN-SUFFIX,originalhulu.com
 DOMAIN-SUFFIX,orlandohurricane.com
 DOMAIN-SUFFIX,ortofiles.com
@@ -2712,6 +2726,7 @@ DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,stack.imgur.com
+DOMAIN-SUFFIX,stackblitz.io
 DOMAIN-SUFFIX,stackpathcdn.com
 DOMAIN-SUFFIX,star-brasil.com
 DOMAIN-SUFFIX,star-latam.com

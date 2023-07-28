@@ -1,5 +1,5 @@
-# Quantumult total line 4076
-# Last updated Tue 07/25/2023 22:16:11.09
+# Quantumult total line 4080
+# Last updated Fri 07/28/2023 22:16:00.80
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -22,6 +22,7 @@ HOST,raw.iqiq.io,LIST
 HOST,sms.imagetasks.com,LIST
 HOST,steamcommunity-a.akamaihd.net,LIST
 HOST,upos-hz-mirrorakam.akamaized.net,LIST
+HOST,www.layuicdn.com,LIST
 HOST,www.libvideo.com,LIST
 HOST,www.yxssp.com,LIST
 HOST-KEYWORD,.tmall.com,LIST
@@ -128,6 +129,7 @@ HOST-SUFFIX,3000.com,LIST
 HOST-SUFFIX,300hu.com,LIST
 HOST-SUFFIX,310win.com,LIST
 HOST-SUFFIX,315che.com,LIST
+HOST-SUFFIX,321fenx.com,LIST
 HOST-SUFFIX,3234.com,LIST
 HOST-SUFFIX,32r.com,LIST
 HOST-SUFFIX,3304399.com,LIST
@@ -1309,6 +1311,7 @@ HOST-SUFFIX,eflycloud.com,LIST
 HOST-SUFFIX,ele.me,LIST
 HOST-SUFFIX,elecfans.com,LIST
 HOST-SUFFIX,elemecdn.com,LIST
+HOST-SUFFIX,element-plus.org,LIST
 HOST-SUFFIX,elong.com,LIST
 HOST-SUFFIX,emarbox.com,LIST
 HOST-SUFFIX,emas-poc.com,LIST
@@ -2161,6 +2164,7 @@ HOST-SUFFIX,la-north-2.myhuaweicloud.com,LIST
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,LIST
 HOST-SUFFIX,lady8844.com,LIST
 HOST-SUFFIX,lagou.com,LIST
+HOST-SUFFIX,laiqukankan.com,LIST
 HOST-SUFFIX,laiwang.com,LIST
 HOST-SUFFIX,lancdn.com,LIST
 HOST-SUFFIX,lancdns.com,LIST

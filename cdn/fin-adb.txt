@@ -1,5 +1,5 @@
-# Adblock total line 1392
-# Last updated Tue 07/25/2023 22:15:51.75
+# Adblock total line 1405
+# Last updated Fri 07/28/2023 22:15:40.83
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -8,6 +8,7 @@
 ||a57.foxnews.com^
 ||aff.equalweb.com^
 ||ajax.cat.net^
+||ajax.cdnjs.com^
 ||ajax.googleapis.com^
 ||ajax.microsoft.com^
 ||alt-images.codestream.com^
@@ -219,6 +220,7 @@
 ||cdn.safecharge.com^
 ||cdn.sanity.io^
 ||cdn.sc.gl^
+||cdn.sciencecast.org^
 ||cdn.search.brave.com^
 ||cdn.segment.com^
 ||cdn.sellix.io^
@@ -229,6 +231,7 @@
 ||cdn.skk.moe^
 ||cdn.smooch.io^
 ||cdn.solvvy.com^
+||cdn.split.io^
 ||cdn.sprig.com^
 ||cdn.sstatic.net^
 ||cdn.tailwindcss.com^
@@ -563,6 +566,7 @@
 ||p.typekit.com^
 ||p.typekit.net^
 ||packages.argotunnel.com^
+||packages.httpie.io^
 ||packages.jetbrains.team^
 ||participants.evolv.ai^
 ||parts.blog.livedoor.jp^
@@ -607,6 +611,7 @@
 ||raw.github.com^
 ||rebound.postmarkapp.com^
 ||registry.bower.io^
+||registry.npmjs.cf^
 ||registry.npmjs.com^
 ||registry.npmjs.org^
 ||renderer-assets.typeform.com^
@@ -652,6 +657,7 @@
 ||s3.filebase.com^
 ||s3.m.0x.mk^
 ||s3.masto.ai^
+||s3.stackabuse.com^
 ||s3.toot.io^
 ||s3.wp.com^
 ||s3media.squarespace.com^
@@ -706,6 +712,7 @@
 ||static.adguardvpn.com^
 ||static.agilebits.com^
 ||static.apkpure.com^
+||static.arxiv.org^
 ||static.assetlab.io^
 ||static.bit.cloud^
 ||static.bit.dev^
@@ -796,6 +803,7 @@
 ||steamvideo-a.akamaihd.net^
 ||storage.crisp.chat^
 ||storage.gra.cloud.ovh.net^
+||storage.sciencecast.org^
 ||storageapi.fleek.co^
 ||storageapi.fleek.one^
 ||storageapi2.fleek.co^
@@ -817,6 +825,7 @@
 ||thumbsnap.com^
 ||tiles.stadiamaps.com^
 ||topbar-static.piano.io^
+||tvdownloaddw-a.akamaihd.net^
 ||twemoji.maxcdn.com^
 ||typeface.nyt.com^
 ||typescript.azureedge.net^
@@ -863,6 +872,7 @@
 ||web.onekey-asset.com^
 ||webfonts.zoho.com^
 ||webpack.js.org^
+||website-cdn.ipinfo.io^
 ||widget.intercom.io^
 ||widget.trustpilot.com^
 ||widget.user.com^
@@ -1166,6 +1176,7 @@
 ||nordcdn.com^
 ||notion-static.com^
 ||now.sh^
+||npm.staticblitz.com^
 ||odycdn.com^
 ||oktacdn.com^
 ||olemovienews.com^
@@ -1173,6 +1184,7 @@
 ||omnisnippet1.com^
 ||onrender.com^
 ||operacdn.com^
+||oreillystatic.com^
 ||packagist.org^
 ||packd.liuxingbaoyu.xyz^
 ||pagecdn.io^
@@ -1313,6 +1325,7 @@
 ||squarespace-cdn.com^
 ||ssl-images-amazon.com^
 ||stack.imgur.com^
+||stackblitz.io^
 ||static2cdn.hubspot.com^
 ||statically.io^
 ||staticaly.com^

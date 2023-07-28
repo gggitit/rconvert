@@ -1,5 +1,5 @@
-# Adblock total line 3125
-# Last updated Tue 07/25/2023 22:16:03.07
+# Adblock total line 3140
+# Last updated Fri 07/28/2023 22:15:52.73
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -7,6 +7,7 @@
 ||a5.behance.net^
 ||aff.equalweb.com^
 ||ajax.cat.net^
+||ajax.cdnjs.com^
 ||ajax.googleapis.com^
 ||ajax.microsoft.com^
 ||akmcdnoversea-tw.inter.ptqy.gitv.tv^
@@ -220,6 +221,7 @@
 ||cdn.safecharge.com^
 ||cdn.sanity.io^
 ||cdn.sc.gl^
+||cdn.sciencecast.org^
 ||cdn.search.brave.com^
 ||cdn.sellix.io^
 ||cdn.setapp.com^
@@ -229,6 +231,7 @@
 ||cdn.skk.moe^
 ||cdn.smooch.io^
 ||cdn.solvvy.com^
+||cdn.split.io^
 ||cdn.sprig.com^
 ||cdn.tailwindcss.com^
 ||cdn.termius.com^
@@ -320,6 +323,7 @@
 ||down.filen-5.net^
 ||down.filen.io^
 ||down.filen.net^
+||download.anydesk.com^
 ||download.maxmind.com^
 ||download.mozilla.org^
 ||download.parallels.com^
@@ -575,6 +579,7 @@
 ||p.typekit.com^
 ||p.typekit.net^
 ||packages.argotunnel.com^
+||packages.httpie.io^
 ||participants.evolv.ai^
 ||parts.blog.livedoor.jp^
 ||pcz.javidol.org^
@@ -612,8 +617,10 @@
 ||raw.github.com^
 ||rebound.postmarkapp.com^
 ||registry.bower.io^
+||registry.npmjs.cf^
 ||registry.npmjs.com^
 ||registry.npmjs.org^
+||releases.arc.net^
 ||renderer-assets.typeform.com^
 ||repo1.maven.org^
 ||repository.jboss.org^
@@ -656,6 +663,7 @@
 ||s3.filebase.com^
 ||s3.m.0x.mk^
 ||s3.masto.ai^
+||s3.stackabuse.com^
 ||s3.toot.io^
 ||s3.wp.com^
 ||s3media.squarespace.com^
@@ -706,6 +714,7 @@
 ||static.addtoany.com^
 ||static.adguardvpn.com^
 ||static.agilebits.com^
+||static.arxiv.org^
 ||static.assetlab.io^
 ||static.bit.cloud^
 ||static.bit.dev^
@@ -779,6 +788,7 @@
 ||steamusercontent.com^
 ||storage.crisp.chat^
 ||storage.gra.cloud.ovh.net^
+||storage.sciencecast.org^
 ||storageapi.fleek.co^
 ||storageapi.fleek.one^
 ||storageapi2.fleek.co^
@@ -840,6 +850,7 @@
 ||web.onekey-asset.com^
 ||webfonts.zoho.com^
 ||webpack.js.org^
+||website-cdn.ipinfo.io^
 ||widget.intercom.io^
 ||widget.trustpilot.com^
 ||widget.user.com^
@@ -984,6 +995,7 @@
 ||amazonaws.com^
 ||amazonprimevideo.cn^
 ||amazonprimevideos.com^
+||amazontools.com^
 ||amazonuniversity.jobs^
 ||amazonvideo.cc^
 ||amazonvideo.com^
@@ -2380,6 +2392,7 @@
 ||nowe.hk^
 ||nowestatic.com^
 ||nowvideo.club^
+||npm.staticblitz.com^
 ||nsstatic.net^
 ||nypost.com^
 ||nypost.help^
@@ -2414,6 +2427,7 @@
 ||operacdn.com^
 ||optifine.net^
 ||oracle.com^
+||oreillystatic.com^
 ||originalhulu.com^
 ||orlandohurricane.com^
 ||ortofiles.com^
@@ -2712,6 +2726,7 @@
 ||st.dl.eccdnx.com^
 ||st.dl.pinyuncloud.com^
 ||stack.imgur.com^
+||stackblitz.io^
 ||stackpathcdn.com^
 ||star-brasil.com^
 ||star-latam.com^

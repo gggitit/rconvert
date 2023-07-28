@@ -1,5 +1,5 @@
-# Quantumult total line 4128
-# Last updated Tue 07/25/2023 22:16:02.89
+# Quantumult total line 4143
+# Last updated Fri 07/28/2023 22:15:52.55
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -7,6 +7,7 @@ HOST,a.deviantart.net,LIST
 HOST,a5.behance.net,LIST
 HOST,aff.equalweb.com,LIST
 HOST,ajax.cat.net,LIST
+HOST,ajax.cdnjs.com,LIST
 HOST,ajax.googleapis.com,LIST
 HOST,ajax.microsoft.com,LIST
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
@@ -220,6 +221,7 @@ HOST,cdn.roboflow.com,LIST
 HOST,cdn.safecharge.com,LIST
 HOST,cdn.sanity.io,LIST
 HOST,cdn.sc.gl,LIST
+HOST,cdn.sciencecast.org,LIST
 HOST,cdn.search.brave.com,LIST
 HOST,cdn.sellix.io,LIST
 HOST,cdn.setapp.com,LIST
@@ -229,6 +231,7 @@ HOST,cdn.sketch.com,LIST
 HOST,cdn.skk.moe,LIST
 HOST,cdn.smooch.io,LIST
 HOST,cdn.solvvy.com,LIST
+HOST,cdn.split.io,LIST
 HOST,cdn.sprig.com,LIST
 HOST,cdn.tailwindcss.com,LIST
 HOST,cdn.termius.com,LIST
@@ -320,6 +323,7 @@ HOST,down.filen-4.net,LIST
 HOST,down.filen-5.net,LIST
 HOST,down.filen.io,LIST
 HOST,down.filen.net,LIST
+HOST,download.anydesk.com,LIST
 HOST,download.maxmind.com,LIST
 HOST,download.mozilla.org,LIST
 HOST,download.parallels.com,LIST
@@ -575,6 +579,7 @@ HOST,p.bstarstatic.com,LIST
 HOST,p.typekit.com,LIST
 HOST,p.typekit.net,LIST
 HOST,packages.argotunnel.com,LIST
+HOST,packages.httpie.io,LIST
 HOST,participants.evolv.ai,LIST
 HOST,parts.blog.livedoor.jp,LIST
 HOST,pcz.javidol.org,LIST
@@ -612,8 +617,10 @@ HOST,quriobot.com,LIST
 HOST,raw.github.com,LIST
 HOST,rebound.postmarkapp.com,LIST
 HOST,registry.bower.io,LIST
+HOST,registry.npmjs.cf,LIST
 HOST,registry.npmjs.com,LIST
 HOST,registry.npmjs.org,LIST
+HOST,releases.arc.net,LIST
 HOST,renderer-assets.typeform.com,LIST
 HOST,repo1.maven.org,LIST
 HOST,repository.jboss.org,LIST
@@ -656,6 +663,7 @@ HOST,s3.eu-central-2.wasabisys.com,LIST
 HOST,s3.filebase.com,LIST
 HOST,s3.m.0x.mk,LIST
 HOST,s3.masto.ai,LIST
+HOST,s3.stackabuse.com,LIST
 HOST,s3.toot.io,LIST
 HOST,s3.wp.com,LIST
 HOST,s3media.squarespace.com,LIST
@@ -706,6 +714,7 @@ HOST,static.ada.support,LIST
 HOST,static.addtoany.com,LIST
 HOST,static.adguardvpn.com,LIST
 HOST,static.agilebits.com,LIST
+HOST,static.arxiv.org,LIST
 HOST,static.assetlab.io,LIST
 HOST,static.bit.cloud,LIST
 HOST,static.bit.dev,LIST
@@ -779,6 +788,7 @@ HOST,staticw2.yotpo.com,LIST
 HOST,steamusercontent.com,LIST
 HOST,storage.crisp.chat,LIST
 HOST,storage.gra.cloud.ovh.net,LIST
+HOST,storage.sciencecast.org,LIST
 HOST,storageapi.fleek.co,LIST
 HOST,storageapi.fleek.one,LIST
 HOST,storageapi2.fleek.co,LIST
@@ -840,6 +850,7 @@ HOST,web-toolbar.playstation.com,LIST
 HOST,web.onekey-asset.com,LIST
 HOST,webfonts.zoho.com,LIST
 HOST,webpack.js.org,LIST
+HOST,website-cdn.ipinfo.io,LIST
 HOST,widget.intercom.io,LIST
 HOST,widget.trustpilot.com,LIST
 HOST,widget.user.com,LIST
@@ -984,6 +995,7 @@ HOST-SUFFIX,amazonaws.co.uk,LIST
 HOST-SUFFIX,amazonaws.com,LIST
 HOST-SUFFIX,amazonprimevideo.cn,LIST
 HOST-SUFFIX,amazonprimevideos.com,LIST
+HOST-SUFFIX,amazontools.com,LIST
 HOST-SUFFIX,amazonuniversity.jobs,LIST
 HOST-SUFFIX,amazonvideo.cc,LIST
 HOST-SUFFIX,amazonvideo.com,LIST
@@ -2380,6 +2392,7 @@ HOST-SUFFIX,nowe.com,LIST
 HOST-SUFFIX,nowe.hk,LIST
 HOST-SUFFIX,nowestatic.com,LIST
 HOST-SUFFIX,nowvideo.club,LIST
+HOST-SUFFIX,npm.staticblitz.com,LIST
 HOST-SUFFIX,nsstatic.net,LIST
 HOST-SUFFIX,nypost.com,LIST
 HOST-SUFFIX,nypost.help,LIST
@@ -2414,6 +2427,7 @@ HOST-SUFFIX,openload.co,LIST
 HOST-SUFFIX,operacdn.com,LIST
 HOST-SUFFIX,optifine.net,LIST
 HOST-SUFFIX,oracle.com,LIST
+HOST-SUFFIX,oreillystatic.com,LIST
 HOST-SUFFIX,originalhulu.com,LIST
 HOST-SUFFIX,orlandohurricane.com,LIST
 HOST-SUFFIX,ortofiles.com,LIST
@@ -2712,6 +2726,7 @@ HOST-SUFFIX,st.dl.bscstorage.net,LIST
 HOST-SUFFIX,st.dl.eccdnx.com,LIST
 HOST-SUFFIX,st.dl.pinyuncloud.com,LIST
 HOST-SUFFIX,stack.imgur.com,LIST
+HOST-SUFFIX,stackblitz.io,LIST
 HOST-SUFFIX,stackpathcdn.com,LIST
 HOST-SUFFIX,star-brasil.com,LIST
 HOST-SUFFIX,star-latam.com,LIST
