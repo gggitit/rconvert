@@ -1,5 +1,5 @@
-# Adblock total line 3159
-# Last updated Tue 08/01/2023 22:16:04.95
+# Adblock total line 3172
+# Last updated Fri 08/04/2023 22:16:26.73
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -25,6 +25,7 @@
 ||apm-misaka.biliapi.net^
 ||app-api.vidjet.io^
 ||app-spm.com^
+||app.backinstock.org^
 ||app.chatwoot.com^
 ||app.roboflow.com^
 ||apple.comscoreresearch.com^
@@ -214,6 +215,7 @@
 ||cdn.pagic.org^
 ||cdn.perfops.net^
 ||cdn.piano.io^
+||cdn.pickystory.com^
 ||cdn.pika.dev^
 ||cdn.pixabay.com^
 ||cdn.pricespider.com^
@@ -329,12 +331,14 @@
 ||down.filen.io^
 ||down.filen.net^
 ||download.anydesk.com^
+||download.beeper.com^
 ||download.maxmind.com^
 ||download.mozilla.org^
 ||download.nektony.com^
 ||download.parallels.com^
 ||download.pixelexperience.org^
 ||download.sketch.com^
+||download.todesktop.com^
 ||download.visualstudio.microsoft.com^
 ||downloadr2.apkmirror.com^
 ||e3.365dm.com^
@@ -385,6 +389,7 @@
 ||fonts1.unidays.world^
 ||forest-mt-s3.seekrtech.com^
 ||formulae.brew.sh^
+||frames-commandbar-prod.commandbar.com^
 ||genesis-cdn.ff.com^
 ||geoip-js.com^
 ||get.pixelexperience.org^
@@ -453,6 +458,7 @@
 ||images.weserv.nl^
 ||images.wikia.com^
 ||imagizer.imageshack.com^
+||img.badgesize.io^
 ||img.bigcloud.cyou^
 ||img.biguz.net^
 ||img.bttimg.com^
@@ -626,6 +632,7 @@
 ||publicsuffix.org^
 ||quriobot.com^
 ||raw.github.com^
+||react.dev^
 ||rebound.postmarkapp.com^
 ||registry.bower.io^
 ||registry.npmjs.cf^
@@ -685,6 +692,8 @@
 ||scontent.whatsapp.net^
 ||sdk.qikify.com^
 ||seal-newyork.bbb.org^
+||searchanise-ef84.kxcdn.com^
+||searchserverapi.com^
 ||seccdn.libravatar.org^
 ||secure.fanboy.co.nz^
 ||services.linkfire.com^
@@ -751,6 +760,7 @@
 ||static.gettyimages.com^
 ||static.gopro.com^
 ||static.heavy-r.com^
+||static.helpjuice.com^
 ||static.hotjar.com^
 ||static.incapsula.com^
 ||static.independent.co.uk^
@@ -857,6 +867,7 @@
 ||vjs.zencdn.net^
 ||vscode-sync-insiders.trafficmanager.net^
 ||vscode-sync.trafficmanager.net^
+||vuejs.org^
 ||w2.influxdata.com^
 ||wac-cdn-2.atlassian.com^
 ||wac-cdn.atlassian.com^
@@ -2232,6 +2243,7 @@
 ||mbamupdates.com^
 ||media-amazon.com^
 ||media-imdb.com^
+||media.beeper.com^
 ||media.tumblr.com^
 ||mediafire.com^
 ||mediafree.co^
@@ -2826,6 +2838,7 @@
 ||tik-tokapi.com^
 ||tiktok.com^
 ||tiktokv.com^
+||tildacdn.com^
 ||timestalks.com^
 ||tinypass.com^
 ||tinyupload.com^

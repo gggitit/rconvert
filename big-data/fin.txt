@@ -1,5 +1,5 @@
-# Main total line 4175
-# Last updated Tue 08/01/2023 22:16:04.62
+# Main total line 4188
+# Last updated Fri 08/04/2023 22:16:26.30
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -25,6 +25,7 @@ DOMAIN,api.web3.storage
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,app-api.vidjet.io
 DOMAIN,app-spm.com
+DOMAIN,app.backinstock.org
 DOMAIN,app.chatwoot.com
 DOMAIN,app.roboflow.com
 DOMAIN,apple.comscoreresearch.com
@@ -214,6 +215,7 @@ DOMAIN,cdn.pagefly.io
 DOMAIN,cdn.pagic.org
 DOMAIN,cdn.perfops.net
 DOMAIN,cdn.piano.io
+DOMAIN,cdn.pickystory.com
 DOMAIN,cdn.pika.dev
 DOMAIN,cdn.pixabay.com
 DOMAIN,cdn.pricespider.com
@@ -329,12 +331,14 @@ DOMAIN,down.filen-5.net
 DOMAIN,down.filen.io
 DOMAIN,down.filen.net
 DOMAIN,download.anydesk.com
+DOMAIN,download.beeper.com
 DOMAIN,download.maxmind.com
 DOMAIN,download.mozilla.org
 DOMAIN,download.nektony.com
 DOMAIN,download.parallels.com
 DOMAIN,download.pixelexperience.org
 DOMAIN,download.sketch.com
+DOMAIN,download.todesktop.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloadr2.apkmirror.com
 DOMAIN,e3.365dm.com
@@ -385,6 +389,7 @@ DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
 DOMAIN,formulae.brew.sh
+DOMAIN,frames-commandbar-prod.commandbar.com
 DOMAIN,genesis-cdn.ff.com
 DOMAIN,geoip-js.com
 DOMAIN,get.pixelexperience.org
@@ -453,6 +458,7 @@ DOMAIN,images.web3.storage
 DOMAIN,images.weserv.nl
 DOMAIN,images.wikia.com
 DOMAIN,imagizer.imageshack.com
+DOMAIN,img.badgesize.io
 DOMAIN,img.bigcloud.cyou
 DOMAIN,img.biguz.net
 DOMAIN,img.bttimg.com
@@ -626,6 +632,7 @@ DOMAIN,public-files.gumroad.com
 DOMAIN,publicsuffix.org
 DOMAIN,quriobot.com
 DOMAIN,raw.github.com
+DOMAIN,react.dev
 DOMAIN,rebound.postmarkapp.com
 DOMAIN,registry.bower.io
 DOMAIN,registry.npmjs.cf
@@ -685,6 +692,8 @@ DOMAIN,sandpack-cdn-staging.blazingly.io
 DOMAIN,scontent.whatsapp.net
 DOMAIN,sdk.qikify.com
 DOMAIN,seal-newyork.bbb.org
+DOMAIN,searchanise-ef84.kxcdn.com
+DOMAIN,searchserverapi.com
 DOMAIN,seccdn.libravatar.org
 DOMAIN,secure.fanboy.co.nz
 DOMAIN,services.linkfire.com
@@ -751,6 +760,7 @@ DOMAIN,static.getbutton.io
 DOMAIN,static.gettyimages.com
 DOMAIN,static.gopro.com
 DOMAIN,static.heavy-r.com
+DOMAIN,static.helpjuice.com
 DOMAIN,static.hotjar.com
 DOMAIN,static.incapsula.com
 DOMAIN,static.independent.co.uk
@@ -857,6 +867,7 @@ DOMAIN,videos.elephas.app
 DOMAIN,vjs.zencdn.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
+DOMAIN,vuejs.org
 DOMAIN,w2.influxdata.com
 DOMAIN,wac-cdn-2.atlassian.com
 DOMAIN,wac-cdn.atlassian.com
@@ -2232,6 +2243,7 @@ DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,mbamupdates.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,media.beeper.com
 DOMAIN-SUFFIX,media.tumblr.com
 DOMAIN-SUFFIX,mediafire.com
 DOMAIN-SUFFIX,mediafree.co
@@ -2826,6 +2838,7 @@ DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,timestalks.com
 DOMAIN-SUFFIX,tinypass.com
 DOMAIN-SUFFIX,tinyupload.com
