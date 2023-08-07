@@ -1,5 +1,5 @@
-# Adblock total line 1433
-# Last updated Fri 08/04/2023 22:16:10.91
+# Adblock total line 1439
+# Last updated Mon 08/07/2023 22:15:44.31
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -180,6 +180,7 @@
 ||cdn.glitch.global^
 ||cdn.glitch.me^
 ||cdn.hackernoon.com^
+||cdn.hashnode.com^
 ||cdn.hellofresh.com^
 ||cdn.hentaibomb.com^
 ||cdn.heysavvy.com^
@@ -261,7 +262,6 @@
 ||cdn0.dan.com^
 ||cdn1.dan.com^
 ||cdn1.epicgames.com^
-||cdn1.hubspotusercontent-eu1.net^
 ||cdn1.stamped.io^
 ||cdn1.unrealengine.com^
 ||cdn10.hiftporn.fun^
@@ -414,6 +414,7 @@
 ||ichef.bbci.co.uk^
 ||icons.buffer.com^
 ||icons.duckduckgo.com^
+||iframe.nbcnews.com^
 ||imag.malavida.com^
 ||image.civitai.com^
 ||image.crisp.chat^
@@ -506,6 +507,7 @@
 ||maven.google.com^
 ||media-cdn.comfy.social^
 ||media-cdn.epicgames.com^
+||media-cldnry.s-nbcnews.com^
 ||media-s3-eu-west-1.ceros.com^
 ||media-s3-us-east-1.ceros.com^
 ||media-s3-us-west-1.ceros.com^
@@ -554,12 +556,14 @@
 ||mstdn-s3.o3o.studio^
 ||mwcm.nyt.com^
 ||mwf-service.akamaized.net^
+||mycommerce.akamaized.net^
 ||na-library.klarnaservices.com^
 ||navismithapis-cdn.com^
 ||newsletter.postmarkapp.com^
 ||next-images.opencollective.com^
 ||ni-assets.azureedge.net^
 ||nightly.link^
+||nodeassets.nbcnews.com^
 ||nr.staticblitz.com^
 ||o.n1mp.org^
 ||objects.g0v.social^
@@ -1049,7 +1053,6 @@
 ||fonts.net^
 ||framerstatic.com^
 ||framerusercontent.com^
-||fs1.hubspotusercontent-eu1.net^
 ||fsdn.com^
 ||futurecdn.net^
 ||gateway.ipfs.io^
@@ -1083,7 +1086,10 @@
 ||hs-scripts.net^
 ||hsappstatic.net^
 ||hscollectedforms.net^
+||hubspotusercontent-eu1.net^
+||hubspotusercontent-na1.net^
 ||hubspotusercontent30.com^
+||hubspotusercontent30.net^
 ||ibytedtos.com^
 ||iframe.ly^
 ||ignimgs.com^

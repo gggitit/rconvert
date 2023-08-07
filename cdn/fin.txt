@@ -1,5 +1,5 @@
-# Main total line 1433
-# Last updated Fri 08/04/2023 22:16:10.59
+# Main total line 1439
+# Last updated Mon 08/07/2023 22:15:44.06
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -180,6 +180,7 @@ DOMAIN,cdn.glitch.com
 DOMAIN,cdn.glitch.global
 DOMAIN,cdn.glitch.me
 DOMAIN,cdn.hackernoon.com
+DOMAIN,cdn.hashnode.com
 DOMAIN,cdn.hellofresh.com
 DOMAIN,cdn.hentaibomb.com
 DOMAIN,cdn.heysavvy.com
@@ -261,7 +262,6 @@ DOMAIN,cdn.ziffstatic.com
 DOMAIN,cdn0.dan.com
 DOMAIN,cdn1.dan.com
 DOMAIN,cdn1.epicgames.com
-DOMAIN,cdn1.hubspotusercontent-eu1.net
 DOMAIN,cdn1.stamped.io
 DOMAIN,cdn1.unrealengine.com
 DOMAIN,cdn10.hiftporn.fun
@@ -414,6 +414,7 @@ DOMAIN,i9.ytimg.com
 DOMAIN,ichef.bbci.co.uk
 DOMAIN,icons.buffer.com
 DOMAIN,icons.duckduckgo.com
+DOMAIN,iframe.nbcnews.com
 DOMAIN,imag.malavida.com
 DOMAIN,image.civitai.com
 DOMAIN,image.crisp.chat
@@ -506,6 +507,7 @@ DOMAIN,mastodon-static.miao.dev
 DOMAIN,maven.google.com
 DOMAIN,media-cdn.comfy.social
 DOMAIN,media-cdn.epicgames.com
+DOMAIN,media-cldnry.s-nbcnews.com
 DOMAIN,media-s3-eu-west-1.ceros.com
 DOMAIN,media-s3-us-east-1.ceros.com
 DOMAIN,media-s3-us-west-1.ceros.com
@@ -554,12 +556,14 @@ DOMAIN,mobilecenter.azureedge.net
 DOMAIN,mstdn-s3.o3o.studio
 DOMAIN,mwcm.nyt.com
 DOMAIN,mwf-service.akamaized.net
+DOMAIN,mycommerce.akamaized.net
 DOMAIN,na-library.klarnaservices.com
 DOMAIN,navismithapis-cdn.com
 DOMAIN,newsletter.postmarkapp.com
 DOMAIN,next-images.opencollective.com
 DOMAIN,ni-assets.azureedge.net
 DOMAIN,nightly.link
+DOMAIN,nodeassets.nbcnews.com
 DOMAIN,nr.staticblitz.com
 DOMAIN,o.n1mp.org
 DOMAIN,objects.g0v.social
@@ -1049,7 +1053,6 @@ DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,framerusercontent.com
-DOMAIN-SUFFIX,fs1.hubspotusercontent-eu1.net
 DOMAIN-SUFFIX,fsdn.com
 DOMAIN-SUFFIX,futurecdn.net
 DOMAIN-SUFFIX,gateway.ipfs.io
@@ -1083,7 +1086,10 @@ DOMAIN-SUFFIX,hs-scripts.com
 DOMAIN-SUFFIX,hs-scripts.net
 DOMAIN-SUFFIX,hsappstatic.net
 DOMAIN-SUFFIX,hscollectedforms.net
+DOMAIN-SUFFIX,hubspotusercontent-eu1.net
+DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,hubspotusercontent30.com
+DOMAIN-SUFFIX,hubspotusercontent30.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,iframe.ly
 DOMAIN-SUFFIX,ignimgs.com

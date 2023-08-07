@@ -1,5 +1,5 @@
-# Quantumult total line 4175
-# Last updated Fri 08/04/2023 22:16:26.52
+# Quantumult total line 4178
+# Last updated Mon 08/07/2023 22:15:56.02
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -183,6 +183,7 @@ HOST,cdn.glitch.com,LIST
 HOST,cdn.glitch.global,LIST
 HOST,cdn.glitch.me,LIST
 HOST,cdn.hackernoon.com,LIST
+HOST,cdn.hashnode.com,LIST
 HOST,cdn.hellofresh.com,LIST
 HOST,cdn.hentaibomb.com,LIST
 HOST,cdn.heysavvy.com,LIST
@@ -258,7 +259,6 @@ HOST,cdn.ziffstatic.com,LIST
 HOST,cdn0.dan.com,LIST
 HOST,cdn1.dan.com,LIST
 HOST,cdn1.epicgames.com,LIST
-HOST,cdn1.hubspotusercontent-eu1.net,LIST
 HOST,cdn1.stamped.io,LIST
 HOST,cdn1.unrealengine.com,LIST
 HOST,cdn10.hiftporn.fun,LIST
@@ -316,6 +316,7 @@ HOST,disco.headliner.link,LIST
 HOST,dl-cdn.alpinelinux.org,LIST
 HOST,dl.devmate.com,LIST
 HOST,dl.google.com,LIST
+HOST,dl.motrix.app,LIST
 HOST,dl.nssurge.com,LIST
 HOST,dl.nwjs.io,LIST
 HOST,dl.pstmn.io,LIST
@@ -1847,7 +1848,6 @@ HOST-SUFFIX,freehulu.com,LIST
 HOST-SUFFIX,freeleecher.ir,LIST
 HOST-SUFFIX,freepornhdonlinegay.com,LIST
 HOST-SUFFIX,friday.tw,LIST
-HOST-SUFFIX,fs1.hubspotusercontent-eu1.net,LIST
 HOST-SUFFIX,fsdn.com,LIST
 HOST-SUFFIX,fse.tv,LIST
 HOST-SUFFIX,fshare.vn,LIST
@@ -1967,7 +1967,10 @@ HOST-SUFFIX,hs-scripts.net,LIST
 HOST-SUFFIX,hsappstatic.net,LIST
 HOST-SUFFIX,hscollectedforms.net,LIST
 HOST-SUFFIX,hu1u.com,LIST
+HOST-SUFFIX,hubspotusercontent-eu1.net,LIST
+HOST-SUFFIX,hubspotusercontent-na1.net,LIST
 HOST-SUFFIX,hubspotusercontent30.com,LIST
+HOST-SUFFIX,hubspotusercontent30.net,LIST
 HOST-SUFFIX,huffingtonpost.ca,LIST
 HOST-SUFFIX,huffingtonpost.co.uk,LIST
 HOST-SUFFIX,huffingtonpost.co.za,LIST

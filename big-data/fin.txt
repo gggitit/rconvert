@@ -1,5 +1,5 @@
-# Main total line 4188
-# Last updated Fri 08/04/2023 22:16:26.30
+# Main total line 4191
+# Last updated Mon 08/07/2023 22:15:55.84
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -183,6 +183,7 @@ DOMAIN,cdn.glitch.com
 DOMAIN,cdn.glitch.global
 DOMAIN,cdn.glitch.me
 DOMAIN,cdn.hackernoon.com
+DOMAIN,cdn.hashnode.com
 DOMAIN,cdn.hellofresh.com
 DOMAIN,cdn.hentaibomb.com
 DOMAIN,cdn.heysavvy.com
@@ -258,7 +259,6 @@ DOMAIN,cdn.ziffstatic.com
 DOMAIN,cdn0.dan.com
 DOMAIN,cdn1.dan.com
 DOMAIN,cdn1.epicgames.com
-DOMAIN,cdn1.hubspotusercontent-eu1.net
 DOMAIN,cdn1.stamped.io
 DOMAIN,cdn1.unrealengine.com
 DOMAIN,cdn10.hiftporn.fun
@@ -316,6 +316,7 @@ DOMAIN,disco.headliner.link
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,dl.devmate.com
 DOMAIN,dl.google.com
+DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.nwjs.io
 DOMAIN,dl.pstmn.io
@@ -1847,7 +1848,6 @@ DOMAIN-SUFFIX,freehulu.com
 DOMAIN-SUFFIX,freeleecher.ir
 DOMAIN-SUFFIX,freepornhdonlinegay.com
 DOMAIN-SUFFIX,friday.tw
-DOMAIN-SUFFIX,fs1.hubspotusercontent-eu1.net
 DOMAIN-SUFFIX,fsdn.com
 DOMAIN-SUFFIX,fse.tv
 DOMAIN-SUFFIX,fshare.vn
@@ -1967,7 +1967,10 @@ DOMAIN-SUFFIX,hs-scripts.net
 DOMAIN-SUFFIX,hsappstatic.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,hu1u.com
+DOMAIN-SUFFIX,hubspotusercontent-eu1.net
+DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,hubspotusercontent30.com
+DOMAIN-SUFFIX,hubspotusercontent30.net
 DOMAIN-SUFFIX,huffingtonpost.ca
 DOMAIN-SUFFIX,huffingtonpost.co.uk
 DOMAIN-SUFFIX,huffingtonpost.co.za
