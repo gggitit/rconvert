@@ -1,5 +1,5 @@
-# Clash total line 4191
-# Last updated Mon 08/07/2023 22:15:56.05
+# Clash total line 4197
+# Last updated Thu 08/10/2023 22:16:46.63
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -73,6 +73,7 @@ payload:
   - DOMAIN,assets.repair.org
   - DOMAIN,assets.scroll.com
   - DOMAIN,assets.squarespace.com
+  - DOMAIN,assets.static-upwork.com
   - DOMAIN,assets.swoogo.com
   - DOMAIN,assets.the-independent.com
   - DOMAIN,assets.toot.cafe
@@ -150,6 +151,7 @@ payload:
   - DOMAIN,cdn.amcharts.com
   - DOMAIN,cdn.apkmonk.com
   - DOMAIN,cdn.apple-cloudkit.com
+  - DOMAIN,cdn.arstechnica.net
   - DOMAIN,cdn.ashbyprd.com
   - DOMAIN,cdn.autoketing.org
   - DOMAIN,cdn.bfe.dev
@@ -286,7 +288,6 @@ payload:
   - DOMAIN,chart.googleapis.com
   - DOMAIN,checkout.stripe.com
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
-  - DOMAIN,cloudinary-res.cloudinary.com
   - DOMAIN,cms-assets.webediamovies.pro
   - DOMAIN,cms-cdn.now.gg
   - DOMAIN,code.benco.io
@@ -612,6 +613,8 @@ payload:
   - DOMAIN,placeimg.com
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.vidyard.com
+  - DOMAIN,player-frontend.cnevids.com
+  - DOMAIN,player.cnevids.com
   - DOMAIN,player.h-cdn.com
   - DOMAIN,playwright.azureedge.net
   - DOMAIN,plus.unsplash.com
@@ -901,6 +904,7 @@ payload:
   - DOMAIN,wwwimages2.adobe.com
   - DOMAIN,yummlystatic.com
   - DOMAIN-KEYWORD,-files.gitbook.io
+  - DOMAIN-KEYWORD,-res.cloudinary.com
   - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,.hbogoasia.
@@ -1296,6 +1300,7 @@ payload:
   - DOMAIN-SUFFIX,convertio.co
   - DOMAIN-SUFFIX,convertio.me
   - DOMAIN-SUFFIX,conviva.com
+  - DOMAIN-SUFFIX,coral.coralproject.net
   - DOMAIN-SUFFIX,coronavirusnow.com
   - DOMAIN-SUFFIX,cosmobox.org
   - DOMAIN-SUFFIX,cristiamo.xyz
@@ -3169,6 +3174,7 @@ payload:
   - DOMAIN-SUFFIX,zeetv.com
   - DOMAIN-SUFFIX,zeeuk.com
   - DOMAIN-SUFFIX,zeriamerikes.com
+  - DOMAIN-SUFFIX,zi-scripts.com
   - DOMAIN-SUFFIX,ziddu.com
   - DOMAIN-SUFFIX,zippyshare.com
   - DOMAIN-SUFFIX,zofile.com

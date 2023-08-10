@@ -1,5 +1,5 @@
-# Main total line 4191
-# Last updated Mon 08/07/2023 22:15:55.84
+# Main total line 4197
+# Last updated Thu 08/10/2023 22:16:46.35
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -72,6 +72,7 @@ DOMAIN,assets.poool.fr
 DOMAIN,assets.repair.org
 DOMAIN,assets.scroll.com
 DOMAIN,assets.squarespace.com
+DOMAIN,assets.static-upwork.com
 DOMAIN,assets.swoogo.com
 DOMAIN,assets.the-independent.com
 DOMAIN,assets.toot.cafe
@@ -149,6 +150,7 @@ DOMAIN,cdn.adguard.com
 DOMAIN,cdn.amcharts.com
 DOMAIN,cdn.apkmonk.com
 DOMAIN,cdn.apple-cloudkit.com
+DOMAIN,cdn.arstechnica.net
 DOMAIN,cdn.ashbyprd.com
 DOMAIN,cdn.autoketing.org
 DOMAIN,cdn.bfe.dev
@@ -285,7 +287,6 @@ DOMAIN,cf.hamreus.com
 DOMAIN,chart.googleapis.com
 DOMAIN,checkout.stripe.com
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
-DOMAIN,cloudinary-res.cloudinary.com
 DOMAIN,cms-assets.webediamovies.pro
 DOMAIN,cms-cdn.now.gg
 DOMAIN,code.benco.io
@@ -611,6 +612,8 @@ DOMAIN,pkg.csb.dev
 DOMAIN,placeimg.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,play.vidyard.com
+DOMAIN,player-frontend.cnevids.com
+DOMAIN,player.cnevids.com
 DOMAIN,player.h-cdn.com
 DOMAIN,playwright.azureedge.net
 DOMAIN,plus.unsplash.com
@@ -900,6 +903,7 @@ DOMAIN,www.googleapis.com
 DOMAIN,wwwimages2.adobe.com
 DOMAIN,yummlystatic.com
 DOMAIN-KEYWORD,-files.gitbook.io
+DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,.hbogoasia.
@@ -1295,6 +1299,7 @@ DOMAIN-SUFFIX,control.kochava.com
 DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,convertio.me
 DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,coral.coralproject.net
 DOMAIN-SUFFIX,coronavirusnow.com
 DOMAIN-SUFFIX,cosmobox.org
 DOMAIN-SUFFIX,cristiamo.xyz
@@ -3168,6 +3173,7 @@ DOMAIN-SUFFIX,zeetv.co.uk
 DOMAIN-SUFFIX,zeetv.com
 DOMAIN-SUFFIX,zeeuk.com
 DOMAIN-SUFFIX,zeriamerikes.com
+DOMAIN-SUFFIX,zi-scripts.com
 DOMAIN-SUFFIX,ziddu.com
 DOMAIN-SUFFIX,zippyshare.com
 DOMAIN-SUFFIX,zofile.com

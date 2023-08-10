@@ -1,5 +1,5 @@
-# Quantumult total line 1439
-# Last updated Mon 08/07/2023 22:15:44.18
+# Quantumult total line 1444
+# Last updated Thu 08/10/2023 22:16:30.34
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -70,6 +70,7 @@ HOST,assets.poool.fr,LIST
 HOST,assets.repair.org,LIST
 HOST,assets.scroll.com,LIST
 HOST,assets.squarespace.com,LIST
+HOST,assets.static-upwork.com,LIST
 HOST,assets.swoogo.com,LIST
 HOST,assets.the-independent.com,LIST
 HOST,assets.toot.cafe,LIST
@@ -144,6 +145,7 @@ HOST,cdn.accounts.nintendo.com,LIST
 HOST,cdn.adguard.com,LIST
 HOST,cdn.amcharts.com,LIST
 HOST,cdn.apkmonk.com,LIST
+HOST,cdn.arstechnica.net,LIST
 HOST,cdn.ashbyprd.com,LIST
 HOST,cdn.autoketing.org,LIST
 HOST,cdn.bfe.dev,LIST
@@ -290,7 +292,6 @@ HOST,cfl.dropboxstatic.com,LIST
 HOST,chart.googleapis.com,LIST
 HOST,checkout.stripe.com,LIST
 HOST,clips-media-assets2.twitch.tv,LIST
-HOST,cloudinary-res.cloudinary.com,LIST
 HOST,cms-assets.webediamovies.pro,LIST
 HOST,cms-cdn.now.gg,LIST
 HOST,code.benco.io,LIST
@@ -600,6 +601,8 @@ HOST,pkg-cdn.jetbrains.team,LIST
 HOST,pkg.csb.dev,LIST
 HOST,placeimg.com,LIST
 HOST,play.vidyard.com,LIST
+HOST,player-frontend.cnevids.com,LIST
+HOST,player.cnevids.com,LIST
 HOST,player.h-cdn.com,LIST
 HOST,player.vimeo.com,LIST
 HOST,playwright.azureedge.net,LIST
@@ -792,6 +795,7 @@ HOST,static.t-ru.org,LIST
 HOST,static.thisav.com,LIST
 HOST,static.tokenview.io,LIST
 HOST,static.tumblr.com,LIST
+HOST,static.twitchcdn.net,LIST
 HOST,static.vx-cdn.com,LIST
 HOST,static.whatsapp.net,LIST
 HOST,static.zaobao.com,LIST
@@ -919,6 +923,7 @@ HOST,wwwimages2.adobe.com,LIST
 HOST,yep.video.yahoo.com,LIST
 HOST,yummlystatic.com,LIST
 HOST-KEYWORD,-files.gitbook.io,LIST
+HOST-KEYWORD,-res.cloudinary.com,LIST
 HOST-KEYWORD,vod-adaptive.akamaized.net,LIST
 HOST-KEYWORD,web-assets.zendesk,LIST
 HOST-SUFFIX,1passwordusercontent.com,LIST
@@ -1004,6 +1009,7 @@ HOST-SUFFIX,cmail20.com,LIST
 HOST-SUFFIX,cms.replit.com,LIST
 HOST-SUFFIX,codeberg.page,LIST
 HOST-SUFFIX,combinatronics.io,LIST
+HOST-SUFFIX,coral.coralproject.net,LIST
 HOST-SUFFIX,csb.app,LIST
 HOST-SUFFIX,ctfassets.net,LIST
 HOST-SUFFIX,cthd.icu,LIST
@@ -1081,7 +1087,6 @@ HOST-SUFFIX,hackerone-user-content.com,LIST
 HOST-SUFFIX,hbfile.net,LIST
 HOST-SUFFIX,himg.nl,LIST
 HOST-SUFFIX,hits.b3log.org,LIST
-HOST-SUFFIX,hls.ttvnw.net,LIST
 HOST-SUFFIX,hs-scripts.com,LIST
 HOST-SUFFIX,hs-scripts.net,LIST
 HOST-SUFFIX,hsappstatic.net,LIST
@@ -1381,7 +1386,6 @@ HOST-SUFFIX,tnastatic.com,LIST
 HOST-SUFFIX,tth-ipfs.com,LIST
 HOST-SUFFIX,turboimg.net,LIST
 HOST-SUFFIX,twimg.com,LIST
-HOST-SUFFIX,twitchcdn.net,LIST
 HOST-SUFFIX,typography.com,LIST
 HOST-SUFFIX,ubembed.com,LIST
 HOST-SUFFIX,uber-assets.com,LIST
@@ -1435,6 +1439,7 @@ HOST-SUFFIX,ymq.cool,LIST
 HOST-SUFFIX,z4a.net,LIST
 HOST-SUFFIX,zdassets.com,LIST
 HOST-SUFFIX,zdusercontent.com,LIST
+HOST-SUFFIX,zi-scripts.com,LIST
 HOST-SUFFIX,zippyshare.com,LIST
 HOST-SUFFIX,zohocdn.com,LIST
 HOST-SUFFIX,zohostatic.com,LIST

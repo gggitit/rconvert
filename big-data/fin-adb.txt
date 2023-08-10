@@ -1,5 +1,5 @@
-# Adblock total line 3175
-# Last updated Mon 08/07/2023 22:15:56.17
+# Adblock total line 3181
+# Last updated Thu 08/10/2023 22:16:46.79
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -72,6 +72,7 @@
 ||assets.repair.org^
 ||assets.scroll.com^
 ||assets.squarespace.com^
+||assets.static-upwork.com^
 ||assets.swoogo.com^
 ||assets.the-independent.com^
 ||assets.toot.cafe^
@@ -149,6 +150,7 @@
 ||cdn.amcharts.com^
 ||cdn.apkmonk.com^
 ||cdn.apple-cloudkit.com^
+||cdn.arstechnica.net^
 ||cdn.ashbyprd.com^
 ||cdn.autoketing.org^
 ||cdn.bfe.dev^
@@ -285,7 +287,6 @@
 ||chart.googleapis.com^
 ||checkout.stripe.com^
 ||chuangcachecdnoversea-tw.inter.ptqy.gitv.tv^
-||cloudinary-res.cloudinary.com^
 ||cms-assets.webediamovies.pro^
 ||cms-cdn.now.gg^
 ||code.benco.io^
@@ -611,6 +612,8 @@
 ||placeimg.com^
 ||play-edge.itunes.apple.com^
 ||play.vidyard.com^
+||player-frontend.cnevids.com^
+||player.cnevids.com^
 ||player.h-cdn.com^
 ||playwright.azureedge.net^
 ||plus.unsplash.com^
@@ -900,6 +903,7 @@
 ||wwwimages2.adobe.com^
 ||yummlystatic.com^
 /-files.gitbook.io/
+/-res.cloudinary.com/
 /-spotify-/
 /-tiktokcdn-com/
 /.hbogoasia./
@@ -1295,6 +1299,7 @@
 ||convertio.co^
 ||convertio.me^
 ||conviva.com^
+||coral.coralproject.net^
 ||coronavirusnow.com^
 ||cosmobox.org^
 ||cristiamo.xyz^
@@ -3168,6 +3173,7 @@
 ||zeetv.com^
 ||zeeuk.com^
 ||zeriamerikes.com^
+||zi-scripts.com^
 ||ziddu.com^
 ||zippyshare.com^
 ||zofile.com^

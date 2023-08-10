@@ -1,5 +1,5 @@
-# Clash total line 1439
-# Last updated Mon 08/07/2023 22:15:44.21
+# Clash total line 1444
+# Last updated Thu 08/10/2023 22:16:30.40
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -71,6 +71,7 @@ payload:
   - DOMAIN,assets.repair.org
   - DOMAIN,assets.scroll.com
   - DOMAIN,assets.squarespace.com
+  - DOMAIN,assets.static-upwork.com
   - DOMAIN,assets.swoogo.com
   - DOMAIN,assets.the-independent.com
   - DOMAIN,assets.toot.cafe
@@ -145,6 +146,7 @@ payload:
   - DOMAIN,cdn.adguard.com
   - DOMAIN,cdn.amcharts.com
   - DOMAIN,cdn.apkmonk.com
+  - DOMAIN,cdn.arstechnica.net
   - DOMAIN,cdn.ashbyprd.com
   - DOMAIN,cdn.autoketing.org
   - DOMAIN,cdn.bfe.dev
@@ -291,7 +293,6 @@ payload:
   - DOMAIN,chart.googleapis.com
   - DOMAIN,checkout.stripe.com
   - DOMAIN,clips-media-assets2.twitch.tv
-  - DOMAIN,cloudinary-res.cloudinary.com
   - DOMAIN,cms-assets.webediamovies.pro
   - DOMAIN,cms-cdn.now.gg
   - DOMAIN,code.benco.io
@@ -601,6 +602,8 @@ payload:
   - DOMAIN,pkg.csb.dev
   - DOMAIN,placeimg.com
   - DOMAIN,play.vidyard.com
+  - DOMAIN,player-frontend.cnevids.com
+  - DOMAIN,player.cnevids.com
   - DOMAIN,player.h-cdn.com
   - DOMAIN,player.vimeo.com
   - DOMAIN,playwright.azureedge.net
@@ -793,6 +796,7 @@ payload:
   - DOMAIN,static.thisav.com
   - DOMAIN,static.tokenview.io
   - DOMAIN,static.tumblr.com
+  - DOMAIN,static.twitchcdn.net
   - DOMAIN,static.vx-cdn.com
   - DOMAIN,static.whatsapp.net
   - DOMAIN,static.zaobao.com
@@ -920,6 +924,7 @@ payload:
   - DOMAIN,yep.video.yahoo.com
   - DOMAIN,yummlystatic.com
   - DOMAIN-KEYWORD,-files.gitbook.io
+  - DOMAIN-KEYWORD,-res.cloudinary.com
   - DOMAIN-KEYWORD,vod-adaptive.akamaized.net
   - DOMAIN-KEYWORD,web-assets.zendesk
   - DOMAIN-SUFFIX,1passwordusercontent.com
@@ -1005,6 +1010,7 @@ payload:
   - DOMAIN-SUFFIX,cms.replit.com
   - DOMAIN-SUFFIX,codeberg.page
   - DOMAIN-SUFFIX,combinatronics.io
+  - DOMAIN-SUFFIX,coral.coralproject.net
   - DOMAIN-SUFFIX,csb.app
   - DOMAIN-SUFFIX,ctfassets.net
   - DOMAIN-SUFFIX,cthd.icu
@@ -1082,7 +1088,6 @@ payload:
   - DOMAIN-SUFFIX,hbfile.net
   - DOMAIN-SUFFIX,himg.nl
   - DOMAIN-SUFFIX,hits.b3log.org
-  - DOMAIN-SUFFIX,hls.ttvnw.net
   - DOMAIN-SUFFIX,hs-scripts.com
   - DOMAIN-SUFFIX,hs-scripts.net
   - DOMAIN-SUFFIX,hsappstatic.net
@@ -1382,7 +1387,6 @@ payload:
   - DOMAIN-SUFFIX,tth-ipfs.com
   - DOMAIN-SUFFIX,turboimg.net
   - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,typography.com
   - DOMAIN-SUFFIX,ubembed.com
   - DOMAIN-SUFFIX,uber-assets.com
@@ -1436,6 +1440,7 @@ payload:
   - DOMAIN-SUFFIX,z4a.net
   - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,zdusercontent.com
+  - DOMAIN-SUFFIX,zi-scripts.com
   - DOMAIN-SUFFIX,zippyshare.com
   - DOMAIN-SUFFIX,zohocdn.com
   - DOMAIN-SUFFIX,zohostatic.com

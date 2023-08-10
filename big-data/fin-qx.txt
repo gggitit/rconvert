@@ -1,5 +1,5 @@
-# Quantumult total line 4178
-# Last updated Mon 08/07/2023 22:15:56.02
+# Quantumult total line 4184
+# Last updated Thu 08/10/2023 22:16:46.57
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -72,6 +72,7 @@ HOST,assets.poool.fr,LIST
 HOST,assets.repair.org,LIST
 HOST,assets.scroll.com,LIST
 HOST,assets.squarespace.com,LIST
+HOST,assets.static-upwork.com,LIST
 HOST,assets.swoogo.com,LIST
 HOST,assets.the-independent.com,LIST
 HOST,assets.toot.cafe,LIST
@@ -149,6 +150,7 @@ HOST,cdn.adguard.com,LIST
 HOST,cdn.amcharts.com,LIST
 HOST,cdn.apkmonk.com,LIST
 HOST,cdn.apple-cloudkit.com,LIST
+HOST,cdn.arstechnica.net,LIST
 HOST,cdn.ashbyprd.com,LIST
 HOST,cdn.autoketing.org,LIST
 HOST,cdn.bfe.dev,LIST
@@ -285,7 +287,6 @@ HOST,cf.hamreus.com,LIST
 HOST,chart.googleapis.com,LIST
 HOST,checkout.stripe.com,LIST
 HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,LIST
-HOST,cloudinary-res.cloudinary.com,LIST
 HOST,cms-assets.webediamovies.pro,LIST
 HOST,cms-cdn.now.gg,LIST
 HOST,code.benco.io,LIST
@@ -611,6 +612,8 @@ HOST,pkg.csb.dev,LIST
 HOST,placeimg.com,LIST
 HOST,play-edge.itunes.apple.com,LIST
 HOST,play.vidyard.com,LIST
+HOST,player-frontend.cnevids.com,LIST
+HOST,player.cnevids.com,LIST
 HOST,player.h-cdn.com,LIST
 HOST,playwright.azureedge.net,LIST
 HOST,plus.unsplash.com,LIST
@@ -900,6 +903,7 @@ HOST,www.googleapis.com,LIST
 HOST,wwwimages2.adobe.com,LIST
 HOST,yummlystatic.com,LIST
 HOST-KEYWORD,-files.gitbook.io,LIST
+HOST-KEYWORD,-res.cloudinary.com,LIST
 HOST-KEYWORD,-spotify-,LIST
 HOST-KEYWORD,-tiktokcdn-com,LIST
 HOST-KEYWORD,.hbogoasia.,LIST
@@ -1295,6 +1299,7 @@ HOST-SUFFIX,control.kochava.com,LIST
 HOST-SUFFIX,convertio.co,LIST
 HOST-SUFFIX,convertio.me,LIST
 HOST-SUFFIX,conviva.com,LIST
+HOST-SUFFIX,coral.coralproject.net,LIST
 HOST-SUFFIX,coronavirusnow.com,LIST
 HOST-SUFFIX,cosmobox.org,LIST
 HOST-SUFFIX,cristiamo.xyz,LIST
@@ -3168,6 +3173,7 @@ HOST-SUFFIX,zeetv.co.uk,LIST
 HOST-SUFFIX,zeetv.com,LIST
 HOST-SUFFIX,zeeuk.com,LIST
 HOST-SUFFIX,zeriamerikes.com,LIST
+HOST-SUFFIX,zi-scripts.com,LIST
 HOST-SUFFIX,ziddu.com,LIST
 HOST-SUFFIX,zippyshare.com,LIST
 HOST-SUFFIX,zofile.com,LIST

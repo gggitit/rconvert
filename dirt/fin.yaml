@@ -1,5 +1,5 @@
-# Clash total line 4121
-# Last updated Mon 08/07/2023 22:16:04.18
+# Clash total line 4120
+# Last updated Thu 08/10/2023 22:16:58.04
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -1198,7 +1198,6 @@ payload:
   - DOMAIN-SUFFIX,dlgslb.net
   - DOMAIN-SUFFIX,dlnel.com
   - DOMAIN-SUFFIX,dlnel.org
-  - DOMAIN-SUFFIX,dmhmusic.com
   - DOMAIN-SUFFIX,dmzj.com
   - DOMAIN-SUFFIX,dns.pub
   - DOMAIN-SUFFIX,dnspod.com
