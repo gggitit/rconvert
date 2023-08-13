@@ -1,5 +1,5 @@
-# Clash total line 1444
-# Last updated Thu 08/10/2023 22:16:30.40
+# Clash total line 1458
+# Last updated Sun 08/13/2023 22:14:51.15
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -52,11 +52,13 @@ payload:
   - DOMAIN,assets.convertkit.com
   - DOMAIN,assets.extension.grammarly.com
   - DOMAIN,assets.flodesk.com
+  - DOMAIN,assets.getkirby.com
   - DOMAIN,assets.grammarly.com
   - DOMAIN,assets.gumroad.com
   - DOMAIN,assets.ifttt.com
   - DOMAIN,assets.ipstack.com
   - DOMAIN,assets.jable.tv
+  - DOMAIN,assets.jolipage.co
   - DOMAIN,assets.leetcode.com
   - DOMAIN,assets.lemonsqueezy.com
   - DOMAIN,assets.matters.news
@@ -69,6 +71,7 @@ payload:
   - DOMAIN,assets.plurk.com
   - DOMAIN,assets.poool.fr
   - DOMAIN,assets.repair.org
+  - DOMAIN,assets.scaleflex.com
   - DOMAIN,assets.scroll.com
   - DOMAIN,assets.squarespace.com
   - DOMAIN,assets.static-upwork.com
@@ -76,6 +79,7 @@ payload:
   - DOMAIN,assets.the-independent.com
   - DOMAIN,assets.toot.cafe
   - DOMAIN,assets.tumblr.com
+  - DOMAIN,assets.upload.io
   - DOMAIN,assets.vercel.com
   - DOMAIN,assets.video.yahoo.net
   - DOMAIN,assets.vidyard.com
@@ -158,6 +162,7 @@ payload:
   - DOMAIN,cdn.channel.io
   - DOMAIN,cdn.chess24.com
   - DOMAIN,cdn.circle.so
+  - DOMAIN,cdn.cloudcraft.co
   - DOMAIN,cdn.cms-twdigitalassets.com
   - DOMAIN,cdn.cnx-software.com
   - DOMAIN,cdn.cocoapods.org
@@ -187,11 +192,13 @@ payload:
   - DOMAIN,cdn.hellofresh.com
   - DOMAIN,cdn.hentaibomb.com
   - DOMAIN,cdn.heysavvy.com
+  - DOMAIN,cdn.imageengine.io
   - DOMAIN,cdn.img.ly
   - DOMAIN,cdn.ip2location.io
   - DOMAIN,cdn.ipregistry.co
   - DOMAIN,cdn.jetboost.io
   - DOMAIN,cdn.jetphotos.com
+  - DOMAIN,cdn.jolipage.co
   - DOMAIN,cdn.judge.me
   - DOMAIN,cdn.jwplayer.com
   - DOMAIN,cdn.koala.live
@@ -435,6 +442,7 @@ payload:
   - DOMAIN,images.ecomm.microsoft.com
   - DOMAIN,images.everyplate.com
   - DOMAIN,images.flightradar24.com
+  - DOMAIN,images.freeimages.com
   - DOMAIN,images.g2crowd.com
   - DOMAIN,images.macrumors.com
   - DOMAIN,images.opencollective.com
@@ -496,6 +504,7 @@ payload:
   - DOMAIN,js.recurly.com
   - DOMAIN,js.short.io
   - DOMAIN,js.smile.io
+  - DOMAIN,js.upload.io
   - DOMAIN,js.userflow.com
   - DOMAIN,kdata1.com
   - DOMAIN,lain.bgm.tv
@@ -704,6 +713,7 @@ payload:
   - DOMAIN,sm.ign.com
   - DOMAIN,sn-s3-cdn.angry.im
   - DOMAIN,snippet.growsumo.com
+  - DOMAIN,snippet.maze.co
   - DOMAIN,snippets.freshchat.com
   - DOMAIN,social-cdn.vivaldi.net
   - DOMAIN,source.domaintools.com
@@ -744,6 +754,7 @@ payload:
   - DOMAIN,static.bitfinex.com
   - DOMAIN,static.buffer.com
   - DOMAIN,static.bytepan.com
+  - DOMAIN,static.cloud.coveo.com
   - DOMAIN,static.codepen.io
   - DOMAIN,static.coinall.ltd
   - DOMAIN,static.cracked.io
@@ -759,6 +770,7 @@ payload:
   - DOMAIN,static.filestackapi.com
   - DOMAIN,static.foxbusiness.com
   - DOMAIN,static.foxnews.com
+  - DOMAIN,static.freeimages.com
   - DOMAIN,static.frostming.com
   - DOMAIN,static.getbutton.io
   - DOMAIN,static.gettyimages.com
@@ -893,6 +905,7 @@ payload:
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
   - DOMAIN,vuejs.org
+  - DOMAIN,w.chatlio.com
   - DOMAIN,w2.influxdata.com
   - DOMAIN,wac-cdn-2.atlassian.com
   - DOMAIN,wac-cdn.atlassian.com
@@ -1096,6 +1109,7 @@ payload:
   - DOMAIN-SUFFIX,hubspotusercontent-na1.net
   - DOMAIN-SUFFIX,hubspotusercontent30.com
   - DOMAIN-SUFFIX,hubspotusercontent30.net
+  - DOMAIN-SUFFIX,i.optimole.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,iframe.ly
   - DOMAIN-SUFFIX,ignimgs.com

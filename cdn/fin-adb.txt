@@ -1,5 +1,5 @@
-# Adblock total line 1444
-# Last updated Thu 08/10/2023 22:16:30.51
+# Adblock total line 1458
+# Last updated Sun 08/13/2023 22:14:51.24
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -51,11 +51,13 @@
 ||assets.convertkit.com^
 ||assets.extension.grammarly.com^
 ||assets.flodesk.com^
+||assets.getkirby.com^
 ||assets.grammarly.com^
 ||assets.gumroad.com^
 ||assets.ifttt.com^
 ||assets.ipstack.com^
 ||assets.jable.tv^
+||assets.jolipage.co^
 ||assets.leetcode.com^
 ||assets.lemonsqueezy.com^
 ||assets.matters.news^
@@ -68,6 +70,7 @@
 ||assets.plurk.com^
 ||assets.poool.fr^
 ||assets.repair.org^
+||assets.scaleflex.com^
 ||assets.scroll.com^
 ||assets.squarespace.com^
 ||assets.static-upwork.com^
@@ -75,6 +78,7 @@
 ||assets.the-independent.com^
 ||assets.toot.cafe^
 ||assets.tumblr.com^
+||assets.upload.io^
 ||assets.vercel.com^
 ||assets.video.yahoo.net^
 ||assets.vidyard.com^
@@ -157,6 +161,7 @@
 ||cdn.channel.io^
 ||cdn.chess24.com^
 ||cdn.circle.so^
+||cdn.cloudcraft.co^
 ||cdn.cms-twdigitalassets.com^
 ||cdn.cnx-software.com^
 ||cdn.cocoapods.org^
@@ -186,11 +191,13 @@
 ||cdn.hellofresh.com^
 ||cdn.hentaibomb.com^
 ||cdn.heysavvy.com^
+||cdn.imageengine.io^
 ||cdn.img.ly^
 ||cdn.ip2location.io^
 ||cdn.ipregistry.co^
 ||cdn.jetboost.io^
 ||cdn.jetphotos.com^
+||cdn.jolipage.co^
 ||cdn.judge.me^
 ||cdn.jwplayer.com^
 ||cdn.koala.live^
@@ -434,6 +441,7 @@
 ||images.ecomm.microsoft.com^
 ||images.everyplate.com^
 ||images.flightradar24.com^
+||images.freeimages.com^
 ||images.g2crowd.com^
 ||images.macrumors.com^
 ||images.opencollective.com^
@@ -495,6 +503,7 @@
 ||js.recurly.com^
 ||js.short.io^
 ||js.smile.io^
+||js.upload.io^
 ||js.userflow.com^
 ||kdata1.com^
 ||lain.bgm.tv^
@@ -703,6 +712,7 @@
 ||sm.ign.com^
 ||sn-s3-cdn.angry.im^
 ||snippet.growsumo.com^
+||snippet.maze.co^
 ||snippets.freshchat.com^
 ||social-cdn.vivaldi.net^
 ||source.domaintools.com^
@@ -743,6 +753,7 @@
 ||static.bitfinex.com^
 ||static.buffer.com^
 ||static.bytepan.com^
+||static.cloud.coveo.com^
 ||static.codepen.io^
 ||static.coinall.ltd^
 ||static.cracked.io^
@@ -758,6 +769,7 @@
 ||static.filestackapi.com^
 ||static.foxbusiness.com^
 ||static.foxnews.com^
+||static.freeimages.com^
 ||static.frostming.com^
 ||static.getbutton.io^
 ||static.gettyimages.com^
@@ -892,6 +904,7 @@
 ||vscode-sync-insiders.trafficmanager.net^
 ||vscode-sync.trafficmanager.net^
 ||vuejs.org^
+||w.chatlio.com^
 ||w2.influxdata.com^
 ||wac-cdn-2.atlassian.com^
 ||wac-cdn.atlassian.com^
@@ -1095,6 +1108,7 @@
 ||hubspotusercontent-na1.net^
 ||hubspotusercontent30.com^
 ||hubspotusercontent30.net^
+||i.optimole.com^
 ||ibytedtos.com^
 ||iframe.ly^
 ||ignimgs.com^
