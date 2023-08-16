@@ -1,5 +1,5 @@
-# Clash total line 4211
-# Last updated Sun 08/13/2023 22:15:02.21
+# Clash total line 4221
+# Last updated Wed 08/16/2023 22:16:11.91
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -135,6 +135,7 @@ payload:
   - DOMAIN,cache.agilebits.com
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN,cdn-a.sonyentertainmentnetwork.com
+  - DOMAIN,cdn-assets.circleci.com
   - DOMAIN,cdn-assets.porntube.com
   - DOMAIN,cdn-client.medium.com
   - DOMAIN,cdn-fck.tnaflix.com
@@ -487,6 +488,7 @@ payload:
   - DOMAIN,img.represent.com
   - DOMAIN,img.shana-laopo.xyz
   - DOMAIN,img.skk.moe
+  - DOMAIN,img.timero.xyz
   - DOMAIN,img.utdstc.com
   - DOMAIN,img.vim-cn.com
   - DOMAIN,img2.tnaflix.com
@@ -805,6 +807,7 @@ payload:
   - DOMAIN,static.thisav.com
   - DOMAIN,static.tokenview.io
   - DOMAIN,static.tumblr.com
+  - DOMAIN,static.v2ex.com
   - DOMAIN,static.whatsapp.net
   - DOMAIN,static.zaobao.com
   - DOMAIN,static0.lottiefiles.com
@@ -821,6 +824,7 @@ payload:
   - DOMAIN,static7.lottiefiles.com
   - DOMAIN,static8.lottiefiles.com
   - DOMAIN,static9.lottiefiles.com
+  - DOMAIN,staticassets.music.com
   - DOMAIN,staticctf.ubisoft.com
   - DOMAIN,staticmap.openstreetmap.de
   - DOMAIN,statics-xbc-eas.xbox.com
@@ -914,6 +918,7 @@ payload:
   - DOMAIN,www.bbthat.com
   - DOMAIN,www.datocms-assets.com
   - DOMAIN,www.googleapis.com
+  - DOMAIN,www.typescriptlang.org
   - DOMAIN,wwwimages2.adobe.com
   - DOMAIN,yummlystatic.com
   - DOMAIN-KEYWORD,-files.gitbook.io
@@ -1318,6 +1323,7 @@ payload:
   - DOMAIN-SUFFIX,cosmobox.org
   - DOMAIN-SUFFIX,cristiamo.xyz
   - DOMAIN-SUFFIX,crocko.com
+  - DOMAIN-SUFFIX,crossbell.io
   - DOMAIN-SUFFIX,csb.app
   - DOMAIN-SUFFIX,cstatic.net
   - DOMAIN-SUFFIX,ctfassets.net
@@ -2054,6 +2060,7 @@ payload:
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,icerbox.com
+  - DOMAIN-SUFFIX,icon.horse
   - DOMAIN-SUFFIX,iflix.com
   - DOMAIN-SUFFIX,iframe.ly
   - DOMAIN-SUFFIX,ignimgs.com
@@ -2355,6 +2362,7 @@ payload:
   - DOMAIN-SUFFIX,myfoxzone.com
   - DOMAIN-SUFFIX,myhulu.com
   - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,mypinata.cloud
   - DOMAIN-SUFFIX,myq2.com
   - DOMAIN-SUFFIX,myshopapps.com
   - DOMAIN-SUFFIX,myspacecdn.com
@@ -2666,6 +2674,7 @@ payload:
   - DOMAIN-SUFFIX,rosefile.net
   - DOMAIN-SUFFIX,rprimelab.com
   - DOMAIN-SUFFIX,rsb.net
+  - DOMAIN-SUFFIX,rss3.dev
   - DOMAIN-SUFFIX,rthk.hk
   - DOMAIN-SUFFIX,rthk.org.hk
   - DOMAIN-SUFFIX,runkitcdn.com
@@ -3149,6 +3158,7 @@ payload:
   - DOMAIN-SUFFIX,xeton.dev
   - DOMAIN-SUFFIX,xhcdn.com
   - DOMAIN-SUFFIX,xingcdn.com
+  - DOMAIN-SUFFIX,xlog.app
   - DOMAIN-SUFFIX,xnxx-cdn.com
   - DOMAIN-SUFFIX,xo.com
   - DOMAIN-SUFFIX,xubster.com

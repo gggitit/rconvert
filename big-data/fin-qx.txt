@@ -1,5 +1,5 @@
-# Quantumult total line 4198
-# Last updated Sun 08/13/2023 22:15:02.16
+# Quantumult total line 4208
+# Last updated Wed 08/16/2023 22:16:11.86
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -134,6 +134,7 @@ HOST,cache-05.filehippo.net,LIST
 HOST,cache.agilebits.com,LIST
 HOST,cache.video.iqiyi.com,LIST
 HOST,cdn-a.sonyentertainmentnetwork.com,LIST
+HOST,cdn-assets.circleci.com,LIST
 HOST,cdn-assets.porntube.com,LIST
 HOST,cdn-client.medium.com,LIST
 HOST,cdn-fck.tnaflix.com,LIST
@@ -486,6 +487,7 @@ HOST,img.perfops.net,LIST
 HOST,img.represent.com,LIST
 HOST,img.shana-laopo.xyz,LIST
 HOST,img.skk.moe,LIST
+HOST,img.timero.xyz,LIST
 HOST,img.utdstc.com,LIST
 HOST,img.vim-cn.com,LIST
 HOST,img2.tnaflix.com,LIST
@@ -804,6 +806,7 @@ HOST,static.t-ru.org,LIST
 HOST,static.thisav.com,LIST
 HOST,static.tokenview.io,LIST
 HOST,static.tumblr.com,LIST
+HOST,static.v2ex.com,LIST
 HOST,static.whatsapp.net,LIST
 HOST,static.zaobao.com,LIST
 HOST,static0.lottiefiles.com,LIST
@@ -820,6 +823,7 @@ HOST,static6.lottiefiles.com,LIST
 HOST,static7.lottiefiles.com,LIST
 HOST,static8.lottiefiles.com,LIST
 HOST,static9.lottiefiles.com,LIST
+HOST,staticassets.music.com,LIST
 HOST,staticctf.ubisoft.com,LIST
 HOST,staticmap.openstreetmap.de,LIST
 HOST,statics-xbc-eas.xbox.com,LIST
@@ -913,6 +917,7 @@ HOST,www.10086.win,LIST
 HOST,www.bbthat.com,LIST
 HOST,www.datocms-assets.com,LIST
 HOST,www.googleapis.com,LIST
+HOST,www.typescriptlang.org,LIST
 HOST,wwwimages2.adobe.com,LIST
 HOST,yummlystatic.com,LIST
 HOST-KEYWORD,-files.gitbook.io,LIST
@@ -1317,6 +1322,7 @@ HOST-SUFFIX,coronavirusnow.com,LIST
 HOST-SUFFIX,cosmobox.org,LIST
 HOST-SUFFIX,cristiamo.xyz,LIST
 HOST-SUFFIX,crocko.com,LIST
+HOST-SUFFIX,crossbell.io,LIST
 HOST-SUFFIX,csb.app,LIST
 HOST-SUFFIX,cstatic.net,LIST
 HOST-SUFFIX,ctfassets.net,LIST
@@ -2053,6 +2059,7 @@ HOST-SUFFIX,ibm.com,LIST
 HOST-SUFFIX,ibytedtos.com,LIST
 HOST-SUFFIX,ibyteimg.com,LIST
 HOST-SUFFIX,icerbox.com,LIST
+HOST-SUFFIX,icon.horse,LIST
 HOST-SUFFIX,iflix.com,LIST
 HOST-SUFFIX,iframe.ly,LIST
 HOST-SUFFIX,ignimgs.com,LIST
@@ -2354,6 +2361,7 @@ HOST-SUFFIX,myfoxtwincities.com,LIST
 HOST-SUFFIX,myfoxzone.com,LIST
 HOST-SUFFIX,myhulu.com,LIST
 HOST-SUFFIX,mypikpak.com,LIST
+HOST-SUFFIX,mypinata.cloud,LIST
 HOST-SUFFIX,myq2.com,LIST
 HOST-SUFFIX,myshopapps.com,LIST
 HOST-SUFFIX,myspacecdn.com,LIST
@@ -2665,6 +2673,7 @@ HOST-SUFFIX,rodfile.com,LIST
 HOST-SUFFIX,rosefile.net,LIST
 HOST-SUFFIX,rprimelab.com,LIST
 HOST-SUFFIX,rsb.net,LIST
+HOST-SUFFIX,rss3.dev,LIST
 HOST-SUFFIX,rthk.hk,LIST
 HOST-SUFFIX,rthk.org.hk,LIST
 HOST-SUFFIX,runkitcdn.com,LIST
@@ -3148,6 +3157,7 @@ HOST-SUFFIX,xenupload.com,LIST
 HOST-SUFFIX,xeton.dev,LIST
 HOST-SUFFIX,xhcdn.com,LIST
 HOST-SUFFIX,xingcdn.com,LIST
+HOST-SUFFIX,xlog.app,LIST
 HOST-SUFFIX,xnxx-cdn.com,LIST
 HOST-SUFFIX,xo.com,LIST
 HOST-SUFFIX,xubster.com,LIST

@@ -1,5 +1,5 @@
-# Quantumult total line 1458
-# Last updated Sun 08/13/2023 22:14:51.12
+# Quantumult total line 1468
+# Last updated Wed 08/16/2023 22:15:59.55
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -131,6 +131,7 @@ HOST,ca.nfs.pub,LIST
 HOST,cache-05.filehippo.net,LIST
 HOST,cache.agilebits.com,LIST
 HOST,cdn-a.sonyentertainmentnetwork.com,LIST
+HOST,cdn-assets.circleci.com,LIST
 HOST,cdn-assets.porntube.com,LIST
 HOST,cdn-client.medium.com,LIST
 HOST,cdn-fck.tnaflix.com,LIST
@@ -475,6 +476,7 @@ HOST,img.pawoo.net,LIST
 HOST,img.perfops.net,LIST
 HOST,img.represent.com,LIST
 HOST,img.skk.moe,LIST
+HOST,img.timero.xyz,LIST
 HOST,img.utdstc.com,LIST
 HOST,img.vim-cn.com,LIST
 HOST,img.youtube.com,LIST
@@ -808,6 +810,7 @@ HOST,static.thisav.com,LIST
 HOST,static.tokenview.io,LIST
 HOST,static.tumblr.com,LIST
 HOST,static.twitchcdn.net,LIST
+HOST,static.v2ex.com,LIST
 HOST,static.vx-cdn.com,LIST
 HOST,static.whatsapp.net,LIST
 HOST,static.zaobao.com,LIST
@@ -828,6 +831,7 @@ HOST,static6.lottiefiles.com,LIST
 HOST,static7.lottiefiles.com,LIST
 HOST,static8.lottiefiles.com,LIST
 HOST,static9.lottiefiles.com,LIST
+HOST,staticassets.music.com,LIST
 HOST,staticctf.ubisoft.com,LIST
 HOST,staticmap.openstreetmap.de,LIST
 HOST,statics-marketingsites-eas-ms-com.akamaized.net,LIST
@@ -932,6 +936,7 @@ HOST,www-static.ripe.net,LIST
 HOST,www.10086.win,LIST
 HOST,www.bbthat.com,LIST
 HOST,www.datocms-assets.com,LIST
+HOST,www.typescriptlang.org,LIST
 HOST,wwwimages2.adobe.com,LIST
 HOST,yep.video.yahoo.com,LIST
 HOST,yummlystatic.com,LIST
@@ -1023,6 +1028,7 @@ HOST-SUFFIX,cms.replit.com,LIST
 HOST-SUFFIX,codeberg.page,LIST
 HOST-SUFFIX,combinatronics.io,LIST
 HOST-SUFFIX,coral.coralproject.net,LIST
+HOST-SUFFIX,crossbell.io,LIST
 HOST-SUFFIX,csb.app,LIST
 HOST-SUFFIX,ctfassets.net,LIST
 HOST-SUFFIX,cthd.icu,LIST
@@ -1110,6 +1116,7 @@ HOST-SUFFIX,hubspotusercontent30.com,LIST
 HOST-SUFFIX,hubspotusercontent30.net,LIST
 HOST-SUFFIX,i.optimole.com,LIST
 HOST-SUFFIX,ibytedtos.com,LIST
+HOST-SUFFIX,icon.horse,LIST
 HOST-SUFFIX,iframe.ly,LIST
 HOST-SUFFIX,ignimgs.com,LIST
 HOST-SUFFIX,ik.imagekit.io,LIST
@@ -1213,6 +1220,7 @@ HOST-SUFFIX,mktgcdn.com,LIST
 HOST-SUFFIX,mlcdn.com,LIST
 HOST-SUFFIX,mm.bing.net,LIST
 HOST-SUFFIX,mvnrepository.com,LIST
+HOST-SUFFIX,mypinata.cloud,LIST
 HOST-SUFFIX,myshopapps.com,LIST
 HOST-SUFFIX,nest.land,LIST
 HOST-SUFFIX,net.anydesk.com,LIST
@@ -1285,6 +1293,7 @@ HOST-SUFFIX,repo.anaconda.com,LIST
 HOST-SUFFIX,res.office365.com,LIST
 HOST-SUFFIX,rocketcdn.me,LIST
 HOST-SUFFIX,rsb.net,LIST
+HOST-SUFFIX,rss3.dev,LIST
 HOST-SUFFIX,runkitcdn.com,LIST
 HOST-SUFFIX,s3-ap-northeast-1.amazonaws.com,LIST
 HOST-SUFFIX,s3-ap-northeast-2.amazonaws.com,LIST
@@ -1443,6 +1452,7 @@ HOST-SUFFIX,wsimg.com,LIST
 HOST-SUFFIX,xdaimages.com,LIST
 HOST-SUFFIX,xhcdn.com,LIST
 HOST-SUFFIX,xingcdn.com,LIST
+HOST-SUFFIX,xlog.app,LIST
 HOST-SUFFIX,xnxx-cdn.com,LIST
 HOST-SUFFIX,xvideos-cdn.com,LIST
 HOST-SUFFIX,yarnpkg.com,LIST
