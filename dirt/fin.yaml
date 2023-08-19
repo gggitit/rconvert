@@ -1,5 +1,5 @@
-# Clash total line 4120
-# Last updated Wed 08/16/2023 22:16:20.86
+# Clash total line 4122
+# Last updated Sat 08/19/2023 22:15:07.37
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -1538,6 +1538,7 @@ payload:
   - DOMAIN-SUFFIX,gucheng.com
   - DOMAIN-SUFFIX,guigu.org
   - DOMAIN-SUFFIX,guodu.com
+  - DOMAIN-SUFFIX,guoguo-app.com
   - DOMAIN-SUFFIX,guokr.com
   - DOMAIN-SUFFIX,guoping123.com
   - DOMAIN-SUFFIX,guoxinmac.com
@@ -3399,6 +3400,7 @@ payload:
   - DOMAIN-SUFFIX,weilaiyunxiao.com
   - DOMAIN-SUFFIX,weiphone.com
   - DOMAIN-SUFFIX,weiphone.net
+  - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,weixinbridge.com
   - DOMAIN-SUFFIX,weixing.com
   - DOMAIN-SUFFIX,weiyangx.com

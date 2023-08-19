@@ -1,5 +1,5 @@
-# Main total line 4221
-# Last updated Wed 08/16/2023 22:16:11.71
+# Main total line 4227
+# Last updated Sat 08/19/2023 22:14:59.67
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -126,6 +126,7 @@ DOMAIN,builds.parsec.app
 DOMAIN,bundle.trysavvy.com
 DOMAIN,busuanzi.ibruce.info
 DOMAIN,c.marsflag.com
+DOMAIN,c.navattic.com
 DOMAIN,c.s-microsoft.com
 DOMAIN,c.start.me
 DOMAIN,c0.wp.com
@@ -148,6 +149,7 @@ DOMAIN,cdn-sellix.com
 DOMAIN,cdn-share-sprites.flaticon.com
 DOMAIN,cdn-static.talent.com
 DOMAIN,cdn-thumbs.porntube.com
+DOMAIN,cdn-txweb.transifex.com
 DOMAIN,cdn-updates.orbstack.dev
 DOMAIN,cdn-www.bluestacks.com
 DOMAIN,cdn.accounts.nintendo.com
@@ -253,6 +255,7 @@ DOMAIN,cdn.sprig.com
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.termius.com
 DOMAIN,cdn.thisav.com
+DOMAIN,cdn.transifex.com
 DOMAIN,cdn.travis-ci.com
 DOMAIN,cdn.travis-ci.org
 DOMAIN,cdn.trustpilot.net
@@ -420,6 +423,7 @@ DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,hls.itunes.apple.com
 DOMAIN,hulu.com.c.footprint.net
 DOMAIN,hulu.map.fastly.net
+DOMAIN,hv-monsterdb-data.skk.moe
 DOMAIN,i.giphy.com
 DOMAIN,i.hamreus.com
 DOMAIN,i.ibb.co
@@ -439,6 +443,7 @@ DOMAIN,icons.duckduckgo.com
 DOMAIN,imag.malavida.com
 DOMAIN,image.civitai.com
 DOMAIN,image.crisp.chat
+DOMAIN,image.email.microsoftemail.com
 DOMAIN,image.ibb.co
 DOMAIN,image.lichess1.org
 DOMAIN,image.send.grammarly.com
@@ -510,6 +515,7 @@ DOMAIN,js.chilipiper.com
 DOMAIN,js.createsend1.com
 DOMAIN,js.hsforms.net
 DOMAIN,js.memberful.com
+DOMAIN,js.navattic.com
 DOMAIN,js.partnerstack.com
 DOMAIN,js.pusher.com
 DOMAIN,js.qualified.com

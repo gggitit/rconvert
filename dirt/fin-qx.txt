@@ -1,5 +1,5 @@
-# Quantumult total line 4080
-# Last updated Wed 08/16/2023 22:16:20.82
+# Quantumult total line 4082
+# Last updated Sat 08/19/2023 22:15:07.33
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -1537,6 +1537,7 @@ HOST-SUFFIX,guazi.com,LIST
 HOST-SUFFIX,gucheng.com,LIST
 HOST-SUFFIX,guigu.org,LIST
 HOST-SUFFIX,guodu.com,LIST
+HOST-SUFFIX,guoguo-app.com,LIST
 HOST-SUFFIX,guokr.com,LIST
 HOST-SUFFIX,guoping123.com,LIST
 HOST-SUFFIX,guoxinmac.com,LIST
@@ -3398,6 +3399,7 @@ HOST-SUFFIX,weilaicaijing.com,LIST
 HOST-SUFFIX,weilaiyunxiao.com,LIST
 HOST-SUFFIX,weiphone.com,LIST
 HOST-SUFFIX,weiphone.net,LIST
+HOST-SUFFIX,weixin.com,LIST
 HOST-SUFFIX,weixinbridge.com,LIST
 HOST-SUFFIX,weixing.com,LIST
 HOST-SUFFIX,weiyangx.com,LIST

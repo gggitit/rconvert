@@ -1,5 +1,5 @@
-# Quantumult total line 4208
-# Last updated Wed 08/16/2023 22:16:11.86
+# Quantumult total line 4214
+# Last updated Sat 08/19/2023 22:14:59.83
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -126,6 +126,7 @@ HOST,builds.parsec.app,LIST
 HOST,bundle.trysavvy.com,LIST
 HOST,busuanzi.ibruce.info,LIST
 HOST,c.marsflag.com,LIST
+HOST,c.navattic.com,LIST
 HOST,c.s-microsoft.com,LIST
 HOST,c.start.me,LIST
 HOST,c0.wp.com,LIST
@@ -148,6 +149,7 @@ HOST,cdn-sellix.com,LIST
 HOST,cdn-share-sprites.flaticon.com,LIST
 HOST,cdn-static.talent.com,LIST
 HOST,cdn-thumbs.porntube.com,LIST
+HOST,cdn-txweb.transifex.com,LIST
 HOST,cdn-updates.orbstack.dev,LIST
 HOST,cdn-www.bluestacks.com,LIST
 HOST,cdn.accounts.nintendo.com,LIST
@@ -253,6 +255,7 @@ HOST,cdn.sprig.com,LIST
 HOST,cdn.tailwindcss.com,LIST
 HOST,cdn.termius.com,LIST
 HOST,cdn.thisav.com,LIST
+HOST,cdn.transifex.com,LIST
 HOST,cdn.travis-ci.com,LIST
 HOST,cdn.travis-ci.org,LIST
 HOST,cdn.trustpilot.net,LIST
@@ -420,6 +423,7 @@ HOST,hls-amt.itunes.apple.com,LIST
 HOST,hls.itunes.apple.com,LIST
 HOST,hulu.com.c.footprint.net,LIST
 HOST,hulu.map.fastly.net,LIST
+HOST,hv-monsterdb-data.skk.moe,LIST
 HOST,i.giphy.com,LIST
 HOST,i.hamreus.com,LIST
 HOST,i.ibb.co,LIST
@@ -439,6 +443,7 @@ HOST,icons.duckduckgo.com,LIST
 HOST,imag.malavida.com,LIST
 HOST,image.civitai.com,LIST
 HOST,image.crisp.chat,LIST
+HOST,image.email.microsoftemail.com,LIST
 HOST,image.ibb.co,LIST
 HOST,image.lichess1.org,LIST
 HOST,image.send.grammarly.com,LIST
@@ -510,6 +515,7 @@ HOST,js.chilipiper.com,LIST
 HOST,js.createsend1.com,LIST
 HOST,js.hsforms.net,LIST
 HOST,js.memberful.com,LIST
+HOST,js.navattic.com,LIST
 HOST,js.partnerstack.com,LIST
 HOST,js.pusher.com,LIST
 HOST,js.qualified.com,LIST
