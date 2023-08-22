@@ -1,5 +1,5 @@
-# Adblock total line 1474
-# Last updated Sat 08/19/2023 22:14:49.43
+# Adblock total line 1484
+# Last updated Tue 08/22/2023 22:16:12.36
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -299,6 +299,7 @@
 ||cf-images.us-east-1.prod.boltdns.net^
 ||cf.channel.io^
 ||cf.hamreus.com^
+||cf.javfree.me^
 ||cfl.dropboxstatic.com^
 ||chart.googleapis.com^
 ||checkout.stripe.com^
@@ -474,6 +475,7 @@
 ||img.hellofresh.com^
 ||img.icons8.com^
 ||img.itch.zone^
+||img.javstore.net^
 ||img.kbhgames.com^
 ||img.ltyears.com^
 ||img.merch.cameo.com^
@@ -613,6 +615,7 @@
 ||piccdn.7mmtv.sx^
 ||pics.dmm.co.jp^
 ||pics.paypal.com^
+||pics.vpdmm.cc^
 ||pics.x-n-x-x.pro^
 ||pkg-cdn.jetbrains.team^
 ||pkg.csb.dev^
@@ -633,6 +636,7 @@
 ||prego-cache.prod.sketch.com^
 ||previews.fleek.co^
 ||pro2-ui-assets-s3-fy.myportfolio.com^
+||prod-packager-packages.codesandbox.io^
 ||prod.msocdn.com^
 ||production-cmp.isgprivacy.cbsi.com^
 ||profile-images.xing.com^
@@ -703,6 +707,7 @@
 ||safebrowsing.googleapis.com^
 ||sandpack-cdn-staging.blazingly.io^
 ||scontent.whatsapp.net^
+||screenshots.codesandbox.io^
 ||sdk.qikify.com^
 ||seal-newyork.bbb.org^
 ||searchanise-ef84.kxcdn.com^
@@ -739,6 +744,7 @@
 ||static-assets.coinbase.com^
 ||static-assets.mapbox.com^
 ||static-cache.fboom.me^
+||static-cache.k2s.cc^
 ||static-cdn.jtvnw.net^
 ||static-cdn.mastodon.social^
 ||static-cdn.spot.im^
@@ -948,6 +954,7 @@
 ||yummlystatic.com^
 /-files.gitbook.io/
 /-res.cloudinary.com/
+/dsn.algolia.net/
 /vod-adaptive.akamaized.net/
 /web-assets.zendesk/
 ||1passwordusercontent.com^
@@ -1263,6 +1270,7 @@
 ||pimg.tw^
 ||pinimg.com^
 ||pixfs.net^
+||pixhost.to^
 ||pixiv.cat^
 ||pixiv.nl^
 ||pixiv.re^
@@ -1291,6 +1299,7 @@
 ||rawgit.org^
 ||rbxcdn.com^
 ||rdtcdn.com^
+||reactjs.org^
 ||reasoningtheory.net^
 ||redd.it^
 ||redditmedia.com^
@@ -1298,6 +1307,7 @@
 ||repo.anaconda.com^
 ||res.office365.com^
 ||rocketcdn.me^
+||rollupjs.org^
 ||rsb.net^
 ||rss3.dev^
 ||runkitcdn.com^
