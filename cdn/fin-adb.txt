@@ -1,5 +1,5 @@
-# Adblock total line 1484
-# Last updated Fri 08/25/2023 22:16:18.75
+# Adblock total line 1487
+# Last updated Mon 08/28/2023 22:16:12.16
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -232,6 +232,7 @@
 ||cdn.plyr.io^
 ||cdn.pricespider.com^
 ||cdn.privacy-mgmt.com^
+||cdn.rauno.me^
 ||cdn.readme.io^
 ||cdn.recovermycart.com^
 ||cdn.robinpro.gallery^
@@ -656,6 +657,7 @@
 ||registry.npmjs.com^
 ||registry.npmjs.org^
 ||renderer-assets.typeform.com^
+||replicate.npmjs.com^
 ||repo.gradle.org^
 ||repo.maven.apache.org^
 ||repo1.maven.org^
@@ -1119,6 +1121,7 @@
 ||hbfile.net^
 ||himg.nl^
 ||hits.b3log.org^
+||howtogeekimages.com^
 ||hs-scripts.com^
 ||hs-scripts.net^
 ||hsappstatic.net^

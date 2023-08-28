@@ -1,5 +1,5 @@
-# Clash total line 1484
-# Last updated Fri 08/25/2023 22:16:18.66
+# Clash total line 1487
+# Last updated Mon 08/28/2023 22:16:12.07
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -233,6 +233,7 @@ payload:
   - DOMAIN,cdn.plyr.io
   - DOMAIN,cdn.pricespider.com
   - DOMAIN,cdn.privacy-mgmt.com
+  - DOMAIN,cdn.rauno.me
   - DOMAIN,cdn.readme.io
   - DOMAIN,cdn.recovermycart.com
   - DOMAIN,cdn.robinpro.gallery
@@ -657,6 +658,7 @@ payload:
   - DOMAIN,registry.npmjs.com
   - DOMAIN,registry.npmjs.org
   - DOMAIN,renderer-assets.typeform.com
+  - DOMAIN,replicate.npmjs.com
   - DOMAIN,repo.gradle.org
   - DOMAIN,repo.maven.apache.org
   - DOMAIN,repo1.maven.org
@@ -1120,6 +1122,7 @@ payload:
   - DOMAIN-SUFFIX,hbfile.net
   - DOMAIN-SUFFIX,himg.nl
   - DOMAIN-SUFFIX,hits.b3log.org
+  - DOMAIN-SUFFIX,howtogeekimages.com
   - DOMAIN-SUFFIX,hs-scripts.com
   - DOMAIN-SUFFIX,hs-scripts.net
   - DOMAIN-SUFFIX,hsappstatic.net
