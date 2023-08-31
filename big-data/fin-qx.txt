@@ -1,5 +1,5 @@
-# Quantumult total line 4227
-# Last updated Mon 08/28/2023 22:16:24.87
+# Quantumult total line 4233
+# Last updated Thu 08/31/2023 22:16:04.32
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -157,6 +157,7 @@ HOST,cdn.adguard.com,LIST
 HOST,cdn.amcharts.com,LIST
 HOST,cdn.apkmonk.com,LIST
 HOST,cdn.apple-cloudkit.com,LIST
+HOST,cdn.arcade.software,LIST
 HOST,cdn.arstechnica.net,LIST
 HOST,cdn.ashbyprd.com,LIST
 HOST,cdn.autoketing.org,LIST
@@ -808,6 +809,7 @@ HOST,static.opensea.io,LIST
 HOST,static.playstation.com,LIST
 HOST,static.redhat.com,LIST
 HOST,static.rust-lang.org,LIST
+HOST,static.scarf.sh,LIST
 HOST,static.scroll.com,LIST
 HOST,static.snapchat.com,LIST
 HOST,static.snaptube.in,LIST
@@ -890,7 +892,6 @@ HOST,userpic.redgifs.com,LIST
 HOST,useruploads.visualwebsiteoptimizer.com,LIST
 HOST,uts-api.itunes.apple.com,LIST
 HOST,utteranc.es,LIST
-HOST,v-corp.staticblitz.com,LIST
 HOST,vetted.ai,LIST
 HOST,vice-web-statics-cdn.vice.com,LIST
 HOST,video-images.vice.com,LIST
@@ -1299,6 +1300,9 @@ HOST-SUFFIX,clicknupload.me,LIST
 HOST-SUFFIX,clicknupload.org,LIST
 HOST-SUFFIX,clicknupload.to,LIST
 HOST-SUFFIX,clipwatching.com,LIST
+HOST-SUFFIX,cloud.influxdata.com,LIST
+HOST-SUFFIX,cloud1.influxdata.com,LIST
+HOST-SUFFIX,cloud2.influxdata.com,LIST
 HOST-SUFFIX,cloudconvert.com,LIST
 HOST-SUFFIX,cloudflare-ipfs.com,LIST
 HOST-SUFFIX,cloudflare.docker.com,LIST
@@ -3007,6 +3011,7 @@ HOST-SUFFIX,userupload.in,LIST
 HOST-SUFFIX,userupload.net,LIST
 HOST-SUFFIX,uuu.glass,LIST
 HOST-SUFFIX,v-cdn.net,LIST
+HOST-SUFFIX,v-corp.staticblitz.com,LIST
 HOST-SUFFIX,v.smtcdns.com,LIST
 HOST-SUFFIX,v.smtcdns.net,LIST
 HOST-SUFFIX,v2ex.co,LIST
@@ -3120,6 +3125,7 @@ HOST-SUFFIX,vsmarketplacebadges.dev,LIST
 HOST-SUFFIX,vultrobjects.com,LIST
 HOST-SUFFIX,vx-cdn.com,LIST
 HOST-SUFFIX,vzw.com,LIST
+HOST-SUFFIX,w-corp.staticblitz.com,LIST
 HOST-SUFFIX,w-credentialless.staticblitz.com,LIST
 HOST-SUFFIX,w.staticblitz.com,LIST
 HOST-SUFFIX,w3s.link,LIST

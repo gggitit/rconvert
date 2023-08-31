@@ -1,5 +1,5 @@
-# Quantumult total line 1487
-# Last updated Mon 08/28/2023 22:16:12.04
+# Quantumult total line 1493
+# Last updated Thu 08/31/2023 22:15:53.30
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -152,6 +152,7 @@ HOST,cdn.accounts.nintendo.com,LIST
 HOST,cdn.adguard.com,LIST
 HOST,cdn.amcharts.com,LIST
 HOST,cdn.apkmonk.com,LIST
+HOST,cdn.arcade.software,LIST
 HOST,cdn.arstechnica.net,LIST
 HOST,cdn.ashbyprd.com,LIST
 HOST,cdn.autoketing.org,LIST
@@ -812,6 +813,7 @@ HOST,static.opensea.io,LIST
 HOST,static.playstation.com,LIST
 HOST,static.redhat.com,LIST
 HOST,static.rust-lang.org,LIST
+HOST,static.scarf.sh,LIST
 HOST,static.scroll.com,LIST
 HOST,static.snapchat.com,LIST
 HOST,static.snaptube.in,LIST
@@ -910,7 +912,6 @@ HOST,userimg.customeriomail.com,LIST
 HOST,userpic.redgifs.com,LIST
 HOST,useruploads.visualwebsiteoptimizer.com,LIST
 HOST,utteranc.es,LIST
-HOST,v-corp.staticblitz.com,LIST
 HOST,vetted.ai,LIST
 HOST,vice-web-statics-cdn.vice.com,LIST
 HOST,video-images.vice.com,LIST
@@ -1034,6 +1035,9 @@ HOST-SUFFIX,cdntrex.com,LIST
 HOST-SUFFIX,cf-ipfs.com,LIST
 HOST-SUFFIX,chasecdn.com,LIST
 HOST-SUFFIX,chesscomfiles.com,LIST
+HOST-SUFFIX,cloud.influxdata.com,LIST
+HOST-SUFFIX,cloud1.influxdata.com,LIST
+HOST-SUFFIX,cloud2.influxdata.com,LIST
 HOST-SUFFIX,cloudflare-ipfs.com,LIST
 HOST-SUFFIX,cloudflare.docker.com,LIST
 HOST-SUFFIX,cloudflarestream.com,LIST
@@ -1439,6 +1443,7 @@ HOST-SUFFIX,uploads-ssl.webflow.com,LIST
 HOST-SUFFIX,usercontent.dev,LIST
 HOST-SUFFIX,usercontent.one,LIST
 HOST-SUFFIX,v-cdn.net,LIST
+HOST-SUFFIX,v-corp.staticblitz.com,LIST
 HOST-SUFFIX,v2ex.co,LIST
 HOST-SUFFIX,vanillicon.com,LIST
 HOST-SUFFIX,vercel.app,LIST
@@ -1452,6 +1457,7 @@ HOST-SUFFIX,vscode-cdn.net,LIST
 HOST-SUFFIX,vscode-unpkg.net,LIST
 HOST-SUFFIX,vsmarketplacebadges.dev,LIST
 HOST-SUFFIX,vultrobjects.com,LIST
+HOST-SUFFIX,w-corp.staticblitz.com,LIST
 HOST-SUFFIX,w-credentialless.staticblitz.com,LIST
 HOST-SUFFIX,w.staticblitz.com,LIST
 HOST-SUFFIX,w3s.link,LIST

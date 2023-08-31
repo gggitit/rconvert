@@ -1,5 +1,5 @@
-# Clash total line 1487
-# Last updated Mon 08/28/2023 22:16:12.07
+# Clash total line 1493
+# Last updated Thu 08/31/2023 22:15:53.35
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -153,6 +153,7 @@ payload:
   - DOMAIN,cdn.adguard.com
   - DOMAIN,cdn.amcharts.com
   - DOMAIN,cdn.apkmonk.com
+  - DOMAIN,cdn.arcade.software
   - DOMAIN,cdn.arstechnica.net
   - DOMAIN,cdn.ashbyprd.com
   - DOMAIN,cdn.autoketing.org
@@ -813,6 +814,7 @@ payload:
   - DOMAIN,static.playstation.com
   - DOMAIN,static.redhat.com
   - DOMAIN,static.rust-lang.org
+  - DOMAIN,static.scarf.sh
   - DOMAIN,static.scroll.com
   - DOMAIN,static.snapchat.com
   - DOMAIN,static.snaptube.in
@@ -911,7 +913,6 @@ payload:
   - DOMAIN,userpic.redgifs.com
   - DOMAIN,useruploads.visualwebsiteoptimizer.com
   - DOMAIN,utteranc.es
-  - DOMAIN,v-corp.staticblitz.com
   - DOMAIN,vetted.ai
   - DOMAIN,vice-web-statics-cdn.vice.com
   - DOMAIN,video-images.vice.com
@@ -1035,6 +1036,9 @@ payload:
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,chasecdn.com
   - DOMAIN-SUFFIX,chesscomfiles.com
+  - DOMAIN-SUFFIX,cloud.influxdata.com
+  - DOMAIN-SUFFIX,cloud1.influxdata.com
+  - DOMAIN-SUFFIX,cloud2.influxdata.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare.docker.com
   - DOMAIN-SUFFIX,cloudflarestream.com
@@ -1440,6 +1444,7 @@ payload:
   - DOMAIN-SUFFIX,usercontent.dev
   - DOMAIN-SUFFIX,usercontent.one
   - DOMAIN-SUFFIX,v-cdn.net
+  - DOMAIN-SUFFIX,v-corp.staticblitz.com
   - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,vanillicon.com
   - DOMAIN-SUFFIX,vercel.app
@@ -1453,6 +1458,7 @@ payload:
   - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN-SUFFIX,vsmarketplacebadges.dev
   - DOMAIN-SUFFIX,vultrobjects.com
+  - DOMAIN-SUFFIX,w-corp.staticblitz.com
   - DOMAIN-SUFFIX,w-credentialless.staticblitz.com
   - DOMAIN-SUFFIX,w.staticblitz.com
   - DOMAIN-SUFFIX,w3s.link

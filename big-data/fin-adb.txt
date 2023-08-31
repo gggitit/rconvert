@@ -1,5 +1,5 @@
-# Adblock total line 3224
-# Last updated Mon 08/28/2023 22:16:25.03
+# Adblock total line 3230
+# Last updated Thu 08/31/2023 22:16:04.48
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -157,6 +157,7 @@
 ||cdn.amcharts.com^
 ||cdn.apkmonk.com^
 ||cdn.apple-cloudkit.com^
+||cdn.arcade.software^
 ||cdn.arstechnica.net^
 ||cdn.ashbyprd.com^
 ||cdn.autoketing.org^
@@ -808,6 +809,7 @@
 ||static.playstation.com^
 ||static.redhat.com^
 ||static.rust-lang.org^
+||static.scarf.sh^
 ||static.scroll.com^
 ||static.snapchat.com^
 ||static.snaptube.in^
@@ -890,7 +892,6 @@
 ||useruploads.visualwebsiteoptimizer.com^
 ||uts-api.itunes.apple.com^
 ||utteranc.es^
-||v-corp.staticblitz.com^
 ||vetted.ai^
 ||vice-web-statics-cdn.vice.com^
 ||video-images.vice.com^
@@ -1299,6 +1300,9 @@
 ||clicknupload.org^
 ||clicknupload.to^
 ||clipwatching.com^
+||cloud.influxdata.com^
+||cloud1.influxdata.com^
+||cloud2.influxdata.com^
 ||cloudconvert.com^
 ||cloudflare-ipfs.com^
 ||cloudflare.docker.com^
@@ -3007,6 +3011,7 @@
 ||userupload.net^
 ||uuu.glass^
 ||v-cdn.net^
+||v-corp.staticblitz.com^
 ||v.smtcdns.com^
 ||v.smtcdns.net^
 ||v2ex.co^
@@ -3120,6 +3125,7 @@
 ||vultrobjects.com^
 ||vx-cdn.com^
 ||vzw.com^
+||w-corp.staticblitz.com^
 ||w-credentialless.staticblitz.com^
 ||w.staticblitz.com^
 ||w3s.link^
