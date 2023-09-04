@@ -1,5 +1,5 @@
-# Quantumult total line 4233
-# Last updated Fri 09/01/2023 22:16:42.21
+# Quantumult total line 4244
+# Last updated Mon 09/04/2023 22:17:42.03
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -16,8 +16,10 @@ HOST,amp.azure.net,LIST
 HOST,api-frameworks.vercel.sh,LIST
 HOST,api.bintray.com,LIST
 HOST,api.iconify.design,LIST
+HOST,api.mintlify.com,LIST
 HOST,api.okzy.tv,LIST
 HOST,api.producthunt.com,LIST
+HOST,api.pwnedpasswords.com,LIST
 HOST,api.qrserver.com,LIST
 HOST,api.roboflow.com,LIST
 HOST,api.wakatime.com,LIST
@@ -301,6 +303,7 @@ HOST,cf.javfree.me,LIST
 HOST,chart.googleapis.com,LIST
 HOST,checkout.stripe.com,LIST
 HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,LIST
+HOST,ci.testling.com,LIST
 HOST,cms-assets.webediamovies.pro,LIST
 HOST,cms-cdn.now.gg,LIST
 HOST,code.benco.io,LIST
@@ -330,6 +333,7 @@ HOST,devstreaming-cdn.apple.com,LIST
 HOST,disco.headliner.link,LIST
 HOST,dl-cdn.alpinelinux.org,LIST
 HOST,dl.devmate.com,LIST
+HOST,dl.discordapp.net,LIST
 HOST,dl.google.com,LIST
 HOST,dl.motrix.app,LIST
 HOST,dl.nssurge.com,LIST
@@ -598,6 +602,7 @@ HOST,newsletter.postmarkapp.com,LIST
 HOST,next-images.opencollective.com,LIST
 HOST,ni-assets.azureedge.net,LIST
 HOST,nightly.link,LIST
+HOST,nodei.co,LIST
 HOST,np-edge.itunes.apple.com,LIST
 HOST,nr.staticblitz.com,LIST
 HOST,o.n1mp.org,LIST
@@ -669,8 +674,10 @@ HOST,releases.arc.net,LIST
 HOST,renderer-assets.typeform.com,LIST
 HOST,replicate.npmjs.com,LIST
 HOST,repo1.maven.org,LIST
+HOST,repos.danosproject.org,LIST
 HOST,repository.jboss.org,LIST
 HOST,res-1.cdn.office.net,LIST
+HOST,res-geo.cdn.office.net,LIST
 HOST,res.abc.net.au,LIST
 HOST,res.cdn.office.net,LIST
 HOST,res.cloudinary.com,LIST
@@ -858,6 +865,7 @@ HOST,store.setapp.com,LIST
 HOST,stories.freepiklabs.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
 HOST,stripecdn.com,LIST
+HOST,t.betterstack.com,LIST
 HOST,t1.picb.cc,LIST
 HOST,t2.picb.cc,LIST
 HOST,t3.picb.cc,LIST
@@ -892,6 +900,7 @@ HOST,userpic.redgifs.com,LIST
 HOST,useruploads.visualwebsiteoptimizer.com,LIST
 HOST,uts-api.itunes.apple.com,LIST
 HOST,utteranc.es,LIST
+HOST,versionbadg.es,LIST
 HOST,vetted.ai,LIST
 HOST,vice-web-statics-cdn.vice.com,LIST
 HOST,video-images.vice.com,LIST
@@ -2567,6 +2576,7 @@ HOST-SUFFIX,plusmedia.site,LIST
 HOST-SUFFIX,plustransfer.com,LIST
 HOST-SUFFIX,pluto.tv,LIST
 HOST-SUFFIX,plyr.io,LIST
+HOST-SUFFIX,pnpm.io,LIST
 HOST-SUFFIX,poecdn.net,LIST
 HOST-SUFFIX,polyfill.io,LIST
 HOST-SUFFIX,polygon.com,LIST
@@ -2905,6 +2915,7 @@ HOST-SUFFIX,tln4.ru,LIST
 HOST-SUFFIX,tmp.link,LIST
 HOST-SUFFIX,tnastatic.com,LIST
 HOST-SUFFIX,top4top.net,LIST
+HOST-SUFFIX,transcend-cdn.com,LIST
 HOST-SUFFIX,tth-ipfs.com,LIST
 HOST-SUFFIX,turb.cc,LIST
 HOST-SUFFIX,turb.to,LIST

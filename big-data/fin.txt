@@ -1,5 +1,5 @@
-# Main total line 4246
-# Last updated Fri 09/01/2023 22:16:42.01
+# Main total line 4257
+# Last updated Mon 09/04/2023 22:17:41.78
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -16,8 +16,10 @@ DOMAIN,amp.azure.net
 DOMAIN,api-frameworks.vercel.sh
 DOMAIN,api.bintray.com
 DOMAIN,api.iconify.design
+DOMAIN,api.mintlify.com
 DOMAIN,api.okzy.tv
 DOMAIN,api.producthunt.com
+DOMAIN,api.pwnedpasswords.com
 DOMAIN,api.qrserver.com
 DOMAIN,api.roboflow.com
 DOMAIN,api.wakatime.com
@@ -301,6 +303,7 @@ DOMAIN,cf.javfree.me
 DOMAIN,chart.googleapis.com
 DOMAIN,checkout.stripe.com
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+DOMAIN,ci.testling.com
 DOMAIN,cms-assets.webediamovies.pro
 DOMAIN,cms-cdn.now.gg
 DOMAIN,code.benco.io
@@ -330,6 +333,7 @@ DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,disco.headliner.link
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,dl.devmate.com
+DOMAIN,dl.discordapp.net
 DOMAIN,dl.google.com
 DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
@@ -598,6 +602,7 @@ DOMAIN,newsletter.postmarkapp.com
 DOMAIN,next-images.opencollective.com
 DOMAIN,ni-assets.azureedge.net
 DOMAIN,nightly.link
+DOMAIN,nodei.co
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,nr.staticblitz.com
 DOMAIN,o.n1mp.org
@@ -669,8 +674,10 @@ DOMAIN,releases.arc.net
 DOMAIN,renderer-assets.typeform.com
 DOMAIN,replicate.npmjs.com
 DOMAIN,repo1.maven.org
+DOMAIN,repos.danosproject.org
 DOMAIN,repository.jboss.org
 DOMAIN,res-1.cdn.office.net
+DOMAIN,res-geo.cdn.office.net
 DOMAIN,res.abc.net.au
 DOMAIN,res.cdn.office.net
 DOMAIN,res.cloudinary.com
@@ -858,6 +865,7 @@ DOMAIN,store.setapp.com
 DOMAIN,stories.freepiklabs.com
 DOMAIN,streetviewpixels-pa.googleapis.com
 DOMAIN,stripecdn.com
+DOMAIN,t.betterstack.com
 DOMAIN,t1.picb.cc
 DOMAIN,t2.picb.cc
 DOMAIN,t3.picb.cc
@@ -892,6 +900,7 @@ DOMAIN,userpic.redgifs.com
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN,utteranc.es
+DOMAIN,versionbadg.es
 DOMAIN,vetted.ai
 DOMAIN,vice-web-statics-cdn.vice.com
 DOMAIN,video-images.vice.com
@@ -2567,6 +2576,7 @@ DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,plustransfer.com
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plyr.io
+DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,polygon.com
@@ -2905,6 +2915,7 @@ DOMAIN-SUFFIX,tln4.ru
 DOMAIN-SUFFIX,tmp.link
 DOMAIN-SUFFIX,tnastatic.com
 DOMAIN-SUFFIX,top4top.net
+DOMAIN-SUFFIX,transcend-cdn.com
 DOMAIN-SUFFIX,tth-ipfs.com
 DOMAIN-SUFFIX,turb.cc
 DOMAIN-SUFFIX,turb.to

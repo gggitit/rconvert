@@ -1,5 +1,5 @@
-# Adblock total line 3230
-# Last updated Fri 09/01/2023 22:16:42.42
+# Adblock total line 3241
+# Last updated Mon 09/04/2023 22:17:42.25
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -16,8 +16,10 @@
 ||api-frameworks.vercel.sh^
 ||api.bintray.com^
 ||api.iconify.design^
+||api.mintlify.com^
 ||api.okzy.tv^
 ||api.producthunt.com^
+||api.pwnedpasswords.com^
 ||api.qrserver.com^
 ||api.roboflow.com^
 ||api.wakatime.com^
@@ -301,6 +303,7 @@
 ||chart.googleapis.com^
 ||checkout.stripe.com^
 ||chuangcachecdnoversea-tw.inter.ptqy.gitv.tv^
+||ci.testling.com^
 ||cms-assets.webediamovies.pro^
 ||cms-cdn.now.gg^
 ||code.benco.io^
@@ -330,6 +333,7 @@
 ||disco.headliner.link^
 ||dl-cdn.alpinelinux.org^
 ||dl.devmate.com^
+||dl.discordapp.net^
 ||dl.google.com^
 ||dl.motrix.app^
 ||dl.nssurge.com^
@@ -598,6 +602,7 @@
 ||next-images.opencollective.com^
 ||ni-assets.azureedge.net^
 ||nightly.link^
+||nodei.co^
 ||np-edge.itunes.apple.com^
 ||nr.staticblitz.com^
 ||o.n1mp.org^
@@ -669,8 +674,10 @@
 ||renderer-assets.typeform.com^
 ||replicate.npmjs.com^
 ||repo1.maven.org^
+||repos.danosproject.org^
 ||repository.jboss.org^
 ||res-1.cdn.office.net^
+||res-geo.cdn.office.net^
 ||res.abc.net.au^
 ||res.cdn.office.net^
 ||res.cloudinary.com^
@@ -858,6 +865,7 @@
 ||stories.freepiklabs.com^
 ||streetviewpixels-pa.googleapis.com^
 ||stripecdn.com^
+||t.betterstack.com^
 ||t1.picb.cc^
 ||t2.picb.cc^
 ||t3.picb.cc^
@@ -892,6 +900,7 @@
 ||useruploads.visualwebsiteoptimizer.com^
 ||uts-api.itunes.apple.com^
 ||utteranc.es^
+||versionbadg.es^
 ||vetted.ai^
 ||vice-web-statics-cdn.vice.com^
 ||video-images.vice.com^
@@ -2567,6 +2576,7 @@
 ||plustransfer.com^
 ||pluto.tv^
 ||plyr.io^
+||pnpm.io^
 ||poecdn.net^
 ||polyfill.io^
 ||polygon.com^
@@ -2905,6 +2915,7 @@
 ||tmp.link^
 ||tnastatic.com^
 ||top4top.net^
+||transcend-cdn.com^
 ||tth-ipfs.com^
 ||turb.cc^
 ||turb.to^

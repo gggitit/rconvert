@@ -1,5 +1,5 @@
-# Adblock total line 1493
-# Last updated Fri 09/01/2023 22:16:28.59
+# Adblock total line 1503
+# Last updated Mon 09/04/2023 22:17:07.62
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -16,7 +16,9 @@
 ||api-frameworks.vercel.sh^
 ||api.bintray.com^
 ||api.iconify.design^
+||api.mintlify.com^
 ||api.producthunt.com^
+||api.pwnedpasswords.com^
 ||api.qrserver.com^
 ||api.roboflow.com^
 ||api.wakatime.com^
@@ -305,6 +307,7 @@
 ||cfl.dropboxstatic.com^
 ||chart.googleapis.com^
 ||checkout.stripe.com^
+||ci.testling.com^
 ||clips-media-assets2.twitch.tv^
 ||cms-assets.webediamovies.pro^
 ||cms-cdn.now.gg^
@@ -586,6 +589,7 @@
 ||ni-assets.azureedge.net^
 ||nightly.link^
 ||nodeassets.nbcnews.com^
+||nodei.co^
 ||nr.staticblitz.com^
 ||o.n1mp.org^
 ||objects.g0v.social^
@@ -662,8 +666,10 @@
 ||repo.gradle.org^
 ||repo.maven.apache.org^
 ||repo1.maven.org^
+||repos.danosproject.org^
 ||repository.jboss.org^
 ||res-1.cdn.office.net^
+||res-geo.cdn.office.net^
 ||res.abc.net.au^
 ||res.cdn.office.net^
 ||res.cloudinary.com^
@@ -870,6 +876,7 @@
 ||store-images.s-microsoft.com^
 ||stories.freepiklabs.com^
 ||stripecdn.com^
+||t.betterstack.com^
 ||t1.picb.cc^
 ||t2.nhentai.net^
 ||t2.picb.cc^
@@ -912,6 +919,7 @@
 ||userpic.redgifs.com^
 ||useruploads.visualwebsiteoptimizer.com^
 ||utteranc.es^
+||versionbadg.es^
 ||vetted.ai^
 ||vice-web-statics-cdn.vice.com^
 ||video-images.vice.com^
@@ -1282,6 +1290,7 @@
 ||pixiv.nl^
 ||pixiv.re^
 ||pkg.github.com^
+||pnpm.io^
 ||poecdn.net^
 ||polyfill.io^
 ||porndudecdn.com^
@@ -1429,6 +1438,7 @@
 ||tildacdn.com^
 ||tiqcdn.com^
 ||tnastatic.com^
+||transcend-cdn.com^
 ||tth-ipfs.com^
 ||turboimg.net^
 ||twimg.com^

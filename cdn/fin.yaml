@@ -1,5 +1,5 @@
-# Clash total line 1493
-# Last updated Fri 09/01/2023 22:16:28.48
+# Clash total line 1503
+# Last updated Mon 09/04/2023 22:17:07.48
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -17,7 +17,9 @@ payload:
   - DOMAIN,api-frameworks.vercel.sh
   - DOMAIN,api.bintray.com
   - DOMAIN,api.iconify.design
+  - DOMAIN,api.mintlify.com
   - DOMAIN,api.producthunt.com
+  - DOMAIN,api.pwnedpasswords.com
   - DOMAIN,api.qrserver.com
   - DOMAIN,api.roboflow.com
   - DOMAIN,api.wakatime.com
@@ -306,6 +308,7 @@ payload:
   - DOMAIN,cfl.dropboxstatic.com
   - DOMAIN,chart.googleapis.com
   - DOMAIN,checkout.stripe.com
+  - DOMAIN,ci.testling.com
   - DOMAIN,clips-media-assets2.twitch.tv
   - DOMAIN,cms-assets.webediamovies.pro
   - DOMAIN,cms-cdn.now.gg
@@ -587,6 +590,7 @@ payload:
   - DOMAIN,ni-assets.azureedge.net
   - DOMAIN,nightly.link
   - DOMAIN,nodeassets.nbcnews.com
+  - DOMAIN,nodei.co
   - DOMAIN,nr.staticblitz.com
   - DOMAIN,o.n1mp.org
   - DOMAIN,objects.g0v.social
@@ -663,8 +667,10 @@ payload:
   - DOMAIN,repo.gradle.org
   - DOMAIN,repo.maven.apache.org
   - DOMAIN,repo1.maven.org
+  - DOMAIN,repos.danosproject.org
   - DOMAIN,repository.jboss.org
   - DOMAIN,res-1.cdn.office.net
+  - DOMAIN,res-geo.cdn.office.net
   - DOMAIN,res.abc.net.au
   - DOMAIN,res.cdn.office.net
   - DOMAIN,res.cloudinary.com
@@ -871,6 +877,7 @@ payload:
   - DOMAIN,store-images.s-microsoft.com
   - DOMAIN,stories.freepiklabs.com
   - DOMAIN,stripecdn.com
+  - DOMAIN,t.betterstack.com
   - DOMAIN,t1.picb.cc
   - DOMAIN,t2.nhentai.net
   - DOMAIN,t2.picb.cc
@@ -913,6 +920,7 @@ payload:
   - DOMAIN,userpic.redgifs.com
   - DOMAIN,useruploads.visualwebsiteoptimizer.com
   - DOMAIN,utteranc.es
+  - DOMAIN,versionbadg.es
   - DOMAIN,vetted.ai
   - DOMAIN,vice-web-statics-cdn.vice.com
   - DOMAIN,video-images.vice.com
@@ -1283,6 +1291,7 @@ payload:
   - DOMAIN-SUFFIX,pixiv.nl
   - DOMAIN-SUFFIX,pixiv.re
   - DOMAIN-SUFFIX,pkg.github.com
+  - DOMAIN-SUFFIX,pnpm.io
   - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,polyfill.io
   - DOMAIN-SUFFIX,porndudecdn.com
@@ -1430,6 +1439,7 @@ payload:
   - DOMAIN-SUFFIX,tildacdn.com
   - DOMAIN-SUFFIX,tiqcdn.com
   - DOMAIN-SUFFIX,tnastatic.com
+  - DOMAIN-SUFFIX,transcend-cdn.com
   - DOMAIN-SUFFIX,tth-ipfs.com
   - DOMAIN-SUFFIX,turboimg.net
   - DOMAIN-SUFFIX,twimg.com
