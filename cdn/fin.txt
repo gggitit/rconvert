@@ -1,5 +1,5 @@
-# Main total line 1504
-# Last updated Thu 09/07/2023 22:16:10.48
+# Main total line 1523
+# Last updated Sun 09/10/2023 22:15:35.84
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -11,6 +11,7 @@ DOMAIN,ajax.cat.net
 DOMAIN,ajax.cdnjs.com
 DOMAIN,ajax.googleapis.com
 DOMAIN,ajax.microsoft.com
+DOMAIN,akidoo.top
 DOMAIN,alt-images.codestream.com
 DOMAIN,amp.azure.net
 DOMAIN,api-frameworks.vercel.sh
@@ -51,6 +52,7 @@ DOMAIN,assets.chess24.com
 DOMAIN,assets.codepen.io
 DOMAIN,assets.coinbase.com
 DOMAIN,assets.convertkit.com
+DOMAIN,assets.dnsfilter.com
 DOMAIN,assets.extension.grammarly.com
 DOMAIN,assets.flodesk.com
 DOMAIN,assets.getkirby.com
@@ -342,6 +344,7 @@ DOMAIN,docs.rs
 DOMAIN,doppler-config.cbsivideo.com
 DOMAIN,doujin-assets.dmm.co.jp
 DOMAIN,download.maxmind.com
+DOMAIN,dynamic-assets.mobilius.top
 DOMAIN,e3.365dm.com
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN,ec-prod.scene7.com
@@ -390,6 +393,7 @@ DOMAIN,fonts.codeberg.org
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fonts.twitter.com
+DOMAIN,fonts.upset.dev
 DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
@@ -416,6 +420,8 @@ DOMAIN,i.ibb.co
 DOMAIN,i.imgur.com
 DOMAIN,i.iwara.tv
 DOMAIN,i.jpg.dog
+DOMAIN,i.loli.best
+DOMAIN,i.nhentai.net
 DOMAIN,i.niupic.com
 DOMAIN,i.pcmag.com
 DOMAIN,i.snap.as
@@ -752,6 +758,7 @@ DOMAIN,static-assets-prod.epicgames.com
 DOMAIN,static-assets-web.flixcart.com
 DOMAIN,static-assets.clubhouseapi.com
 DOMAIN,static-assets.coinbase.com
+DOMAIN,static-assets.freeanimehentai.net
 DOMAIN,static-assets.mapbox.com
 DOMAIN,static-cache.fboom.me
 DOMAIN,static-cache.k2s.cc
@@ -878,6 +885,7 @@ DOMAIN,store-images.s-microsoft.com
 DOMAIN,stories.freepiklabs.com
 DOMAIN,stripecdn.com
 DOMAIN,t.betterstack.com
+DOMAIN,t.nhentai.net
 DOMAIN,t1.picb.cc
 DOMAIN,t2.nhentai.net
 DOMAIN,t2.picb.cc
@@ -969,7 +977,9 @@ DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
+DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,1passwordusercontent.com
+DOMAIN-SUFFIX,1passwordusercontent.eu
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,7mmtv.tv
@@ -1007,6 +1017,7 @@ DOMAIN-SUFFIX,bdzybf7.com
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bleepstatic.com
 DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,blobcdn.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,bmp.ovh
 DOMAIN-SUFFIX,bnbstatic.com
@@ -1034,7 +1045,9 @@ DOMAIN-SUFFIX,cdn.prismic.io
 DOMAIN-SUFFIX,cdn.replit.com
 DOMAIN-SUFFIX,cdn.survey.medallia.com
 DOMAIN-SUFFIX,cdn.ubi.com
+DOMAIN-SUFFIX,cdn1122.com
 DOMAIN-SUFFIX,cdn2.hubspot.net
+DOMAIN-SUFFIX,cdn2020.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnmania.org
 DOMAIN-SUFFIX,cdnpk.net
@@ -1089,6 +1102,7 @@ DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f.hubspotfree.net
 DOMAIN-SUFFIX,fastly.docker.com
+DOMAIN-SUFFIX,favicone.com
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
@@ -1132,6 +1146,8 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,hackerone-user-content.com
 DOMAIN-SUFFIX,hbfile.net
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,himg.nl
 DOMAIN-SUFFIX,hits.b3log.org
 DOMAIN-SUFFIX,howtogeekimages.com
@@ -1248,6 +1264,7 @@ DOMAIN-SUFFIX,misskeyusercontent.com
 DOMAIN-SUFFIX,mktgcdn.com
 DOMAIN-SUFFIX,mlcdn.com
 DOMAIN-SUFFIX,mm.bing.net
+DOMAIN-SUFFIX,motherlessmedia.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mypinata.cloud
 DOMAIN-SUFFIX,myshopapps.com
@@ -1287,6 +1304,7 @@ DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixfs.net
 DOMAIN-SUFFIX,pixhost.to
+DOMAIN-SUFFIX,piximg.net
 DOMAIN-SUFFIX,pixiv.cat
 DOMAIN-SUFFIX,pixiv.nl
 DOMAIN-SUFFIX,pixiv.re
@@ -1429,6 +1447,7 @@ DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,storage.infomaniak.com
 DOMAIN-SUFFIX,storage.yandexcloud.net
 DOMAIN-SUFFIX,storjipfs-gateway.com
+DOMAIN-SUFFIX,streamhentai.org
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,swiftypecdn.com

@@ -1,5 +1,5 @@
-# Clash total line 4258
-# Last updated Thu 09/07/2023 22:16:21.18
+# Clash total line 4277
+# Last updated Sun 09/10/2023 22:15:50.34
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -11,6 +11,7 @@ payload:
   - DOMAIN,ajax.cdnjs.com
   - DOMAIN,ajax.googleapis.com
   - DOMAIN,ajax.microsoft.com
+  - DOMAIN,akidoo.top
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,alt-images.codestream.com
   - DOMAIN,amp.azure.net
@@ -54,6 +55,7 @@ payload:
   - DOMAIN,assets.codepen.io
   - DOMAIN,assets.coinbase.com
   - DOMAIN,assets.convertkit.com
+  - DOMAIN,assets.dnsfilter.com
   - DOMAIN,assets.extension.grammarly.com
   - DOMAIN,assets.flodesk.com
   - DOMAIN,assets.getkirby.com
@@ -333,9 +335,11 @@ payload:
   - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,disco.headliner.link
   - DOMAIN,dl-cdn.alpinelinux.org
+  - DOMAIN,dl-portal.iina.io
   - DOMAIN,dl.devmate.com
   - DOMAIN,dl.discordapp.net
   - DOMAIN,dl.google.com
+  - DOMAIN,dl.iina.io
   - DOMAIN,dl.motrix.app
   - DOMAIN,dl.nssurge.com
   - DOMAIN,dl.nwjs.io
@@ -362,6 +366,7 @@ payload:
   - DOMAIN,download.todesktop.com
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,downloadr2.apkmirror.com
+  - DOMAIN,dynamic-assets.mobilius.top
   - DOMAIN,e3.365dm.com
   - DOMAIN,easylist-downloads.adblockplus.org
   - DOMAIN,ec-prod.scene7.com
@@ -406,6 +411,7 @@ payload:
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
   - DOMAIN,fonts.twitter.com
+  - DOMAIN,fonts.upset.dev
   - DOMAIN,fonts.zapier.com
   - DOMAIN,fonts1.unidays.world
   - DOMAIN,forest-mt-s3.seekrtech.com
@@ -438,6 +444,7 @@ payload:
   - DOMAIN,i.imgur.com
   - DOMAIN,i.iwara.tv
   - DOMAIN,i.jpg.dog
+  - DOMAIN,i.loli.best
   - DOMAIN,i.niupic.com
   - DOMAIN,i.pcmag.com
   - DOMAIN,i.snap.as
@@ -761,6 +768,7 @@ payload:
   - DOMAIN,static-assets-web.flixcart.com
   - DOMAIN,static-assets.clubhouseapi.com
   - DOMAIN,static-assets.coinbase.com
+  - DOMAIN,static-assets.freeanimehentai.net
   - DOMAIN,static-assets.mapbox.com
   - DOMAIN,static-cdn.mastodon.social
   - DOMAIN,static-cdn.spot.im
@@ -998,7 +1006,9 @@ payload:
   - DOMAIN-SUFFIX,1filesharing.com
   - DOMAIN-SUFFIX,1lib.at
   - DOMAIN-SUFFIX,1lib.cz
+  - DOMAIN-SUFFIX,1passwordusercontent.ca
   - DOMAIN-SUFFIX,1passwordusercontent.com
+  - DOMAIN-SUFFIX,1passwordusercontent.eu
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -1200,6 +1210,7 @@ payload:
   - DOMAIN-SUFFIX,bitmovin.com
   - DOMAIN-SUFFIX,bleepstatic.com
   - DOMAIN-SUFFIX,blip.tv
+  - DOMAIN-SUFFIX,blobcdn.com
   - DOMAIN-SUFFIX,blogblog.com
   - DOMAIN-SUFFIX,blogcdn.com
   - DOMAIN-SUFFIX,bmp.ovh
@@ -1280,7 +1291,9 @@ payload:
   - DOMAIN-SUFFIX,cdn.ubi.com
   - DOMAIN-SUFFIX,cdn.vidarequre.com
   - DOMAIN-SUFFIX,cdn.vidcrunch.com
+  - DOMAIN-SUFFIX,cdn1122.com
   - DOMAIN-SUFFIX,cdn2.hubspot.net
+  - DOMAIN-SUFFIX,cdn2020.com
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cdnmania.org
   - DOMAIN-SUFFIX,cdnpk.net
@@ -1639,6 +1652,7 @@ payload:
   - DOMAIN-SUFFIX,fastfile.cc
   - DOMAIN-SUFFIX,fastly.docker.com
   - DOMAIN-SUFFIX,faststore.org
+  - DOMAIN-SUFFIX,favicone.com
   - DOMAIN-SUFFIX,fbcdn.com
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fboom.me
@@ -1997,6 +2011,7 @@ payload:
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,hbounify-prod.evergent.com
+  - DOMAIN-SUFFIX,hembed.com
   - DOMAIN-SUFFIX,hentaiera.com
   - DOMAIN-SUFFIX,hentaiverse.org
   - DOMAIN-SUFFIX,herokuapp.com
@@ -2004,6 +2019,7 @@ payload:
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,hexupload.net
+  - DOMAIN-SUFFIX,highwinds-cdn.com
   - DOMAIN-SUFFIX,himalaya.com
   - DOMAIN-SUFFIX,himg.nl
   - DOMAIN-SUFFIX,hinet.net
@@ -2343,6 +2359,7 @@ payload:
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,modsbase.com
   - DOMAIN-SUFFIX,moov.hk
+  - DOMAIN-SUFFIX,motherlessmedia.com
   - DOMAIN-SUFFIX,moviesanywhere.com
   - DOMAIN-SUFFIX,movshare.net
   - DOMAIN-SUFFIX,mox.moe
@@ -2565,6 +2582,7 @@ payload:
   - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,pixfs.net
   - DOMAIN-SUFFIX,pixhost.to
+  - DOMAIN-SUFFIX,piximg.net
   - DOMAIN-SUFFIX,pixiv.cat
   - DOMAIN-SUFFIX,pixiv.nl
   - DOMAIN-SUFFIX,pixiv.re
@@ -2854,6 +2872,7 @@ payload:
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,streamango.com
   - DOMAIN-SUFFIX,streamcherry.com
+  - DOMAIN-SUFFIX,streamhentai.org
   - DOMAIN-SUFFIX,streamingdisney.net
   - DOMAIN-SUFFIX,streamsb.com
   - DOMAIN-SUFFIX,streamtape.com

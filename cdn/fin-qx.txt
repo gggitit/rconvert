@@ -1,5 +1,5 @@
-# Quantumult total line 1504
-# Last updated Thu 09/07/2023 22:16:10.60
+# Quantumult total line 1523
+# Last updated Sun 09/10/2023 22:15:35.99
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -11,6 +11,7 @@ HOST,ajax.cat.net,LIST
 HOST,ajax.cdnjs.com,LIST
 HOST,ajax.googleapis.com,LIST
 HOST,ajax.microsoft.com,LIST
+HOST,akidoo.top,LIST
 HOST,alt-images.codestream.com,LIST
 HOST,amp.azure.net,LIST
 HOST,api-frameworks.vercel.sh,LIST
@@ -51,6 +52,7 @@ HOST,assets.chess24.com,LIST
 HOST,assets.codepen.io,LIST
 HOST,assets.coinbase.com,LIST
 HOST,assets.convertkit.com,LIST
+HOST,assets.dnsfilter.com,LIST
 HOST,assets.extension.grammarly.com,LIST
 HOST,assets.flodesk.com,LIST
 HOST,assets.getkirby.com,LIST
@@ -342,6 +344,7 @@ HOST,docs.rs,LIST
 HOST,doppler-config.cbsivideo.com,LIST
 HOST,doujin-assets.dmm.co.jp,LIST
 HOST,download.maxmind.com,LIST
+HOST,dynamic-assets.mobilius.top,LIST
 HOST,e3.365dm.com,LIST
 HOST,easylist-downloads.adblockplus.org,LIST
 HOST,ec-prod.scene7.com,LIST
@@ -390,6 +393,7 @@ HOST,fonts.codeberg.org,LIST
 HOST,fonts.googleapis.com,LIST
 HOST,fonts.gstatic.com,LIST
 HOST,fonts.twitter.com,LIST
+HOST,fonts.upset.dev,LIST
 HOST,fonts.zapier.com,LIST
 HOST,fonts1.unidays.world,LIST
 HOST,forest-mt-s3.seekrtech.com,LIST
@@ -416,6 +420,8 @@ HOST,i.ibb.co,LIST
 HOST,i.imgur.com,LIST
 HOST,i.iwara.tv,LIST
 HOST,i.jpg.dog,LIST
+HOST,i.loli.best,LIST
+HOST,i.nhentai.net,LIST
 HOST,i.niupic.com,LIST
 HOST,i.pcmag.com,LIST
 HOST,i.snap.as,LIST
@@ -752,6 +758,7 @@ HOST,static-assets-prod.epicgames.com,LIST
 HOST,static-assets-web.flixcart.com,LIST
 HOST,static-assets.clubhouseapi.com,LIST
 HOST,static-assets.coinbase.com,LIST
+HOST,static-assets.freeanimehentai.net,LIST
 HOST,static-assets.mapbox.com,LIST
 HOST,static-cache.fboom.me,LIST
 HOST,static-cache.k2s.cc,LIST
@@ -878,6 +885,7 @@ HOST,store-images.s-microsoft.com,LIST
 HOST,stories.freepiklabs.com,LIST
 HOST,stripecdn.com,LIST
 HOST,t.betterstack.com,LIST
+HOST,t.nhentai.net,LIST
 HOST,t1.picb.cc,LIST
 HOST,t2.nhentai.net,LIST
 HOST,t2.picb.cc,LIST
@@ -969,7 +977,9 @@ HOST-KEYWORD,-res.cloudinary.com,LIST
 HOST-KEYWORD,dsn.algolia.net,LIST
 HOST-KEYWORD,vod-adaptive.akamaized.net,LIST
 HOST-KEYWORD,web-assets.zendesk,LIST
+HOST-SUFFIX,1passwordusercontent.ca,LIST
 HOST-SUFFIX,1passwordusercontent.com,LIST
+HOST-SUFFIX,1passwordusercontent.eu,LIST
 HOST-SUFFIX,4cdn.org,LIST
 HOST-SUFFIX,4everland.io,LIST
 HOST-SUFFIX,7mmtv.tv,LIST
@@ -1007,6 +1017,7 @@ HOST-SUFFIX,bdzybf7.com,LIST
 HOST-SUFFIX,bitbucket.io,LIST
 HOST-SUFFIX,bleepstatic.com,LIST
 HOST-SUFFIX,blob.core.windows.net,LIST
+HOST-SUFFIX,blobcdn.com,LIST
 HOST-SUFFIX,blogblog.com,LIST
 HOST-SUFFIX,bmp.ovh,LIST
 HOST-SUFFIX,bnbstatic.com,LIST
@@ -1034,7 +1045,9 @@ HOST-SUFFIX,cdn.prismic.io,LIST
 HOST-SUFFIX,cdn.replit.com,LIST
 HOST-SUFFIX,cdn.survey.medallia.com,LIST
 HOST-SUFFIX,cdn.ubi.com,LIST
+HOST-SUFFIX,cdn1122.com,LIST
 HOST-SUFFIX,cdn2.hubspot.net,LIST
+HOST-SUFFIX,cdn2020.com,LIST
 HOST-SUFFIX,cdninstagram.com,LIST
 HOST-SUFFIX,cdnmania.org,LIST
 HOST-SUFFIX,cdnpk.net,LIST
@@ -1089,6 +1102,7 @@ HOST-SUFFIX,exp-tas.com,LIST
 HOST-SUFFIX,f-droid.org,LIST
 HOST-SUFFIX,f.hubspotfree.net,LIST
 HOST-SUFFIX,fastly.docker.com,LIST
+HOST-SUFFIX,favicone.com,LIST
 HOST-SUFFIX,fbcdn.com,LIST
 HOST-SUFFIX,fbcdn.net,LIST
 HOST-SUFFIX,fbsbx.com,LIST
@@ -1132,6 +1146,8 @@ HOST-SUFFIX,googleusercontent.com,LIST
 HOST-SUFFIX,gravatar.com,LIST
 HOST-SUFFIX,hackerone-user-content.com,LIST
 HOST-SUFFIX,hbfile.net,LIST
+HOST-SUFFIX,hembed.com,LIST
+HOST-SUFFIX,highwinds-cdn.com,LIST
 HOST-SUFFIX,himg.nl,LIST
 HOST-SUFFIX,hits.b3log.org,LIST
 HOST-SUFFIX,howtogeekimages.com,LIST
@@ -1248,6 +1264,7 @@ HOST-SUFFIX,misskeyusercontent.com,LIST
 HOST-SUFFIX,mktgcdn.com,LIST
 HOST-SUFFIX,mlcdn.com,LIST
 HOST-SUFFIX,mm.bing.net,LIST
+HOST-SUFFIX,motherlessmedia.com,LIST
 HOST-SUFFIX,mvnrepository.com,LIST
 HOST-SUFFIX,mypinata.cloud,LIST
 HOST-SUFFIX,myshopapps.com,LIST
@@ -1287,6 +1304,7 @@ HOST-SUFFIX,pimg.tw,LIST
 HOST-SUFFIX,pinimg.com,LIST
 HOST-SUFFIX,pixfs.net,LIST
 HOST-SUFFIX,pixhost.to,LIST
+HOST-SUFFIX,piximg.net,LIST
 HOST-SUFFIX,pixiv.cat,LIST
 HOST-SUFFIX,pixiv.nl,LIST
 HOST-SUFFIX,pixiv.re,LIST
@@ -1429,6 +1447,7 @@ HOST-SUFFIX,storage.googleapis.com,LIST
 HOST-SUFFIX,storage.infomaniak.com,LIST
 HOST-SUFFIX,storage.yandexcloud.net,LIST
 HOST-SUFFIX,storjipfs-gateway.com,LIST
+HOST-SUFFIX,streamhentai.org,LIST
 HOST-SUFFIX,strpst.com,LIST
 HOST-SUFFIX,surge.sh,LIST
 HOST-SUFFIX,swiftypecdn.com,LIST

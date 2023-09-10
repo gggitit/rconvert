@@ -1,5 +1,5 @@
-# Adblock total line 1504
-# Last updated Thu 09/07/2023 22:16:10.73
+# Adblock total line 1523
+# Last updated Sun 09/10/2023 22:15:36.16
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -11,6 +11,7 @@
 ||ajax.cdnjs.com^
 ||ajax.googleapis.com^
 ||ajax.microsoft.com^
+||akidoo.top^
 ||alt-images.codestream.com^
 ||amp.azure.net^
 ||api-frameworks.vercel.sh^
@@ -51,6 +52,7 @@
 ||assets.codepen.io^
 ||assets.coinbase.com^
 ||assets.convertkit.com^
+||assets.dnsfilter.com^
 ||assets.extension.grammarly.com^
 ||assets.flodesk.com^
 ||assets.getkirby.com^
@@ -342,6 +344,7 @@
 ||doppler-config.cbsivideo.com^
 ||doujin-assets.dmm.co.jp^
 ||download.maxmind.com^
+||dynamic-assets.mobilius.top^
 ||e3.365dm.com^
 ||easylist-downloads.adblockplus.org^
 ||ec-prod.scene7.com^
@@ -390,6 +393,7 @@
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||fonts.twitter.com^
+||fonts.upset.dev^
 ||fonts.zapier.com^
 ||fonts1.unidays.world^
 ||forest-mt-s3.seekrtech.com^
@@ -416,6 +420,8 @@
 ||i.imgur.com^
 ||i.iwara.tv^
 ||i.jpg.dog^
+||i.loli.best^
+||i.nhentai.net^
 ||i.niupic.com^
 ||i.pcmag.com^
 ||i.snap.as^
@@ -752,6 +758,7 @@
 ||static-assets-web.flixcart.com^
 ||static-assets.clubhouseapi.com^
 ||static-assets.coinbase.com^
+||static-assets.freeanimehentai.net^
 ||static-assets.mapbox.com^
 ||static-cache.fboom.me^
 ||static-cache.k2s.cc^
@@ -878,6 +885,7 @@
 ||stories.freepiklabs.com^
 ||stripecdn.com^
 ||t.betterstack.com^
+||t.nhentai.net^
 ||t1.picb.cc^
 ||t2.nhentai.net^
 ||t2.picb.cc^
@@ -969,7 +977,9 @@
 /dsn.algolia.net/
 /vod-adaptive.akamaized.net/
 /web-assets.zendesk/
+||1passwordusercontent.ca^
 ||1passwordusercontent.com^
+||1passwordusercontent.eu^
 ||4cdn.org^
 ||4everland.io^
 ||7mmtv.tv^
@@ -1007,6 +1017,7 @@
 ||bitbucket.io^
 ||bleepstatic.com^
 ||blob.core.windows.net^
+||blobcdn.com^
 ||blogblog.com^
 ||bmp.ovh^
 ||bnbstatic.com^
@@ -1034,7 +1045,9 @@
 ||cdn.replit.com^
 ||cdn.survey.medallia.com^
 ||cdn.ubi.com^
+||cdn1122.com^
 ||cdn2.hubspot.net^
+||cdn2020.com^
 ||cdninstagram.com^
 ||cdnmania.org^
 ||cdnpk.net^
@@ -1089,6 +1102,7 @@
 ||f-droid.org^
 ||f.hubspotfree.net^
 ||fastly.docker.com^
+||favicone.com^
 ||fbcdn.com^
 ||fbcdn.net^
 ||fbsbx.com^
@@ -1132,6 +1146,8 @@
 ||gravatar.com^
 ||hackerone-user-content.com^
 ||hbfile.net^
+||hembed.com^
+||highwinds-cdn.com^
 ||himg.nl^
 ||hits.b3log.org^
 ||howtogeekimages.com^
@@ -1248,6 +1264,7 @@
 ||mktgcdn.com^
 ||mlcdn.com^
 ||mm.bing.net^
+||motherlessmedia.com^
 ||mvnrepository.com^
 ||mypinata.cloud^
 ||myshopapps.com^
@@ -1287,6 +1304,7 @@
 ||pinimg.com^
 ||pixfs.net^
 ||pixhost.to^
+||piximg.net^
 ||pixiv.cat^
 ||pixiv.nl^
 ||pixiv.re^
@@ -1429,6 +1447,7 @@
 ||storage.infomaniak.com^
 ||storage.yandexcloud.net^
 ||storjipfs-gateway.com^
+||streamhentai.org^
 ||strpst.com^
 ||surge.sh^
 ||swiftypecdn.com^

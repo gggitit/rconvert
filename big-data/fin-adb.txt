@@ -1,5 +1,5 @@
-# Adblock total line 3242
-# Last updated Thu 09/07/2023 22:16:21.31
+# Adblock total line 3261
+# Last updated Sun 09/10/2023 22:15:50.48
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -10,6 +10,7 @@
 ||ajax.cdnjs.com^
 ||ajax.googleapis.com^
 ||ajax.microsoft.com^
+||akidoo.top^
 ||akmcdnoversea-tw.inter.ptqy.gitv.tv^
 ||alt-images.codestream.com^
 ||amp.azure.net^
@@ -53,6 +54,7 @@
 ||assets.codepen.io^
 ||assets.coinbase.com^
 ||assets.convertkit.com^
+||assets.dnsfilter.com^
 ||assets.extension.grammarly.com^
 ||assets.flodesk.com^
 ||assets.getkirby.com^
@@ -332,9 +334,11 @@
 ||devstreaming-cdn.apple.com^
 ||disco.headliner.link^
 ||dl-cdn.alpinelinux.org^
+||dl-portal.iina.io^
 ||dl.devmate.com^
 ||dl.discordapp.net^
 ||dl.google.com^
+||dl.iina.io^
 ||dl.motrix.app^
 ||dl.nssurge.com^
 ||dl.nwjs.io^
@@ -361,6 +365,7 @@
 ||download.todesktop.com^
 ||download.visualstudio.microsoft.com^
 ||downloadr2.apkmirror.com^
+||dynamic-assets.mobilius.top^
 ||e3.365dm.com^
 ||easylist-downloads.adblockplus.org^
 ||ec-prod.scene7.com^
@@ -405,6 +410,7 @@
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||fonts.twitter.com^
+||fonts.upset.dev^
 ||fonts.zapier.com^
 ||fonts1.unidays.world^
 ||forest-mt-s3.seekrtech.com^
@@ -437,6 +443,7 @@
 ||i.imgur.com^
 ||i.iwara.tv^
 ||i.jpg.dog^
+||i.loli.best^
 ||i.niupic.com^
 ||i.pcmag.com^
 ||i.snap.as^
@@ -760,6 +767,7 @@
 ||static-assets-web.flixcart.com^
 ||static-assets.clubhouseapi.com^
 ||static-assets.coinbase.com^
+||static-assets.freeanimehentai.net^
 ||static-assets.mapbox.com^
 ||static-cdn.mastodon.social^
 ||static-cdn.spot.im^
@@ -997,7 +1005,9 @@
 ||1filesharing.com^
 ||1lib.at^
 ||1lib.cz^
+||1passwordusercontent.ca^
 ||1passwordusercontent.com^
+||1passwordusercontent.eu^
 ||20thcenturystudios.com.au^
 ||20thcenturystudios.com.br^
 ||20thcenturystudios.jp^
@@ -1199,6 +1209,7 @@
 ||bitmovin.com^
 ||bleepstatic.com^
 ||blip.tv^
+||blobcdn.com^
 ||blogblog.com^
 ||blogcdn.com^
 ||bmp.ovh^
@@ -1279,7 +1290,9 @@
 ||cdn.ubi.com^
 ||cdn.vidarequre.com^
 ||cdn.vidcrunch.com^
+||cdn1122.com^
 ||cdn2.hubspot.net^
+||cdn2020.com^
 ||cdninstagram.com^
 ||cdnmania.org^
 ||cdnpk.net^
@@ -1638,6 +1651,7 @@
 ||fastfile.cc^
 ||fastly.docker.com^
 ||faststore.org^
+||favicone.com^
 ||fbcdn.com^
 ||fbcdn.net^
 ||fboom.me^
@@ -1996,6 +2010,7 @@
 ||hbomaxcdn.com^
 ||hbonow.com^
 ||hbounify-prod.evergent.com^
+||hembed.com^
 ||hentaiera.com^
 ||hentaiverse.org^
 ||herokuapp.com^
@@ -2003,6 +2018,7 @@
 ||hetzner.com^
 ||hetzner.de^
 ||hexupload.net^
+||highwinds-cdn.com^
 ||himalaya.com^
 ||himg.nl^
 ||hinet.net^
@@ -2342,6 +2358,7 @@
 ||mobile-collector.newrelic.com^
 ||modsbase.com^
 ||moov.hk^
+||motherlessmedia.com^
 ||moviesanywhere.com^
 ||movshare.net^
 ||mox.moe^
@@ -2564,6 +2581,7 @@
 ||pixeldrain.com^
 ||pixfs.net^
 ||pixhost.to^
+||piximg.net^
 ||pixiv.cat^
 ||pixiv.nl^
 ||pixiv.re^
@@ -2853,6 +2871,7 @@
 ||streaks.jp^
 ||streamango.com^
 ||streamcherry.com^
+||streamhentai.org^
 ||streamingdisney.net^
 ||streamsb.com^
 ||streamtape.com^

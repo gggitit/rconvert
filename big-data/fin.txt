@@ -1,5 +1,5 @@
-# Main total line 4258
-# Last updated Thu 09/07/2023 22:16:20.98
+# Main total line 4277
+# Last updated Sun 09/10/2023 22:15:50.08
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -10,6 +10,7 @@ DOMAIN,ajax.cat.net
 DOMAIN,ajax.cdnjs.com
 DOMAIN,ajax.googleapis.com
 DOMAIN,ajax.microsoft.com
+DOMAIN,akidoo.top
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,alt-images.codestream.com
 DOMAIN,amp.azure.net
@@ -53,6 +54,7 @@ DOMAIN,assets.chess24.com
 DOMAIN,assets.codepen.io
 DOMAIN,assets.coinbase.com
 DOMAIN,assets.convertkit.com
+DOMAIN,assets.dnsfilter.com
 DOMAIN,assets.extension.grammarly.com
 DOMAIN,assets.flodesk.com
 DOMAIN,assets.getkirby.com
@@ -332,9 +334,11 @@ DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,disco.headliner.link
 DOMAIN,dl-cdn.alpinelinux.org
+DOMAIN,dl-portal.iina.io
 DOMAIN,dl.devmate.com
 DOMAIN,dl.discordapp.net
 DOMAIN,dl.google.com
+DOMAIN,dl.iina.io
 DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.nwjs.io
@@ -361,6 +365,7 @@ DOMAIN,download.sketch.com
 DOMAIN,download.todesktop.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloadr2.apkmirror.com
+DOMAIN,dynamic-assets.mobilius.top
 DOMAIN,e3.365dm.com
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN,ec-prod.scene7.com
@@ -405,6 +410,7 @@ DOMAIN,fonts.codeberg.org
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fonts.twitter.com
+DOMAIN,fonts.upset.dev
 DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
@@ -437,6 +443,7 @@ DOMAIN,i.ibb.co
 DOMAIN,i.imgur.com
 DOMAIN,i.iwara.tv
 DOMAIN,i.jpg.dog
+DOMAIN,i.loli.best
 DOMAIN,i.niupic.com
 DOMAIN,i.pcmag.com
 DOMAIN,i.snap.as
@@ -760,6 +767,7 @@ DOMAIN,static-assets-prod.epicgames.com
 DOMAIN,static-assets-web.flixcart.com
 DOMAIN,static-assets.clubhouseapi.com
 DOMAIN,static-assets.coinbase.com
+DOMAIN,static-assets.freeanimehentai.net
 DOMAIN,static-assets.mapbox.com
 DOMAIN,static-cdn.mastodon.social
 DOMAIN,static-cdn.spot.im
@@ -997,7 +1005,9 @@ DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,1filesharing.com
 DOMAIN-SUFFIX,1lib.at
 DOMAIN-SUFFIX,1lib.cz
+DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,1passwordusercontent.com
+DOMAIN-SUFFIX,1passwordusercontent.eu
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -1199,6 +1209,7 @@ DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitmovin.com
 DOMAIN-SUFFIX,bleepstatic.com
 DOMAIN-SUFFIX,blip.tv
+DOMAIN-SUFFIX,blobcdn.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,bmp.ovh
@@ -1279,7 +1290,9 @@ DOMAIN-SUFFIX,cdn.ub8.com
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,cdn.vidarequre.com
 DOMAIN-SUFFIX,cdn.vidcrunch.com
+DOMAIN-SUFFIX,cdn1122.com
 DOMAIN-SUFFIX,cdn2.hubspot.net
+DOMAIN-SUFFIX,cdn2020.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnmania.org
 DOMAIN-SUFFIX,cdnpk.net
@@ -1638,6 +1651,7 @@ DOMAIN-SUFFIX,fastclick.to
 DOMAIN-SUFFIX,fastfile.cc
 DOMAIN-SUFFIX,fastly.docker.com
 DOMAIN-SUFFIX,faststore.org
+DOMAIN-SUFFIX,favicone.com
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fboom.me
@@ -1996,6 +2010,7 @@ DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbounify-prod.evergent.com
+DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hentaiera.com
 DOMAIN-SUFFIX,hentaiverse.org
 DOMAIN-SUFFIX,herokuapp.com
@@ -2003,6 +2018,7 @@ DOMAIN-SUFFIX,heroupload.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hetzner.de
 DOMAIN-SUFFIX,hexupload.net
+DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,himalaya.com
 DOMAIN-SUFFIX,himg.nl
 DOMAIN-SUFFIX,hinet.net
@@ -2342,6 +2358,7 @@ DOMAIN-SUFFIX,mm.bing.net
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,modsbase.com
 DOMAIN-SUFFIX,moov.hk
+DOMAIN-SUFFIX,motherlessmedia.com
 DOMAIN-SUFFIX,moviesanywhere.com
 DOMAIN-SUFFIX,movshare.net
 DOMAIN-SUFFIX,mox.moe
@@ -2564,6 +2581,7 @@ DOMAIN-SUFFIX,piston-data.mojang.com
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,pixfs.net
 DOMAIN-SUFFIX,pixhost.to
+DOMAIN-SUFFIX,piximg.net
 DOMAIN-SUFFIX,pixiv.cat
 DOMAIN-SUFFIX,pixiv.nl
 DOMAIN-SUFFIX,pixiv.re
@@ -2853,6 +2871,7 @@ DOMAIN-SUFFIX,storjipfs-gateway.com
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,streamango.com
 DOMAIN-SUFFIX,streamcherry.com
+DOMAIN-SUFFIX,streamhentai.org
 DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,streamsb.com
 DOMAIN-SUFFIX,streamtape.com

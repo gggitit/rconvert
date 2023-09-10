@@ -1,5 +1,5 @@
-# Quantumult total line 4245
-# Last updated Thu 09/07/2023 22:16:21.15
+# Quantumult total line 4264
+# Last updated Sun 09/10/2023 22:15:50.30
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -10,6 +10,7 @@ HOST,ajax.cat.net,LIST
 HOST,ajax.cdnjs.com,LIST
 HOST,ajax.googleapis.com,LIST
 HOST,ajax.microsoft.com,LIST
+HOST,akidoo.top,LIST
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,alt-images.codestream.com,LIST
 HOST,amp.azure.net,LIST
@@ -53,6 +54,7 @@ HOST,assets.chess24.com,LIST
 HOST,assets.codepen.io,LIST
 HOST,assets.coinbase.com,LIST
 HOST,assets.convertkit.com,LIST
+HOST,assets.dnsfilter.com,LIST
 HOST,assets.extension.grammarly.com,LIST
 HOST,assets.flodesk.com,LIST
 HOST,assets.getkirby.com,LIST
@@ -332,9 +334,11 @@ HOST,devimages-cdn.apple.com,LIST
 HOST,devstreaming-cdn.apple.com,LIST
 HOST,disco.headliner.link,LIST
 HOST,dl-cdn.alpinelinux.org,LIST
+HOST,dl-portal.iina.io,LIST
 HOST,dl.devmate.com,LIST
 HOST,dl.discordapp.net,LIST
 HOST,dl.google.com,LIST
+HOST,dl.iina.io,LIST
 HOST,dl.motrix.app,LIST
 HOST,dl.nssurge.com,LIST
 HOST,dl.nwjs.io,LIST
@@ -361,6 +365,7 @@ HOST,download.sketch.com,LIST
 HOST,download.todesktop.com,LIST
 HOST,download.visualstudio.microsoft.com,LIST
 HOST,downloadr2.apkmirror.com,LIST
+HOST,dynamic-assets.mobilius.top,LIST
 HOST,e3.365dm.com,LIST
 HOST,easylist-downloads.adblockplus.org,LIST
 HOST,ec-prod.scene7.com,LIST
@@ -405,6 +410,7 @@ HOST,fonts.codeberg.org,LIST
 HOST,fonts.googleapis.com,LIST
 HOST,fonts.gstatic.com,LIST
 HOST,fonts.twitter.com,LIST
+HOST,fonts.upset.dev,LIST
 HOST,fonts.zapier.com,LIST
 HOST,fonts1.unidays.world,LIST
 HOST,forest-mt-s3.seekrtech.com,LIST
@@ -437,6 +443,7 @@ HOST,i.ibb.co,LIST
 HOST,i.imgur.com,LIST
 HOST,i.iwara.tv,LIST
 HOST,i.jpg.dog,LIST
+HOST,i.loli.best,LIST
 HOST,i.niupic.com,LIST
 HOST,i.pcmag.com,LIST
 HOST,i.snap.as,LIST
@@ -760,6 +767,7 @@ HOST,static-assets-prod.epicgames.com,LIST
 HOST,static-assets-web.flixcart.com,LIST
 HOST,static-assets.clubhouseapi.com,LIST
 HOST,static-assets.coinbase.com,LIST
+HOST,static-assets.freeanimehentai.net,LIST
 HOST,static-assets.mapbox.com,LIST
 HOST,static-cdn.mastodon.social,LIST
 HOST,static-cdn.spot.im,LIST
@@ -997,7 +1005,9 @@ HOST-SUFFIX,1fichier.info,LIST
 HOST-SUFFIX,1filesharing.com,LIST
 HOST-SUFFIX,1lib.at,LIST
 HOST-SUFFIX,1lib.cz,LIST
+HOST-SUFFIX,1passwordusercontent.ca,LIST
 HOST-SUFFIX,1passwordusercontent.com,LIST
+HOST-SUFFIX,1passwordusercontent.eu,LIST
 HOST-SUFFIX,20thcenturystudios.com.au,LIST
 HOST-SUFFIX,20thcenturystudios.com.br,LIST
 HOST-SUFFIX,20thcenturystudios.jp,LIST
@@ -1199,6 +1209,7 @@ HOST-SUFFIX,bitbucket.io,LIST
 HOST-SUFFIX,bitmovin.com,LIST
 HOST-SUFFIX,bleepstatic.com,LIST
 HOST-SUFFIX,blip.tv,LIST
+HOST-SUFFIX,blobcdn.com,LIST
 HOST-SUFFIX,blogblog.com,LIST
 HOST-SUFFIX,blogcdn.com,LIST
 HOST-SUFFIX,bmp.ovh,LIST
@@ -1279,7 +1290,9 @@ HOST-SUFFIX,cdn.ub8.com,LIST
 HOST-SUFFIX,cdn.ubi.com,LIST
 HOST-SUFFIX,cdn.vidarequre.com,LIST
 HOST-SUFFIX,cdn.vidcrunch.com,LIST
+HOST-SUFFIX,cdn1122.com,LIST
 HOST-SUFFIX,cdn2.hubspot.net,LIST
+HOST-SUFFIX,cdn2020.com,LIST
 HOST-SUFFIX,cdninstagram.com,LIST
 HOST-SUFFIX,cdnmania.org,LIST
 HOST-SUFFIX,cdnpk.net,LIST
@@ -1638,6 +1651,7 @@ HOST-SUFFIX,fastclick.to,LIST
 HOST-SUFFIX,fastfile.cc,LIST
 HOST-SUFFIX,fastly.docker.com,LIST
 HOST-SUFFIX,faststore.org,LIST
+HOST-SUFFIX,favicone.com,LIST
 HOST-SUFFIX,fbcdn.com,LIST
 HOST-SUFFIX,fbcdn.net,LIST
 HOST-SUFFIX,fboom.me,LIST
@@ -1996,6 +2010,7 @@ HOST-SUFFIX,hbomax.com,LIST
 HOST-SUFFIX,hbomaxcdn.com,LIST
 HOST-SUFFIX,hbonow.com,LIST
 HOST-SUFFIX,hbounify-prod.evergent.com,LIST
+HOST-SUFFIX,hembed.com,LIST
 HOST-SUFFIX,hentaiera.com,LIST
 HOST-SUFFIX,hentaiverse.org,LIST
 HOST-SUFFIX,herokuapp.com,LIST
@@ -2003,6 +2018,7 @@ HOST-SUFFIX,heroupload.com,LIST
 HOST-SUFFIX,hetzner.com,LIST
 HOST-SUFFIX,hetzner.de,LIST
 HOST-SUFFIX,hexupload.net,LIST
+HOST-SUFFIX,highwinds-cdn.com,LIST
 HOST-SUFFIX,himalaya.com,LIST
 HOST-SUFFIX,himg.nl,LIST
 HOST-SUFFIX,hinet.net,LIST
@@ -2342,6 +2358,7 @@ HOST-SUFFIX,mm.bing.net,LIST
 HOST-SUFFIX,mobile-collector.newrelic.com,LIST
 HOST-SUFFIX,modsbase.com,LIST
 HOST-SUFFIX,moov.hk,LIST
+HOST-SUFFIX,motherlessmedia.com,LIST
 HOST-SUFFIX,moviesanywhere.com,LIST
 HOST-SUFFIX,movshare.net,LIST
 HOST-SUFFIX,mox.moe,LIST
@@ -2564,6 +2581,7 @@ HOST-SUFFIX,piston-data.mojang.com,LIST
 HOST-SUFFIX,pixeldrain.com,LIST
 HOST-SUFFIX,pixfs.net,LIST
 HOST-SUFFIX,pixhost.to,LIST
+HOST-SUFFIX,piximg.net,LIST
 HOST-SUFFIX,pixiv.cat,LIST
 HOST-SUFFIX,pixiv.nl,LIST
 HOST-SUFFIX,pixiv.re,LIST
@@ -2853,6 +2871,7 @@ HOST-SUFFIX,storjipfs-gateway.com,LIST
 HOST-SUFFIX,streaks.jp,LIST
 HOST-SUFFIX,streamango.com,LIST
 HOST-SUFFIX,streamcherry.com,LIST
+HOST-SUFFIX,streamhentai.org,LIST
 HOST-SUFFIX,streamingdisney.net,LIST
 HOST-SUFFIX,streamsb.com,LIST
 HOST-SUFFIX,streamtape.com,LIST
