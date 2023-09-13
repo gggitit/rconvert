@@ -1,5 +1,5 @@
-# Main total line 1523
-# Last updated Sun 09/10/2023 22:15:35.84
+# Main total line 1531
+# Last updated Wed 09/13/2023 22:16:51.33
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -13,6 +13,7 @@ DOMAIN,ajax.googleapis.com
 DOMAIN,ajax.microsoft.com
 DOMAIN,akidoo.top
 DOMAIN,alt-images.codestream.com
+DOMAIN,alt.idgesg.net
 DOMAIN,amp.azure.net
 DOMAIN,api-frameworks.vercel.sh
 DOMAIN,api.bintray.com
@@ -33,6 +34,8 @@ DOMAIN,archive.mozilla.org
 DOMAIN,asset.booth.pm
 DOMAIN,assets-cdn.abcnews.com
 DOMAIN,assets-cdn.jable.tv
+DOMAIN,assets-fe.change.org
+DOMAIN,assets-jpcust.jwpsrv.com
 DOMAIN,assets-next.matters.news
 DOMAIN,assets-production.packagecloud.io
 DOMAIN,assets-s3-us-east-1.ceros.com
@@ -48,6 +51,7 @@ DOMAIN,assets.bwbx.io
 DOMAIN,assets.calendly.com
 DOMAIN,assets.canny.io
 DOMAIN,assets.capterra.com
+DOMAIN,assets.change.org
 DOMAIN,assets.chess24.com
 DOMAIN,assets.codepen.io
 DOMAIN,assets.coinbase.com
@@ -337,7 +341,6 @@ DOMAIN,design-system.yext.com
 DOMAIN,design.mayoclinic.org
 DOMAIN,disco.headliner.link
 DOMAIN,dl-cdn.alpinelinux.org
-DOMAIN,dl.google.com
 DOMAIN,dl.nwjs.io
 DOMAIN,dl2.nwjs.io
 DOMAIN,docs.rs
@@ -379,6 +382,7 @@ DOMAIN,fast.wistia.com
 DOMAIN,favicons.nextdns.io
 DOMAIN,fiddle.jshell.net
 DOMAIN,file.tktube.com
+DOMAIN,files.mastodon.ktachibana.party
 DOMAIN,files.mastodon.online
 DOMAIN,files.mastodon.social
 DOMAIN,files.readme.io
@@ -408,6 +412,7 @@ DOMAIN,glyph.medium.com
 DOMAIN,gmedia.playstation.com
 DOMAIN,go.vercel.com
 DOMAIN,godoc.org
+DOMAIN,gopkg.in
 DOMAIN,graph.facebook.com
 DOMAIN,gravatar.cat.net
 DOMAIN,gtranslate.io
@@ -426,16 +431,10 @@ DOMAIN,i.niupic.com
 DOMAIN,i.pcmag.com
 DOMAIN,i.snap.as
 DOMAIN,i.vgy.me
-DOMAIN,i.ytimg.com
 DOMAIN,i0.wp.com
 DOMAIN,i1.wp.com
-DOMAIN,i1.ytimg.com
 DOMAIN,i2.wp.com
-DOMAIN,i2.ytimg.com
 DOMAIN,i3.wp.com
-DOMAIN,i3.ytimg.com
-DOMAIN,i4.ytimg.com
-DOMAIN,i9.ytimg.com
 DOMAIN,ichef.bbci.co.uk
 DOMAIN,icons.buffer.com
 DOMAIN,icons.duckduckgo.com
@@ -461,6 +460,7 @@ DOMAIN,images.everyplate.com
 DOMAIN,images.flightradar24.com
 DOMAIN,images.freeimages.com
 DOMAIN,images.g2crowd.com
+DOMAIN,images.idgesg.net
 DOMAIN,images.macrumors.com
 DOMAIN,images.opencollective.com
 DOMAIN,images.plurk.com
@@ -764,6 +764,7 @@ DOMAIN,static-cache.fboom.me
 DOMAIN,static-cache.k2s.cc
 DOMAIN,static-cdn.jtvnw.net
 DOMAIN,static-cdn.mastodon.social
+DOMAIN,static-cdn.osdn.net
 DOMAIN,static-cdn.spot.im
 DOMAIN,static-clst.avgle.com
 DOMAIN,static-dm.ubisoft.com
@@ -784,9 +785,11 @@ DOMAIN,static.bit.dev
 DOMAIN,static.bitfinex.com
 DOMAIN,static.buffer.com
 DOMAIN,static.bytepan.com
+DOMAIN,static.change.org
 DOMAIN,static.cloud.coveo.com
 DOMAIN,static.codepen.io
 DOMAIN,static.coinall.ltd
+DOMAIN,static.corp.google.com
 DOMAIN,static.cracked.io
 DOMAIN,static.cracked.to
 DOMAIN,static.crates.io
@@ -808,6 +811,7 @@ DOMAIN,static.gopro.com
 DOMAIN,static.heavy-r.com
 DOMAIN,static.helpjuice.com
 DOMAIN,static.hotjar.com
+DOMAIN,static.ietf.org
 DOMAIN,static.incapsula.com
 DOMAIN,static.independent.co.uk
 DOMAIN,static.infomaniak.ch
@@ -824,6 +828,7 @@ DOMAIN,static.oklink.com
 DOMAIN,static.okx.com
 DOMAIN,static.olelive.com
 DOMAIN,static.opensea.io
+DOMAIN,static.osdn.net
 DOMAIN,static.playstation.com
 DOMAIN,static.redhat.com
 DOMAIN,static.rust-lang.org
@@ -1027,6 +1032,7 @@ DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,bp.blogspot.com
 DOMAIN-SUFFIX,bundle.run
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
+DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,c.staticblitz.com
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,cdn-spurit.com
@@ -1441,6 +1447,7 @@ DOMAIN-SUFFIX,static2cdn.hubspot.com
 DOMAIN-SUFFIX,statically.io
 DOMAIN-SUFFIX,staticaly.com
 DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,staticworld.net
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,storage.googleapis.com
@@ -1515,6 +1522,7 @@ DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,ymq.cool
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,z4a.net
 DOMAIN-SUFFIX,zdassets.com
 DOMAIN-SUFFIX,zdusercontent.com

@@ -1,5 +1,5 @@
-# Clash total line 4277
-# Last updated Sun 09/10/2023 22:15:50.34
+# Clash total line 4295
+# Last updated Wed 09/13/2023 22:17:07.49
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -14,6 +14,7 @@ payload:
   - DOMAIN,akidoo.top
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,alt-images.codestream.com
+  - DOMAIN,alt.idgesg.net
   - DOMAIN,amp.azure.net
   - DOMAIN,api-frameworks.vercel.sh
   - DOMAIN,api.bintray.com
@@ -37,6 +38,8 @@ payload:
   - DOMAIN,asset.booth.pm
   - DOMAIN,assets-cdn.abcnews.com
   - DOMAIN,assets-cdn.jable.tv
+  - DOMAIN,assets-fe.change.org
+  - DOMAIN,assets-jpcust.jwpsrv.com
   - DOMAIN,assets-next.matters.news
   - DOMAIN,assets-production.packagecloud.io
   - DOMAIN,assets-s3-us-east-1.ceros.com
@@ -51,6 +54,7 @@ payload:
   - DOMAIN,assets.calendly.com
   - DOMAIN,assets.canny.io
   - DOMAIN,assets.capterra.com
+  - DOMAIN,assets.change.org
   - DOMAIN,assets.chess24.com
   - DOMAIN,assets.codepen.io
   - DOMAIN,assets.coinbase.com
@@ -331,6 +335,7 @@ payload:
   - DOMAIN,denali-static.grammarly.com
   - DOMAIN,design-system.yext.com
   - DOMAIN,design.mayoclinic.org
+  - DOMAIN,desktop.parallels.com
   - DOMAIN,devimages-cdn.apple.com
   - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,disco.headliner.link
@@ -340,6 +345,7 @@ payload:
   - DOMAIN,dl.discordapp.net
   - DOMAIN,dl.google.com
   - DOMAIN,dl.iina.io
+  - DOMAIN,dl.l.google.com
   - DOMAIN,dl.motrix.app
   - DOMAIN,dl.nssurge.com
   - DOMAIN,dl.nwjs.io
@@ -358,11 +364,13 @@ payload:
   - DOMAIN,download.anydesk.com
   - DOMAIN,download.beeper.com
   - DOMAIN,download.maxmind.com
+  - DOMAIN,download.mlcc.google.com
   - DOMAIN,download.mozilla.org
   - DOMAIN,download.nektony.com
   - DOMAIN,download.parallels.com
   - DOMAIN,download.pixelexperience.org
   - DOMAIN,download.sketch.com
+  - DOMAIN,download.tensorflow.google.com
   - DOMAIN,download.todesktop.com
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,downloadr2.apkmirror.com
@@ -397,6 +405,7 @@ payload:
   - DOMAIN,favicons.nextdns.io
   - DOMAIN,fiddle.jshell.net
   - DOMAIN,file.tktube.com
+  - DOMAIN,files.mastodon.ktachibana.party
   - DOMAIN,files.mastodon.online
   - DOMAIN,files.mastodon.social
   - DOMAIN,files.readme.io
@@ -425,6 +434,7 @@ payload:
   - DOMAIN,gmedia.playstation.com
   - DOMAIN,go.vercel.com
   - DOMAIN,godoc.org
+  - DOMAIN,gopkg.in
   - DOMAIN,graph.facebook.com
   - DOMAIN,gravatar.cat.net
   - DOMAIN,gspe1-ssl.ls.apple.com
@@ -476,6 +486,7 @@ payload:
   - DOMAIN,images.flightradar24.com
   - DOMAIN,images.freeimages.com
   - DOMAIN,images.g2crowd.com
+  - DOMAIN,images.idgesg.net
   - DOMAIN,images.macrumors.com
   - DOMAIN,images.opencollective.com
   - DOMAIN,images.plurk.com
@@ -771,6 +782,7 @@ payload:
   - DOMAIN,static-assets.freeanimehentai.net
   - DOMAIN,static-assets.mapbox.com
   - DOMAIN,static-cdn.mastodon.social
+  - DOMAIN,static-cdn.osdn.net
   - DOMAIN,static-cdn.spot.im
   - DOMAIN,static-clst.avgle.com
   - DOMAIN,static-dm.ubisoft.com
@@ -790,9 +802,11 @@ payload:
   - DOMAIN,static.bitfinex.com
   - DOMAIN,static.buffer.com
   - DOMAIN,static.bytepan.com
+  - DOMAIN,static.change.org
   - DOMAIN,static.cloud.coveo.com
   - DOMAIN,static.codepen.io
   - DOMAIN,static.coinall.ltd
+  - DOMAIN,static.corp.google.com
   - DOMAIN,static.cracked.io
   - DOMAIN,static.cracked.to
   - DOMAIN,static.crates.io
@@ -811,6 +825,7 @@ payload:
   - DOMAIN,static.heavy-r.com
   - DOMAIN,static.helpjuice.com
   - DOMAIN,static.hotjar.com
+  - DOMAIN,static.ietf.org
   - DOMAIN,static.incapsula.com
   - DOMAIN,static.independent.co.uk
   - DOMAIN,static.infomaniak.ch
@@ -823,6 +838,7 @@ payload:
   - DOMAIN,static.oklink.com
   - DOMAIN,static.okx.com
   - DOMAIN,static.opensea.io
+  - DOMAIN,static.osdn.net
   - DOMAIN,static.playstation.com
   - DOMAIN,static.redhat.com
   - DOMAIN,static.rust-lang.org
@@ -1230,6 +1246,7 @@ payload:
   - DOMAIN-SUFFIX,bundle.run
   - DOMAIN-SUFFIX,bundle.thimatic-apps.com
   - DOMAIN-SUFFIX,buyvm.net
+  - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,c.staticblitz.com
   - DOMAIN-SUFFIX,c4assets.com
@@ -1264,7 +1281,6 @@ payload:
   - DOMAIN-SUFFIX,cdn-spurit.com
   - DOMAIN-SUFFIX,cdn.angruo.com
   - DOMAIN-SUFFIX,cdn.cloudflare.net
-  - DOMAIN-SUFFIX,cdn.cookielaw.org
   - DOMAIN-SUFFIX,cdn.cwinfo.net
   - DOMAIN-SUFFIX,cdn.discordapp.com
   - DOMAIN-SUFFIX,cdn.entelectonline.co.za
@@ -1360,6 +1376,7 @@ payload:
   - DOMAIN-SUFFIX,convertio.co
   - DOMAIN-SUFFIX,convertio.me
   - DOMAIN-SUFFIX,conviva.com
+  - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,coral.coralproject.net
   - DOMAIN-SUFFIX,coronavirusnow.com
   - DOMAIN-SUFFIX,cosmobox.org
@@ -1435,7 +1452,6 @@ payload:
   - DOMAIN-SUFFIX,disney-asia.com
   - DOMAIN-SUFFIX,disney-discount.com
   - DOMAIN-SUFFIX,disney-plus.net
-  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
   - DOMAIN-SUFFIX,disney-studio.com
   - DOMAIN-SUFFIX,disney-studio.net
   - DOMAIN-SUFFIX,disney.asia
@@ -2531,6 +2547,7 @@ payload:
   - DOMAIN-SUFFIX,ominisrc.com
   - DOMAIN-SUFFIX,omnisnippet1.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,onrender.com
   - DOMAIN-SUFFIX,openload.co
   - DOMAIN-SUFFIX,operacdn.com
@@ -2857,6 +2874,7 @@ payload:
   - DOMAIN-SUFFIX,statically.io
   - DOMAIN-SUFFIX,staticaly.com
   - DOMAIN-SUFFIX,staticflickr.com
+  - DOMAIN-SUFFIX,staticworld.net
   - DOMAIN-SUFFIX,statuspage.io
   - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,steamcontent.tnkjmec.com

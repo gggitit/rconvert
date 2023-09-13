@@ -1,5 +1,5 @@
-# Quantumult total line 1523
-# Last updated Sun 09/10/2023 22:15:35.99
+# Quantumult total line 1531
+# Last updated Wed 09/13/2023 22:16:51.52
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -13,6 +13,7 @@ HOST,ajax.googleapis.com,LIST
 HOST,ajax.microsoft.com,LIST
 HOST,akidoo.top,LIST
 HOST,alt-images.codestream.com,LIST
+HOST,alt.idgesg.net,LIST
 HOST,amp.azure.net,LIST
 HOST,api-frameworks.vercel.sh,LIST
 HOST,api.bintray.com,LIST
@@ -33,6 +34,8 @@ HOST,archive.mozilla.org,LIST
 HOST,asset.booth.pm,LIST
 HOST,assets-cdn.abcnews.com,LIST
 HOST,assets-cdn.jable.tv,LIST
+HOST,assets-fe.change.org,LIST
+HOST,assets-jpcust.jwpsrv.com,LIST
 HOST,assets-next.matters.news,LIST
 HOST,assets-production.packagecloud.io,LIST
 HOST,assets-s3-us-east-1.ceros.com,LIST
@@ -48,6 +51,7 @@ HOST,assets.bwbx.io,LIST
 HOST,assets.calendly.com,LIST
 HOST,assets.canny.io,LIST
 HOST,assets.capterra.com,LIST
+HOST,assets.change.org,LIST
 HOST,assets.chess24.com,LIST
 HOST,assets.codepen.io,LIST
 HOST,assets.coinbase.com,LIST
@@ -337,7 +341,6 @@ HOST,design-system.yext.com,LIST
 HOST,design.mayoclinic.org,LIST
 HOST,disco.headliner.link,LIST
 HOST,dl-cdn.alpinelinux.org,LIST
-HOST,dl.google.com,LIST
 HOST,dl.nwjs.io,LIST
 HOST,dl2.nwjs.io,LIST
 HOST,docs.rs,LIST
@@ -379,6 +382,7 @@ HOST,fast.wistia.com,LIST
 HOST,favicons.nextdns.io,LIST
 HOST,fiddle.jshell.net,LIST
 HOST,file.tktube.com,LIST
+HOST,files.mastodon.ktachibana.party,LIST
 HOST,files.mastodon.online,LIST
 HOST,files.mastodon.social,LIST
 HOST,files.readme.io,LIST
@@ -408,6 +412,7 @@ HOST,glyph.medium.com,LIST
 HOST,gmedia.playstation.com,LIST
 HOST,go.vercel.com,LIST
 HOST,godoc.org,LIST
+HOST,gopkg.in,LIST
 HOST,graph.facebook.com,LIST
 HOST,gravatar.cat.net,LIST
 HOST,gtranslate.io,LIST
@@ -426,16 +431,10 @@ HOST,i.niupic.com,LIST
 HOST,i.pcmag.com,LIST
 HOST,i.snap.as,LIST
 HOST,i.vgy.me,LIST
-HOST,i.ytimg.com,LIST
 HOST,i0.wp.com,LIST
 HOST,i1.wp.com,LIST
-HOST,i1.ytimg.com,LIST
 HOST,i2.wp.com,LIST
-HOST,i2.ytimg.com,LIST
 HOST,i3.wp.com,LIST
-HOST,i3.ytimg.com,LIST
-HOST,i4.ytimg.com,LIST
-HOST,i9.ytimg.com,LIST
 HOST,ichef.bbci.co.uk,LIST
 HOST,icons.buffer.com,LIST
 HOST,icons.duckduckgo.com,LIST
@@ -461,6 +460,7 @@ HOST,images.everyplate.com,LIST
 HOST,images.flightradar24.com,LIST
 HOST,images.freeimages.com,LIST
 HOST,images.g2crowd.com,LIST
+HOST,images.idgesg.net,LIST
 HOST,images.macrumors.com,LIST
 HOST,images.opencollective.com,LIST
 HOST,images.plurk.com,LIST
@@ -764,6 +764,7 @@ HOST,static-cache.fboom.me,LIST
 HOST,static-cache.k2s.cc,LIST
 HOST,static-cdn.jtvnw.net,LIST
 HOST,static-cdn.mastodon.social,LIST
+HOST,static-cdn.osdn.net,LIST
 HOST,static-cdn.spot.im,LIST
 HOST,static-clst.avgle.com,LIST
 HOST,static-dm.ubisoft.com,LIST
@@ -784,9 +785,11 @@ HOST,static.bit.dev,LIST
 HOST,static.bitfinex.com,LIST
 HOST,static.buffer.com,LIST
 HOST,static.bytepan.com,LIST
+HOST,static.change.org,LIST
 HOST,static.cloud.coveo.com,LIST
 HOST,static.codepen.io,LIST
 HOST,static.coinall.ltd,LIST
+HOST,static.corp.google.com,LIST
 HOST,static.cracked.io,LIST
 HOST,static.cracked.to,LIST
 HOST,static.crates.io,LIST
@@ -808,6 +811,7 @@ HOST,static.gopro.com,LIST
 HOST,static.heavy-r.com,LIST
 HOST,static.helpjuice.com,LIST
 HOST,static.hotjar.com,LIST
+HOST,static.ietf.org,LIST
 HOST,static.incapsula.com,LIST
 HOST,static.independent.co.uk,LIST
 HOST,static.infomaniak.ch,LIST
@@ -824,6 +828,7 @@ HOST,static.oklink.com,LIST
 HOST,static.okx.com,LIST
 HOST,static.olelive.com,LIST
 HOST,static.opensea.io,LIST
+HOST,static.osdn.net,LIST
 HOST,static.playstation.com,LIST
 HOST,static.redhat.com,LIST
 HOST,static.rust-lang.org,LIST
@@ -1027,6 +1032,7 @@ HOST-SUFFIX,boxcdn.net,LIST
 HOST-SUFFIX,bp.blogspot.com,LIST
 HOST-SUFFIX,bundle.run,LIST
 HOST-SUFFIX,bundle.thimatic-apps.com,LIST
+HOST-SUFFIX,bytedapm.com,LIST
 HOST-SUFFIX,c.staticblitz.com,LIST
 HOST-SUFFIX,catbox.moe,LIST
 HOST-SUFFIX,cdn-spurit.com,LIST
@@ -1441,6 +1447,7 @@ HOST-SUFFIX,static2cdn.hubspot.com,LIST
 HOST-SUFFIX,statically.io,LIST
 HOST-SUFFIX,staticaly.com,LIST
 HOST-SUFFIX,staticflickr.com,LIST
+HOST-SUFFIX,staticworld.net,LIST
 HOST-SUFFIX,statuspage.io,LIST
 HOST-SUFFIX,steamstatic.com,LIST
 HOST-SUFFIX,storage.googleapis.com,LIST
@@ -1515,6 +1522,7 @@ HOST-SUFFIX,yastatic.net,LIST
 HOST-SUFFIX,yelpcdn.com,LIST
 HOST-SUFFIX,yimg.com,LIST
 HOST-SUFFIX,ymq.cool,LIST
+HOST-SUFFIX,ytimg.com,LIST
 HOST-SUFFIX,z4a.net,LIST
 HOST-SUFFIX,zdassets.com,LIST
 HOST-SUFFIX,zdusercontent.com,LIST

@@ -1,5 +1,5 @@
-# Quantumult total line 4264
-# Last updated Sun 09/10/2023 22:15:50.30
+# Quantumult total line 4282
+# Last updated Wed 09/13/2023 22:17:07.42
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -13,6 +13,7 @@ HOST,ajax.microsoft.com,LIST
 HOST,akidoo.top,LIST
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,alt-images.codestream.com,LIST
+HOST,alt.idgesg.net,LIST
 HOST,amp.azure.net,LIST
 HOST,api-frameworks.vercel.sh,LIST
 HOST,api.bintray.com,LIST
@@ -36,6 +37,8 @@ HOST,archive.mozilla.org,LIST
 HOST,asset.booth.pm,LIST
 HOST,assets-cdn.abcnews.com,LIST
 HOST,assets-cdn.jable.tv,LIST
+HOST,assets-fe.change.org,LIST
+HOST,assets-jpcust.jwpsrv.com,LIST
 HOST,assets-next.matters.news,LIST
 HOST,assets-production.packagecloud.io,LIST
 HOST,assets-s3-us-east-1.ceros.com,LIST
@@ -50,6 +53,7 @@ HOST,assets.bwbx.io,LIST
 HOST,assets.calendly.com,LIST
 HOST,assets.canny.io,LIST
 HOST,assets.capterra.com,LIST
+HOST,assets.change.org,LIST
 HOST,assets.chess24.com,LIST
 HOST,assets.codepen.io,LIST
 HOST,assets.coinbase.com,LIST
@@ -330,6 +334,7 @@ HOST,ddcdn.comtucdncom.com,LIST
 HOST,denali-static.grammarly.com,LIST
 HOST,design-system.yext.com,LIST
 HOST,design.mayoclinic.org,LIST
+HOST,desktop.parallels.com,LIST
 HOST,devimages-cdn.apple.com,LIST
 HOST,devstreaming-cdn.apple.com,LIST
 HOST,disco.headliner.link,LIST
@@ -339,6 +344,7 @@ HOST,dl.devmate.com,LIST
 HOST,dl.discordapp.net,LIST
 HOST,dl.google.com,LIST
 HOST,dl.iina.io,LIST
+HOST,dl.l.google.com,LIST
 HOST,dl.motrix.app,LIST
 HOST,dl.nssurge.com,LIST
 HOST,dl.nwjs.io,LIST
@@ -357,11 +363,13 @@ HOST,down.filen.net,LIST
 HOST,download.anydesk.com,LIST
 HOST,download.beeper.com,LIST
 HOST,download.maxmind.com,LIST
+HOST,download.mlcc.google.com,LIST
 HOST,download.mozilla.org,LIST
 HOST,download.nektony.com,LIST
 HOST,download.parallels.com,LIST
 HOST,download.pixelexperience.org,LIST
 HOST,download.sketch.com,LIST
+HOST,download.tensorflow.google.com,LIST
 HOST,download.todesktop.com,LIST
 HOST,download.visualstudio.microsoft.com,LIST
 HOST,downloadr2.apkmirror.com,LIST
@@ -396,6 +404,7 @@ HOST,fast.wistia.com,LIST
 HOST,favicons.nextdns.io,LIST
 HOST,fiddle.jshell.net,LIST
 HOST,file.tktube.com,LIST
+HOST,files.mastodon.ktachibana.party,LIST
 HOST,files.mastodon.online,LIST
 HOST,files.mastodon.social,LIST
 HOST,files.readme.io,LIST
@@ -424,6 +433,7 @@ HOST,glyph.medium.com,LIST
 HOST,gmedia.playstation.com,LIST
 HOST,go.vercel.com,LIST
 HOST,godoc.org,LIST
+HOST,gopkg.in,LIST
 HOST,graph.facebook.com,LIST
 HOST,gravatar.cat.net,LIST
 HOST,gspe1-ssl.ls.apple.com,LIST
@@ -475,6 +485,7 @@ HOST,images.everyplate.com,LIST
 HOST,images.flightradar24.com,LIST
 HOST,images.freeimages.com,LIST
 HOST,images.g2crowd.com,LIST
+HOST,images.idgesg.net,LIST
 HOST,images.macrumors.com,LIST
 HOST,images.opencollective.com,LIST
 HOST,images.plurk.com,LIST
@@ -770,6 +781,7 @@ HOST,static-assets.coinbase.com,LIST
 HOST,static-assets.freeanimehentai.net,LIST
 HOST,static-assets.mapbox.com,LIST
 HOST,static-cdn.mastodon.social,LIST
+HOST,static-cdn.osdn.net,LIST
 HOST,static-cdn.spot.im,LIST
 HOST,static-clst.avgle.com,LIST
 HOST,static-dm.ubisoft.com,LIST
@@ -789,9 +801,11 @@ HOST,static.bit.dev,LIST
 HOST,static.bitfinex.com,LIST
 HOST,static.buffer.com,LIST
 HOST,static.bytepan.com,LIST
+HOST,static.change.org,LIST
 HOST,static.cloud.coveo.com,LIST
 HOST,static.codepen.io,LIST
 HOST,static.coinall.ltd,LIST
+HOST,static.corp.google.com,LIST
 HOST,static.cracked.io,LIST
 HOST,static.cracked.to,LIST
 HOST,static.crates.io,LIST
@@ -810,6 +824,7 @@ HOST,static.gopro.com,LIST
 HOST,static.heavy-r.com,LIST
 HOST,static.helpjuice.com,LIST
 HOST,static.hotjar.com,LIST
+HOST,static.ietf.org,LIST
 HOST,static.incapsula.com,LIST
 HOST,static.independent.co.uk,LIST
 HOST,static.infomaniak.ch,LIST
@@ -822,6 +837,7 @@ HOST,static.npmjs.com,LIST
 HOST,static.oklink.com,LIST
 HOST,static.okx.com,LIST
 HOST,static.opensea.io,LIST
+HOST,static.osdn.net,LIST
 HOST,static.playstation.com,LIST
 HOST,static.redhat.com,LIST
 HOST,static.rust-lang.org,LIST
@@ -1229,6 +1245,7 @@ HOST-SUFFIX,bucketeer.jp,LIST
 HOST-SUFFIX,bundle.run,LIST
 HOST-SUFFIX,bundle.thimatic-apps.com,LIST
 HOST-SUFFIX,buyvm.net,LIST
+HOST-SUFFIX,bytedapm.com,LIST
 HOST-SUFFIX,byteoversea.com,LIST
 HOST-SUFFIX,c.staticblitz.com,LIST
 HOST-SUFFIX,c4assets.com,LIST
@@ -1263,7 +1280,6 @@ HOST-SUFFIX,cdkworkshop.com,LIST
 HOST-SUFFIX,cdn-spurit.com,LIST
 HOST-SUFFIX,cdn.angruo.com,LIST
 HOST-SUFFIX,cdn.cloudflare.net,LIST
-HOST-SUFFIX,cdn.cookielaw.org,LIST
 HOST-SUFFIX,cdn.cwinfo.net,LIST
 HOST-SUFFIX,cdn.discordapp.com,LIST
 HOST-SUFFIX,cdn.entelectonline.co.za,LIST
@@ -1359,6 +1375,7 @@ HOST-SUFFIX,control.kochava.com,LIST
 HOST-SUFFIX,convertio.co,LIST
 HOST-SUFFIX,convertio.me,LIST
 HOST-SUFFIX,conviva.com,LIST
+HOST-SUFFIX,cookielaw.org,LIST
 HOST-SUFFIX,coral.coralproject.net,LIST
 HOST-SUFFIX,coronavirusnow.com,LIST
 HOST-SUFFIX,cosmobox.org,LIST
@@ -1434,7 +1451,6 @@ HOST-SUFFIX,discoveryplus.in,LIST
 HOST-SUFFIX,disney-asia.com,LIST
 HOST-SUFFIX,disney-discount.com,LIST
 HOST-SUFFIX,disney-plus.net,LIST
-HOST-SUFFIX,disney-portal.my.onetrust.com,LIST
 HOST-SUFFIX,disney-studio.com,LIST
 HOST-SUFFIX,disney-studio.net,LIST
 HOST-SUFFIX,disney.asia,LIST
@@ -2530,6 +2546,7 @@ HOST-SUFFIX,oload.tv,LIST
 HOST-SUFFIX,ominisrc.com,LIST
 HOST-SUFFIX,omnisnippet1.com,LIST
 HOST-SUFFIX,oneclient.sfx.ms,LIST
+HOST-SUFFIX,onetrust.com,LIST
 HOST-SUFFIX,onrender.com,LIST
 HOST-SUFFIX,openload.co,LIST
 HOST-SUFFIX,operacdn.com,LIST
@@ -2856,6 +2873,7 @@ HOST-SUFFIX,static2cdn.hubspot.com,LIST
 HOST-SUFFIX,statically.io,LIST
 HOST-SUFFIX,staticaly.com,LIST
 HOST-SUFFIX,staticflickr.com,LIST
+HOST-SUFFIX,staticworld.net,LIST
 HOST-SUFFIX,statuspage.io,LIST
 HOST-SUFFIX,steam-api.com,LIST
 HOST-SUFFIX,steamcontent.tnkjmec.com,LIST

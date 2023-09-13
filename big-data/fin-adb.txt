@@ -1,5 +1,5 @@
-# Adblock total line 3261
-# Last updated Sun 09/10/2023 22:15:50.48
+# Adblock total line 3279
+# Last updated Wed 09/13/2023 22:17:07.66
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -13,6 +13,7 @@
 ||akidoo.top^
 ||akmcdnoversea-tw.inter.ptqy.gitv.tv^
 ||alt-images.codestream.com^
+||alt.idgesg.net^
 ||amp.azure.net^
 ||api-frameworks.vercel.sh^
 ||api.bintray.com^
@@ -36,6 +37,8 @@
 ||asset.booth.pm^
 ||assets-cdn.abcnews.com^
 ||assets-cdn.jable.tv^
+||assets-fe.change.org^
+||assets-jpcust.jwpsrv.com^
 ||assets-next.matters.news^
 ||assets-production.packagecloud.io^
 ||assets-s3-us-east-1.ceros.com^
@@ -50,6 +53,7 @@
 ||assets.calendly.com^
 ||assets.canny.io^
 ||assets.capterra.com^
+||assets.change.org^
 ||assets.chess24.com^
 ||assets.codepen.io^
 ||assets.coinbase.com^
@@ -330,6 +334,7 @@
 ||denali-static.grammarly.com^
 ||design-system.yext.com^
 ||design.mayoclinic.org^
+||desktop.parallels.com^
 ||devimages-cdn.apple.com^
 ||devstreaming-cdn.apple.com^
 ||disco.headliner.link^
@@ -339,6 +344,7 @@
 ||dl.discordapp.net^
 ||dl.google.com^
 ||dl.iina.io^
+||dl.l.google.com^
 ||dl.motrix.app^
 ||dl.nssurge.com^
 ||dl.nwjs.io^
@@ -357,11 +363,13 @@
 ||download.anydesk.com^
 ||download.beeper.com^
 ||download.maxmind.com^
+||download.mlcc.google.com^
 ||download.mozilla.org^
 ||download.nektony.com^
 ||download.parallels.com^
 ||download.pixelexperience.org^
 ||download.sketch.com^
+||download.tensorflow.google.com^
 ||download.todesktop.com^
 ||download.visualstudio.microsoft.com^
 ||downloadr2.apkmirror.com^
@@ -396,6 +404,7 @@
 ||favicons.nextdns.io^
 ||fiddle.jshell.net^
 ||file.tktube.com^
+||files.mastodon.ktachibana.party^
 ||files.mastodon.online^
 ||files.mastodon.social^
 ||files.readme.io^
@@ -424,6 +433,7 @@
 ||gmedia.playstation.com^
 ||go.vercel.com^
 ||godoc.org^
+||gopkg.in^
 ||graph.facebook.com^
 ||gravatar.cat.net^
 ||gspe1-ssl.ls.apple.com^
@@ -475,6 +485,7 @@
 ||images.flightradar24.com^
 ||images.freeimages.com^
 ||images.g2crowd.com^
+||images.idgesg.net^
 ||images.macrumors.com^
 ||images.opencollective.com^
 ||images.plurk.com^
@@ -770,6 +781,7 @@
 ||static-assets.freeanimehentai.net^
 ||static-assets.mapbox.com^
 ||static-cdn.mastodon.social^
+||static-cdn.osdn.net^
 ||static-cdn.spot.im^
 ||static-clst.avgle.com^
 ||static-dm.ubisoft.com^
@@ -789,9 +801,11 @@
 ||static.bitfinex.com^
 ||static.buffer.com^
 ||static.bytepan.com^
+||static.change.org^
 ||static.cloud.coveo.com^
 ||static.codepen.io^
 ||static.coinall.ltd^
+||static.corp.google.com^
 ||static.cracked.io^
 ||static.cracked.to^
 ||static.crates.io^
@@ -810,6 +824,7 @@
 ||static.heavy-r.com^
 ||static.helpjuice.com^
 ||static.hotjar.com^
+||static.ietf.org^
 ||static.incapsula.com^
 ||static.independent.co.uk^
 ||static.infomaniak.ch^
@@ -822,6 +837,7 @@
 ||static.oklink.com^
 ||static.okx.com^
 ||static.opensea.io^
+||static.osdn.net^
 ||static.playstation.com^
 ||static.redhat.com^
 ||static.rust-lang.org^
@@ -1229,6 +1245,7 @@
 ||bundle.run^
 ||bundle.thimatic-apps.com^
 ||buyvm.net^
+||bytedapm.com^
 ||byteoversea.com^
 ||c.staticblitz.com^
 ||c4assets.com^
@@ -1263,7 +1280,6 @@
 ||cdn-spurit.com^
 ||cdn.angruo.com^
 ||cdn.cloudflare.net^
-||cdn.cookielaw.org^
 ||cdn.cwinfo.net^
 ||cdn.discordapp.com^
 ||cdn.entelectonline.co.za^
@@ -1359,6 +1375,7 @@
 ||convertio.co^
 ||convertio.me^
 ||conviva.com^
+||cookielaw.org^
 ||coral.coralproject.net^
 ||coronavirusnow.com^
 ||cosmobox.org^
@@ -1434,7 +1451,6 @@
 ||disney-asia.com^
 ||disney-discount.com^
 ||disney-plus.net^
-||disney-portal.my.onetrust.com^
 ||disney-studio.com^
 ||disney-studio.net^
 ||disney.asia^
@@ -2530,6 +2546,7 @@
 ||ominisrc.com^
 ||omnisnippet1.com^
 ||oneclient.sfx.ms^
+||onetrust.com^
 ||onrender.com^
 ||openload.co^
 ||operacdn.com^
@@ -2856,6 +2873,7 @@
 ||statically.io^
 ||staticaly.com^
 ||staticflickr.com^
+||staticworld.net^
 ||statuspage.io^
 ||steam-api.com^
 ||steamcontent.tnkjmec.com^
