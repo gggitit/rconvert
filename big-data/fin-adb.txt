@@ -1,5 +1,5 @@
-# Adblock total line 3279
-# Last updated Wed 09/13/2023 22:17:07.66
+# Adblock total line 3297
+# Last updated Sat 09/16/2023 22:15:50.13
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -143,9 +143,11 @@
 ||cache.agilebits.com^
 ||cache.video.iqiyi.com^
 ||cdn-a.sonyentertainmentnetwork.com^
+||cdn-app.pathfactory.com^
 ||cdn-assets.circleci.com^
 ||cdn-assets.porntube.com^
 ||cdn-client.medium.com^
+||cdn-eu.dynamicyield.com^
 ||cdn-fck.tnaflix.com^
 ||cdn-images.mailchimp.com^
 ||cdn-live.foreignaffairs.com^
@@ -189,6 +191,7 @@
 ||cdn.db-ip.com^
 ||cdn.download.it^
 ||cdn.dribbble.com^
+||cdn.dynamicyield.com^
 ||cdn.equalweb.com^
 ||cdn.faire.com^
 ||cdn.filen.io^
@@ -232,9 +235,11 @@
 ||cdn.neverbounce.com^
 ||cdn.now.gg^
 ||cdn.onesignal.com^
+||cdn.osxdaily.com^
 ||cdn.paddle.com^
 ||cdn.pagefly.io^
 ||cdn.pagic.org^
+||cdn.pathfactory.com^
 ||cdn.perfops.net^
 ||cdn.piano.io^
 ||cdn.pickystory.com^
@@ -320,6 +325,7 @@
 ||connect.facebook.net^
 ||consumersite-assets.trustpilot.net^
 ||content-prod-live.cert.starbucks.com^
+||cookie-cdn.cookiepro.com^
 ||cpwebassets.codepen.io^
 ||crates.io^
 ||creativajs.altervista.org^
@@ -481,6 +487,7 @@
 ||images.contentful.com^
 ||images.dmca.com^
 ||images.ecomm.microsoft.com^
+||images.emojiterra.com^
 ||images.everyplate.com^
 ||images.flightradar24.com^
 ||images.freeimages.com^
@@ -516,6 +523,7 @@
 ||img.pawoo.net^
 ||img.perfops.net^
 ||img.represent.com^
+||img.riskified.com^
 ||img.shana-laopo.xyz^
 ||img.skk.moe^
 ||img.timero.xyz^
@@ -530,6 +538,7 @@
 ||imgs.plurk.com^
 ||imgs.search.brave.com^
 ||imgs.xkcd.com^
+||imgssl.constantcontact.com^
 ||imgur.dcard.tw^
 ||info.cloudflare.com^
 ||ipfs.d.tube^
@@ -769,7 +778,9 @@
 ||sp.replit.com^
 ||spcdn.incartupsell.com^
 ||spoppe-b.azureedge.net^
+||st-eu.dynamicyield.com^
 ||st.deviantart.net^
+||st.dynamicyield.com^
 ||st1.zoom.us^
 ||st2.zoom.us^
 ||st3.zoom.us^
@@ -813,6 +824,7 @@
 ||static.dash.cloudflare.com^
 ||static.deepl.com^
 ||static.dw.com^
+||static.dynamicyield.com^
 ||static.euronews.com^
 ||static.figma.com^
 ||static.filestackapi.com^
@@ -918,6 +930,7 @@
 ||use.typekit.com^
 ||use.typekit.net^
 ||user-images.trustpilot.com^
+||user-uploads.perchance.org^
 ||usercontent.flodesk.com^
 ||userfiles.uptimerobot.com^
 ||userimg.customeriomail.com^
@@ -1749,6 +1762,7 @@
 ||flyshare.me^
 ||flzbcdn.xyz^
 ||fmgstatic.com^
+||fnbuilds.services^
 ||fontawesome.com^
 ||fonts.com^
 ||fonts.net^
@@ -2124,6 +2138,7 @@
 ||icon.horse^
 ||iflix.com^
 ||iframe.ly^
+||iggcdn.com^
 ||ignimgs.com^
 ||iii.hair^
 ||ik.imagekit.io^
@@ -2623,6 +2638,7 @@
 ||postimg.cc^
 ||potplayer.tv^
 ||pplusstatic.com^
+||prcdn.co^
 ||prefiles.com^
 ||pressablecdn.com^
 ||prime-video.com^
@@ -2955,6 +2971,7 @@
 ||top4top.net^
 ||transcend-cdn.com^
 ||tth-ipfs.com^
+||ttwstatic.com^
 ||turb.cc^
 ||turb.to^
 ||turbo.to^
@@ -3091,6 +3108,7 @@
 ||viblast.com^
 ||vidcloud.co^
 ||vidcpm.com^
+||video-cdn.net^
 ||video.a2z.com^
 ||video.google.com^
 ||video.missav.com^

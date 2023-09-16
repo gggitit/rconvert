@@ -1,5 +1,5 @@
-# Clash total line 1531
-# Last updated Wed 09/13/2023 22:16:51.57
+# Clash total line 1549
+# Last updated Sat 09/16/2023 22:15:37.70
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -141,9 +141,11 @@ payload:
   - DOMAIN,cache-05.filehippo.net
   - DOMAIN,cache.agilebits.com
   - DOMAIN,cdn-a.sonyentertainmentnetwork.com
+  - DOMAIN,cdn-app.pathfactory.com
   - DOMAIN,cdn-assets.circleci.com
   - DOMAIN,cdn-assets.porntube.com
   - DOMAIN,cdn-client.medium.com
+  - DOMAIN,cdn-eu.dynamicyield.com
   - DOMAIN,cdn-fck.tnaflix.com
   - DOMAIN,cdn-images.mailchimp.com
   - DOMAIN,cdn-live.foreignaffairs.com
@@ -164,6 +166,7 @@ payload:
   - DOMAIN,cdn.arcade.software
   - DOMAIN,cdn.arstechnica.net
   - DOMAIN,cdn.ashbyprd.com
+  - DOMAIN,cdn.assets.as2.amazonaws.com
   - DOMAIN,cdn.autoketing.org
   - DOMAIN,cdn.bfe.dev
   - DOMAIN,cdn.branch.io
@@ -187,6 +190,7 @@ payload:
   - DOMAIN,cdn.db-ip.com
   - DOMAIN,cdn.download.it
   - DOMAIN,cdn.dribbble.com
+  - DOMAIN,cdn.dynamicyield.com
   - DOMAIN,cdn.equalweb.com
   - DOMAIN,cdn.faire.com
   - DOMAIN,cdn.filen.io
@@ -231,9 +235,11 @@ payload:
   - DOMAIN,cdn.neverbounce.com
   - DOMAIN,cdn.now.gg
   - DOMAIN,cdn.onesignal.com
+  - DOMAIN,cdn.osxdaily.com
   - DOMAIN,cdn.paddle.com
   - DOMAIN,cdn.pagefly.io
   - DOMAIN,cdn.pagic.org
+  - DOMAIN,cdn.pathfactory.com
   - DOMAIN,cdn.perfops.net
   - DOMAIN,cdn.piano.io
   - DOMAIN,cdn.pickystory.com
@@ -327,6 +333,7 @@ payload:
   - DOMAIN,consumersite-assets.trustpilot.net
   - DOMAIN,content-prod-live.cert.starbucks.com
   - DOMAIN,content.jwplatform.com
+  - DOMAIN,cookie-cdn.cookiepro.com
   - DOMAIN,cpwebassets.codepen.io
   - DOMAIN,crates.io
   - DOMAIN,creativajs.altervista.org
@@ -457,6 +464,7 @@ payload:
   - DOMAIN,images.contentful.com
   - DOMAIN,images.dmca.com
   - DOMAIN,images.ecomm.microsoft.com
+  - DOMAIN,images.emojiterra.com
   - DOMAIN,images.everyplate.com
   - DOMAIN,images.flightradar24.com
   - DOMAIN,images.freeimages.com
@@ -494,6 +502,7 @@ payload:
   - DOMAIN,img.pawoo.net
   - DOMAIN,img.perfops.net
   - DOMAIN,img.represent.com
+  - DOMAIN,img.riskified.com
   - DOMAIN,img.skk.moe
   - DOMAIN,img.timero.xyz
   - DOMAIN,img.utdstc.com
@@ -508,6 +517,7 @@ payload:
   - DOMAIN,imgs.plurk.com
   - DOMAIN,imgs.search.brave.com
   - DOMAIN,imgs.xkcd.com
+  - DOMAIN,imgssl.constantcontact.com
   - DOMAIN,imgur.dcard.tw
   - DOMAIN,info.cloudflare.com
   - DOMAIN,ipfs.d.tube
@@ -750,7 +760,9 @@ payload:
   - DOMAIN,spcdn.incartupsell.com
   - DOMAIN,spoppe-b.azureedge.net
   - DOMAIN,spoprod-a.akamaihd.net
+  - DOMAIN,st-eu.dynamicyield.com
   - DOMAIN,st.deviantart.net
+  - DOMAIN,st.dynamicyield.com
   - DOMAIN,st1.zoom.us
   - DOMAIN,st2.zoom.us
   - DOMAIN,st3.zoom.us
@@ -798,6 +810,7 @@ payload:
   - DOMAIN,static.dash.cloudflare.com
   - DOMAIN,static.deepl.com
   - DOMAIN,static.dw.com
+  - DOMAIN,static.dynamicyield.com
   - DOMAIN,static.euronews.com
   - DOMAIN,static.figma.com
   - DOMAIN,static.files.bbci.co.uk
@@ -928,6 +941,7 @@ payload:
   - DOMAIN,use.typekit.com
   - DOMAIN,use.typekit.net
   - DOMAIN,user-images.trustpilot.com
+  - DOMAIN,user-uploads.perchance.org
   - DOMAIN,usercontent.flodesk.com
   - DOMAIN,userfiles.uptimerobot.com
   - DOMAIN,userimg.customeriomail.com
@@ -1170,6 +1184,7 @@ payload:
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,icon.horse
   - DOMAIN-SUFFIX,iframe.ly
+  - DOMAIN-SUFFIX,iggcdn.com
   - DOMAIN-SUFFIX,ignimgs.com
   - DOMAIN-SUFFIX,ik.imagekit.io
   - DOMAIN-SUFFIX,imagebam.com
@@ -1322,6 +1337,7 @@ payload:
   - DOMAIN-SUFFIX,porndudecdn.com
   - DOMAIN-SUFFIX,pornimg.xyz
   - DOMAIN-SUFFIX,postimg.cc
+  - DOMAIN-SUFFIX,prcdn.co
   - DOMAIN-SUFFIX,pressablecdn.com
   - DOMAIN-SUFFIX,prod.public.atl-paas.net
   - DOMAIN-SUFFIX,pstatic.net
@@ -1468,6 +1484,7 @@ payload:
   - DOMAIN-SUFFIX,tnastatic.com
   - DOMAIN-SUFFIX,transcend-cdn.com
   - DOMAIN-SUFFIX,tth-ipfs.com
+  - DOMAIN-SUFFIX,ttwstatic.com
   - DOMAIN-SUFFIX,turboimg.net
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,typography.com
@@ -1486,6 +1503,7 @@ payload:
   - DOMAIN-SUFFIX,vanillicon.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,vercel.dev
+  - DOMAIN-SUFFIX,video-cdn.net
   - DOMAIN-SUFFIX,video.missav.com
   - DOMAIN-SUFFIX,videodelivery.net
   - DOMAIN-SUFFIX,vimeocdn.com
