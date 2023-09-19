@@ -1,5 +1,5 @@
-# Adblock total line 3297
-# Last updated Sat 09/16/2023 22:15:50.13
+# Adblock total line 3311
+# Last updated Tue 09/19/2023 22:16:16.74
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -55,6 +55,7 @@
 ||assets.capterra.com^
 ||assets.change.org^
 ||assets.chess24.com^
+||assets.clever-cloud.com^
 ||assets.codepen.io^
 ||assets.coinbase.com^
 ||assets.convertkit.com^
@@ -180,6 +181,7 @@
 ||cdn.channel.io^
 ||cdn.chess24.com^
 ||cdn.circle.so^
+||cdn.clever-cloud.com^
 ||cdn.cloudcraft.co^
 ||cdn.cnx-software.com^
 ||cdn.cocoapods.org^
@@ -259,6 +261,7 @@
 ||cdn.search.brave.com^
 ||cdn.sellix.io^
 ||cdn.setapp.com^
+||cdn.sheetjs.com^
 ||cdn.shopify.com^
 ||cdn.signalfx.com^
 ||cdn.sketch.com^
@@ -321,6 +324,7 @@
 ||code.iconify.design^
 ||code.jquery.com^
 ||compass-ssl.xbox.com^
+||components.clever-cloud.com^
 ||confluence-v1.prod.atl-paas.net^
 ||connect.facebook.net^
 ||consumersite-assets.trustpilot.net^
@@ -337,6 +341,7 @@
 ||daznfeeds.com.edgekey.net^
 ||dca-lm-livedazn.secure.footprint.net^
 ||ddcdn.comtucdncom.com^
+||demo.unified-streaming.com^
 ||denali-static.grammarly.com^
 ||design-system.yext.com^
 ||design.mayoclinic.org^
@@ -568,6 +573,7 @@
 ||link.storjshare.io^
 ||linkstorage.linkfire.com^
 ||livedoor.blogimg.jp^
+||logo.clearbit.com^
 ||loutre.blockchair.io^
 ||maps.geoapify.com^
 ||mastodon-static.miao.dev^
@@ -657,6 +663,7 @@
 ||pengtu.cc^
 ||photos5.appleinsider.com^
 ||pic.7mmtv.me^
+||pic.cangku.moe^
 ||pic.cdnclouder.com^
 ||pic.skk.moe^
 ||piccdn.7mmtv.sx^
@@ -742,12 +749,17 @@
 ||s3.arkjp.net^
 ||s3.c.im^
 ||s3.envato.com^
+||s3.eu-central-003.backblazeb2.com^
 ||s3.eu-central-2.wasabisys.com^
 ||s3.filebase.com^
 ||s3.m.0x.mk^
 ||s3.masto.ai^
 ||s3.stackabuse.com^
 ||s3.toot.io^
+||s3.us-west-000.backblazeb2.com^
+||s3.us-west-001.backblazeb2.com^
+||s3.us-west-002.backblazeb2.com^
+||s3.us-west-004.backblazeb2.com^
 ||s3.wp.com^
 ||s3media.squarespace.com^
 ||safebrowsing.googleapis.com^
@@ -2163,6 +2175,7 @@
 ||indaznlab.com^
 ||indishare.me^
 ||indishare.org^
+||infura-ipfs.io^
 ||insidevoa.com^
 ||instant.page^
 ||inter.iqiyi.com^
@@ -2194,6 +2207,7 @@
 ||ipfs.funnychain.co^
 ||ipfs.genenetwork.org^
 ||ipfs.greyh.at^
+||ipfs.infura.io^
 ||ipfs.ink^
 ||ipfs.io^
 ||ipfs.jbb.one^
