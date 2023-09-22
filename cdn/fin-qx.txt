@@ -1,5 +1,5 @@
-# Quantumult total line 1563
-# Last updated Tue 09/19/2023 22:16:05.55
+# Quantumult total line 1573
+# Last updated Fri 09/22/2023 22:16:28.60
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -63,6 +63,7 @@ HOST,assets.flodesk.com,LIST
 HOST,assets.getkirby.com,LIST
 HOST,assets.grammarly.com,LIST
 HOST,assets.gumroad.com,LIST
+HOST,assets.habr.com,LIST
 HOST,assets.ifttt.com,LIST
 HOST,assets.ipstack.com,LIST
 HOST,assets.jable.tv,LIST
@@ -71,6 +72,7 @@ HOST,assets.leetcode.com,LIST
 HOST,assets.lemonsqueezy.com,LIST
 HOST,assets.matters.news,LIST
 HOST,assets.mayoclinic.org,LIST
+HOST,assets.mozilla.social,LIST
 HOST,assets.msn.com,LIST
 HOST,assets.nationbuilder.com,LIST
 HOST,assets.nintendo.com,LIST
@@ -178,6 +180,7 @@ HOST,cdn.channel.io,LIST
 HOST,cdn.chess24.com,LIST
 HOST,cdn.circle.so,LIST
 HOST,cdn.clever-cloud.com,LIST
+HOST,cdn.cliqz.com,LIST
 HOST,cdn.cloudcraft.co,LIST
 HOST,cdn.cms-twdigitalassets.com,LIST
 HOST,cdn.cnx-software.com,LIST
@@ -246,6 +249,7 @@ HOST,cdn.piano.io,LIST
 HOST,cdn.pickystory.com,LIST
 HOST,cdn.pika.dev,LIST
 HOST,cdn.pixabay.com,LIST
+HOST,cdn.player.fm,LIST
 HOST,cdn.plyr.io,LIST
 HOST,cdn.pricespider.com,LIST
 HOST,cdn.privacy-mgmt.com,LIST
@@ -462,6 +466,7 @@ HOST,image.ship.vercel.com,LIST
 HOST,image.status.io,LIST
 HOST,image.thefly.com,LIST
 HOST,image.tmdb.org,LIST
+HOST,imagehost.player.fm,LIST
 HOST,images-eds-ssl.xboxlive.com,LIST
 HOST,images-ext-1.discordapp.net,LIST
 HOST,images-ext-2.discordapp.net,LIST
@@ -650,6 +655,7 @@ HOST,pics.x-n-x-x.pro,LIST
 HOST,pkg-cdn.jetbrains.team,LIST
 HOST,pkg.csb.dev,LIST
 HOST,placeimg.com,LIST
+HOST,play.publicradio.org,LIST
 HOST,play.vidyard.com,LIST
 HOST,player-frontend.cnevids.com,LIST
 HOST,player.cnevids.com,LIST
@@ -689,6 +695,7 @@ HOST,renderer-assets.typeform.com,LIST
 HOST,replicate.npmjs.com,LIST
 HOST,repo.gradle.org,LIST
 HOST,repo.maven.apache.org,LIST
+HOST,repo.nextdns.io,LIST
 HOST,repo1.maven.org,LIST
 HOST,repos.danosproject.org,LIST
 HOST,repository.jboss.org,LIST
@@ -1187,6 +1194,7 @@ HOST-SUFFIX,hs-scripts.com,LIST
 HOST-SUFFIX,hs-scripts.net,LIST
 HOST-SUFFIX,hsappstatic.net,LIST
 HOST-SUFFIX,hscollectedforms.net,LIST
+HOST-SUFFIX,hsto.org,LIST
 HOST-SUFFIX,hubspotusercontent-eu1.net,LIST
 HOST-SUFFIX,hubspotusercontent-na1.net,LIST
 HOST-SUFFIX,hubspotusercontent30.com,LIST
@@ -1484,6 +1492,7 @@ HOST-SUFFIX,storage.googleapis.com,LIST
 HOST-SUFFIX,storage.infomaniak.com,LIST
 HOST-SUFFIX,storage.yandexcloud.net,LIST
 HOST-SUFFIX,storjipfs-gateway.com,LIST
+HOST-SUFFIX,stream.publicradio.org,LIST
 HOST-SUFFIX,streamhentai.org,LIST
 HOST-SUFFIX,strpst.com,LIST
 HOST-SUFFIX,surge.sh,LIST
@@ -1509,6 +1518,7 @@ HOST-SUFFIX,ungrounded.net,LIST
 HOST-SUFFIX,unpkg.com,LIST
 HOST-SUFFIX,uploads-ssl.webflow.com,LIST
 HOST-SUFFIX,usercontent.dev,LIST
+HOST-SUFFIX,usercontent.goog,LIST
 HOST-SUFFIX,usercontent.one,LIST
 HOST-SUFFIX,v-cdn.net,LIST
 HOST-SUFFIX,v-corp.staticblitz.com,LIST

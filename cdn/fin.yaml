@@ -1,5 +1,5 @@
-# Clash total line 1563
-# Last updated Tue 09/19/2023 22:16:05.60
+# Clash total line 1573
+# Last updated Fri 09/22/2023 22:16:28.63
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -64,6 +64,7 @@ payload:
   - DOMAIN,assets.getkirby.com
   - DOMAIN,assets.grammarly.com
   - DOMAIN,assets.gumroad.com
+  - DOMAIN,assets.habr.com
   - DOMAIN,assets.ifttt.com
   - DOMAIN,assets.ipstack.com
   - DOMAIN,assets.jable.tv
@@ -72,6 +73,7 @@ payload:
   - DOMAIN,assets.lemonsqueezy.com
   - DOMAIN,assets.matters.news
   - DOMAIN,assets.mayoclinic.org
+  - DOMAIN,assets.mozilla.social
   - DOMAIN,assets.msn.com
   - DOMAIN,assets.nationbuilder.com
   - DOMAIN,assets.nintendo.com
@@ -179,6 +181,7 @@ payload:
   - DOMAIN,cdn.chess24.com
   - DOMAIN,cdn.circle.so
   - DOMAIN,cdn.clever-cloud.com
+  - DOMAIN,cdn.cliqz.com
   - DOMAIN,cdn.cloudcraft.co
   - DOMAIN,cdn.cms-twdigitalassets.com
   - DOMAIN,cdn.cnx-software.com
@@ -247,6 +250,7 @@ payload:
   - DOMAIN,cdn.pickystory.com
   - DOMAIN,cdn.pika.dev
   - DOMAIN,cdn.pixabay.com
+  - DOMAIN,cdn.player.fm
   - DOMAIN,cdn.plyr.io
   - DOMAIN,cdn.pricespider.com
   - DOMAIN,cdn.privacy-mgmt.com
@@ -463,6 +467,7 @@ payload:
   - DOMAIN,image.status.io
   - DOMAIN,image.thefly.com
   - DOMAIN,image.tmdb.org
+  - DOMAIN,imagehost.player.fm
   - DOMAIN,images-eds-ssl.xboxlive.com
   - DOMAIN,images-ext-1.discordapp.net
   - DOMAIN,images-ext-2.discordapp.net
@@ -651,6 +656,7 @@ payload:
   - DOMAIN,pkg-cdn.jetbrains.team
   - DOMAIN,pkg.csb.dev
   - DOMAIN,placeimg.com
+  - DOMAIN,play.publicradio.org
   - DOMAIN,play.vidyard.com
   - DOMAIN,player-frontend.cnevids.com
   - DOMAIN,player.cnevids.com
@@ -690,6 +696,7 @@ payload:
   - DOMAIN,replicate.npmjs.com
   - DOMAIN,repo.gradle.org
   - DOMAIN,repo.maven.apache.org
+  - DOMAIN,repo.nextdns.io
   - DOMAIN,repo1.maven.org
   - DOMAIN,repos.danosproject.org
   - DOMAIN,repository.jboss.org
@@ -1188,6 +1195,7 @@ payload:
   - DOMAIN-SUFFIX,hs-scripts.net
   - DOMAIN-SUFFIX,hsappstatic.net
   - DOMAIN-SUFFIX,hscollectedforms.net
+  - DOMAIN-SUFFIX,hsto.org
   - DOMAIN-SUFFIX,hubspotusercontent-eu1.net
   - DOMAIN-SUFFIX,hubspotusercontent-na1.net
   - DOMAIN-SUFFIX,hubspotusercontent30.com
@@ -1485,6 +1493,7 @@ payload:
   - DOMAIN-SUFFIX,storage.infomaniak.com
   - DOMAIN-SUFFIX,storage.yandexcloud.net
   - DOMAIN-SUFFIX,storjipfs-gateway.com
+  - DOMAIN-SUFFIX,stream.publicradio.org
   - DOMAIN-SUFFIX,streamhentai.org
   - DOMAIN-SUFFIX,strpst.com
   - DOMAIN-SUFFIX,surge.sh
@@ -1510,6 +1519,7 @@ payload:
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,uploads-ssl.webflow.com
   - DOMAIN-SUFFIX,usercontent.dev
+  - DOMAIN-SUFFIX,usercontent.goog
   - DOMAIN-SUFFIX,usercontent.one
   - DOMAIN-SUFFIX,v-cdn.net
   - DOMAIN-SUFFIX,v-corp.staticblitz.com

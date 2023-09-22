@@ -1,5 +1,5 @@
-# Adblock total line 3311
-# Last updated Tue 09/19/2023 22:16:16.74
+# Adblock total line 3321
+# Last updated Fri 09/22/2023 22:16:42.32
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -65,6 +65,7 @@
 ||assets.getkirby.com^
 ||assets.grammarly.com^
 ||assets.gumroad.com^
+||assets.habr.com^
 ||assets.ifttt.com^
 ||assets.ipstack.com^
 ||assets.jable.tv^
@@ -73,6 +74,7 @@
 ||assets.lemonsqueezy.com^
 ||assets.matters.news^
 ||assets.mayoclinic.org^
+||assets.mozilla.social^
 ||assets.msn.com^
 ||assets.nationbuilder.com^
 ||assets.nintendo.com^
@@ -182,6 +184,7 @@
 ||cdn.chess24.com^
 ||cdn.circle.so^
 ||cdn.clever-cloud.com^
+||cdn.cliqz.com^
 ||cdn.cloudcraft.co^
 ||cdn.cnx-software.com^
 ||cdn.cocoapods.org^
@@ -247,6 +250,7 @@
 ||cdn.pickystory.com^
 ||cdn.pika.dev^
 ||cdn.pixabay.com^
+||cdn.player.fm^
 ||cdn.pricespider.com^
 ||cdn.privacy-mgmt.com^
 ||cdn.rauno.me^
@@ -486,6 +490,7 @@
 ||image.status.io^
 ||image.thefly.com^
 ||image.tmdb.org^
+||imagehost.player.fm^
 ||images-eds-ssl.xboxlive.com^
 ||images-ext-1.discordapp.net^
 ||images-ext-2.discordapp.net^
@@ -673,6 +678,7 @@
 ||pkg.csb.dev^
 ||placeimg.com^
 ||play-edge.itunes.apple.com^
+||play.publicradio.org^
 ||play.vidyard.com^
 ||player-frontend.cnevids.com^
 ||player.cnevids.com^
@@ -708,6 +714,7 @@
 ||releases.arc.net^
 ||renderer-assets.typeform.com^
 ||replicate.npmjs.com^
+||repo.nextdns.io^
 ||repo1.maven.org^
 ||repos.danosproject.org^
 ||repository.jboss.org^
@@ -2078,6 +2085,7 @@
 ||hs-scripts.net^
 ||hsappstatic.net^
 ||hscollectedforms.net^
+||hsto.org^
 ||hu1u.com^
 ||hubspotusercontent-eu1.net^
 ||hubspotusercontent-na1.net^
@@ -2917,6 +2925,7 @@
 ||storage.yandexcloud.net^
 ||storjipfs-gateway.com^
 ||streaks.jp^
+||stream.publicradio.org^
 ||streamango.com^
 ||streamcherry.com^
 ||streamhentai.org^
@@ -3083,6 +3092,7 @@
 ||uschovna.cz^
 ||usemet.nl^
 ||usercontent.dev^
+||usercontent.goog^
 ||usercontent.one^
 ||userscloud.com^
 ||usersdrive.com^

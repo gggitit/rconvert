@@ -1,5 +1,5 @@
-# Adblock total line 1563
-# Last updated Tue 09/19/2023 22:16:05.70
+# Adblock total line 1573
+# Last updated Fri 09/22/2023 22:16:28.74
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -63,6 +63,7 @@
 ||assets.getkirby.com^
 ||assets.grammarly.com^
 ||assets.gumroad.com^
+||assets.habr.com^
 ||assets.ifttt.com^
 ||assets.ipstack.com^
 ||assets.jable.tv^
@@ -71,6 +72,7 @@
 ||assets.lemonsqueezy.com^
 ||assets.matters.news^
 ||assets.mayoclinic.org^
+||assets.mozilla.social^
 ||assets.msn.com^
 ||assets.nationbuilder.com^
 ||assets.nintendo.com^
@@ -178,6 +180,7 @@
 ||cdn.chess24.com^
 ||cdn.circle.so^
 ||cdn.clever-cloud.com^
+||cdn.cliqz.com^
 ||cdn.cloudcraft.co^
 ||cdn.cms-twdigitalassets.com^
 ||cdn.cnx-software.com^
@@ -246,6 +249,7 @@
 ||cdn.pickystory.com^
 ||cdn.pika.dev^
 ||cdn.pixabay.com^
+||cdn.player.fm^
 ||cdn.plyr.io^
 ||cdn.pricespider.com^
 ||cdn.privacy-mgmt.com^
@@ -462,6 +466,7 @@
 ||image.status.io^
 ||image.thefly.com^
 ||image.tmdb.org^
+||imagehost.player.fm^
 ||images-eds-ssl.xboxlive.com^
 ||images-ext-1.discordapp.net^
 ||images-ext-2.discordapp.net^
@@ -650,6 +655,7 @@
 ||pkg-cdn.jetbrains.team^
 ||pkg.csb.dev^
 ||placeimg.com^
+||play.publicradio.org^
 ||play.vidyard.com^
 ||player-frontend.cnevids.com^
 ||player.cnevids.com^
@@ -689,6 +695,7 @@
 ||replicate.npmjs.com^
 ||repo.gradle.org^
 ||repo.maven.apache.org^
+||repo.nextdns.io^
 ||repo1.maven.org^
 ||repos.danosproject.org^
 ||repository.jboss.org^
@@ -1187,6 +1194,7 @@
 ||hs-scripts.net^
 ||hsappstatic.net^
 ||hscollectedforms.net^
+||hsto.org^
 ||hubspotusercontent-eu1.net^
 ||hubspotusercontent-na1.net^
 ||hubspotusercontent30.com^
@@ -1484,6 +1492,7 @@
 ||storage.infomaniak.com^
 ||storage.yandexcloud.net^
 ||storjipfs-gateway.com^
+||stream.publicradio.org^
 ||streamhentai.org^
 ||strpst.com^
 ||surge.sh^
@@ -1509,6 +1518,7 @@
 ||unpkg.com^
 ||uploads-ssl.webflow.com^
 ||usercontent.dev^
+||usercontent.goog^
 ||usercontent.one^
 ||v-cdn.net^
 ||v-corp.staticblitz.com^
