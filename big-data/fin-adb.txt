@@ -1,5 +1,5 @@
-# Adblock total line 3321
-# Last updated Mon 09/25/2023 22:16:47.74
+# Adblock total line 3342
+# Last updated Thu 09/28/2023 22:16:57.52
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -32,8 +32,10 @@
 ||app.backinstock.org^
 ||app.chatwoot.com^
 ||app.roboflow.com^
+||appassets.mvtdev.com^
 ||apple.comscoreresearch.com^
 ||archive.mozilla.org^
+||asset-cdn.uscardforum.com^
 ||asset.booth.pm^
 ||assets-cdn.abcnews.com^
 ||assets-cdn.jable.tv^
@@ -97,6 +99,7 @@
 ||assets.volvo.com^
 ||assets.xbox.com^
 ||assets.xmind.net^
+||assets.yande.re^
 ||assets.zerohedge.com^
 ||assets0.lottiefiles.com^
 ||assets1.lottiefiles.com^
@@ -121,6 +124,7 @@
 ||avatars.micro.blog^
 ||avatars.plurk.com^
 ||az764295.vo.msecnd.net^
+||badbits.dwebops.pub^
 ||badge.buildkite.com^
 ||badge.fury.io^
 ||badge.waffle.io^
@@ -204,6 +208,7 @@
 ||cdn.forms.office.net^
 ||cdn.fosstodon.org^
 ||cdn.fourthwall.com^
+||cdn.freebiesupply.com^
 ||cdn.freecodecamp.org^
 ||cdn.getkoala.com^
 ||cdn.glitch.com^
@@ -222,6 +227,7 @@
 ||cdn.jetphotos.com^
 ||cdn.jolipage.co^
 ||cdn.judge.me^
+||cdn.kagi.com^
 ||cdn.koala.live^
 ||cdn.langshop.app^
 ||cdn.linearicons.com^
@@ -274,6 +280,7 @@
 ||cdn.solvvy.com^
 ||cdn.split.io^
 ||cdn.sprig.com^
+||cdn.sunofbeaches.com^
 ||cdn.tailwindcss.com^
 ||cdn.termius.com^
 ||cdn.thisav.com^
@@ -425,8 +432,10 @@
 ||files.readme.io^
 ||files.slack.com^
 ||files.writefreely.org^
+||files.yande.re^
 ||flows.trysavvy.com^
 ||fontbit.io^
+||fonts-api.wp.com^
 ||fonts.bunny.net^
 ||fonts.cat.net^
 ||fonts.cdnfonts.com^
@@ -435,6 +444,7 @@
 ||fonts.gstatic.com^
 ||fonts.twitter.com^
 ||fonts.upset.dev^
+||fonts.wp.com^
 ||fonts.zapier.com^
 ||fonts1.unidays.world^
 ||forest-mt-s3.seekrtech.com^
@@ -462,6 +472,7 @@
 ||hulu.com.c.footprint.net^
 ||hulu.map.fastly.net^
 ||hv-monsterdb-data.skk.moe^
+||i.1password.com^
 ||i.giphy.com^
 ||i.hamreus.com^
 ||i.ibb.co^
@@ -488,6 +499,7 @@
 ||image.send.grammarly.com^
 ||image.ship.vercel.com^
 ||image.status.io^
+||image.theblockbeats.info^
 ||image.thefly.com^
 ||image.tmdb.org^
 ||imagehost.player.fm^
@@ -520,8 +532,10 @@
 ||img.bigcloud.cyou^
 ||img.biguz.net^
 ||img.bttimg.com^
+||img.clerk.com^
 ||img.dlsite.jp^
 ||img.domaintools.com^
+||img.foresightnews.pro^
 ||img.freepik.com^
 ||img.hellofresh.com^
 ||img.icons8.com^
@@ -702,6 +716,7 @@
 ||ps.w.org^
 ||public-assets.typeform.com^
 ||public-files.gumroad.com^
+||public.saasexch.com^
 ||publicsuffix.org^
 ||quriobot.com^
 ||raw.github.com^
@@ -771,6 +786,7 @@
 ||s3media.squarespace.com^
 ||safebrowsing.googleapis.com^
 ||sandpack-cdn-staging.blazingly.io^
+||scdn.clerk.com^
 ||scontent.whatsapp.net^
 ||screenshots.codesandbox.io^
 ||sdk.qikify.com^
@@ -816,6 +832,7 @@
 ||static-clst.avgle.com^
 ||static-dm.ubisoft.com^
 ||static-gcp.freepikcompany.com^
+||static-main.moovit.com^
 ||static-overlay.ubisoft.com^
 ||static-production.npmjs.com^
 ||static-web-prod.skillshare.com^
@@ -883,6 +900,7 @@
 ||static.t-ru.org^
 ||static.thisav.com^
 ||static.tokenview.io^
+||static.tronscan.org^
 ||static.tumblr.com^
 ||static.v2ex.com^
 ||static.whatsapp.net^
@@ -2028,6 +2046,7 @@
 ||gradle-dn.com^
 ||gradle.org^
 ||gravatar.com^
+||gravity.jup.io^
 ||gv.com^
 ||gvt0.com^
 ||gvt1.com^
@@ -2233,6 +2252,8 @@
 ||ipfs.slang.cx^
 ||ipfs.sloppyta.co^
 ||ipfs.smartholdem.io^
+||ipfs.soul-network.com^
+||ipfs.tayfundogdas.me^
 ||ipfs.telos.miami^
 ||ipfs.tribecap.co^
 ||ipfs.trusti.id^

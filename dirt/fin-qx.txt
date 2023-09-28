@@ -1,5 +1,5 @@
-# Quantumult total line 4082
-# Last updated Mon 09/25/2023 22:16:58.09
+# Quantumult total line 4095
+# Last updated Thu 09/28/2023 22:17:08.45
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -427,6 +427,7 @@ HOST-SUFFIX,alikunlun.com,LIST
 HOST-SUFFIX,alimama.com,LIST
 HOST-SUFFIX,alimebot.com,LIST
 HOST-SUFFIX,alimei.com,LIST
+HOST-SUFFIX,alipan.com,LIST
 HOST-SUFFIX,aliplus.com,LIST
 HOST-SUFFIX,aliresearch.com,LIST
 HOST-SUFFIX,alisoft.com,LIST
@@ -1089,6 +1090,7 @@ HOST-SUFFIX,ctexcel.us,LIST
 HOST-SUFFIX,ctfile.com,LIST
 HOST-SUFFIX,ctfund.com,LIST
 HOST-SUFFIX,ctiforum.com,LIST
+HOST-SUFFIX,ctobsnssdk.com,LIST
 HOST-SUFFIX,ctoutiao.com,LIST
 HOST-SUFFIX,ctrip.co.id,LIST
 HOST-SUFFIX,ctrip.co.kr,LIST
@@ -1181,6 +1183,7 @@ HOST-SUFFIX,didichuxing.com,LIST
 HOST-SUFFIX,didiglobal.com,LIST
 HOST-SUFFIX,didimobility.co.jp,LIST
 HOST-SUFFIX,didistatic.com,LIST
+HOST-SUFFIX,dig.bdurl.net,LIST
 HOST-SUFFIX,digicert.com,LIST
 HOST-SUFFIX,dilidili.wang,LIST
 HOST-SUFFIX,dingding.xin,LIST
@@ -1304,6 +1307,7 @@ HOST-SUFFIX,ecitic.com,LIST
 HOST-SUFFIX,ecitic.net,LIST
 HOST-SUFFIX,ecjobhome.com,LIST
 HOST-SUFFIX,ecloud-gdu.com,LIST
+HOST-SUFFIX,ecombdapi.com,LIST
 HOST-SUFFIX,edu4399.com,LIST
 HOST-SUFFIX,eduei.com,LIST
 HOST-SUFFIX,eeyy.com,LIST
@@ -1351,6 +1355,7 @@ HOST-SUFFIX,famulei.com,LIST
 HOST-SUFFIX,fang.com,LIST
 HOST-SUFFIX,fangxiaoer.com,LIST
 HOST-SUFFIX,fanli.com,LIST
+HOST-SUFFIX,fanqienovel.com,LIST
 HOST-SUFFIX,fantasy.tv,LIST
 HOST-SUFFIX,fanxian.com,LIST
 HOST-SUFFIX,fastapi.net,LIST
@@ -1399,6 +1404,9 @@ HOST-SUFFIX,founderff.com,LIST
 HOST-SUFFIX,foundertype.com,LIST
 HOST-SUFFIX,foxmail.com,LIST
 HOST-SUFFIX,fqjob.net,LIST
+HOST-SUFFIX,fqnovel.com,LIST
+HOST-SUFFIX,fqnovelpic.com,LIST
+HOST-SUFFIX,fqnovelvod.com,LIST
 HOST-SUFFIX,frdic.com,LIST
 HOST-SUFFIX,freebuf.com,LIST
 HOST-SUFFIX,fresh-ideas.cc,LIST
@@ -2134,6 +2142,7 @@ HOST-SUFFIX,kuaiduizuoye.com,LIST
 HOST-SUFFIX,kuaihou.com,LIST
 HOST-SUFFIX,kuaikanmanhua.com,LIST
 HOST-SUFFIX,kuaishou.com,LIST
+HOST-SUFFIX,kuaishouzt.com,LIST
 HOST-SUFFIX,kuaizhan.com,LIST
 HOST-SUFFIX,kuangxiangit.com,LIST
 HOST-SUFFIX,kugou.com,LIST
@@ -2161,6 +2170,7 @@ HOST-SUFFIX,kunlunwe.com,LIST
 HOST-SUFFIX,kuqin.com,LIST
 HOST-SUFFIX,kuyiso.com,LIST
 HOST-SUFFIX,kuyunbo.club,LIST
+HOST-SUFFIX,kwaizt.com,LIST
 HOST-SUFFIX,la-north-2.myhuaweicloud.com,LIST
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,LIST
 HOST-SUFFIX,lady8844.com,LIST
@@ -2325,7 +2335,6 @@ HOST-SUFFIX,mail4399.com,LIST
 HOST-SUFFIX,maisanqi.com,LIST
 HOST-SUFFIX,maitix.com,LIST
 HOST-SUFFIX,mamecn.com,LIST
-HOST-SUFFIX,manhuagui.com,LIST
 HOST-SUFFIX,manhuatai.com,LIST
 HOST-SUFFIX,manmanbuy.com,LIST
 HOST-SUFFIX,manmankan.com,LIST
@@ -2612,6 +2621,7 @@ HOST-SUFFIX,pagescube.com,LIST
 HOST-SUFFIX,pailitao.com,LIST
 HOST-SUFFIX,paipai.com,LIST
 HOST-SUFFIX,paipaibang.com,LIST
+HOST-SUFFIX,pangolin-sdk-toutiao.com,LIST
 HOST-SUFFIX,paopaoche.net,LIST
 HOST-SUFFIX,papocket.com,LIST
 HOST-SUFFIX,passthepopcorn.me,LIST
@@ -2623,6 +2633,7 @@ HOST-SUFFIX,pchome.net,LIST
 HOST-SUFFIX,pcpop.com,LIST
 HOST-SUFFIX,pddpic.com,LIST
 HOST-SUFFIX,peccn.com,LIST
+HOST-SUFFIX,pglstatp-toutiao.com,LIST
 HOST-SUFFIX,pgyer.com,LIST
 HOST-SUFFIX,pgzs.com,LIST
 HOST-SUFFIX,pharmacodia.com,LIST
@@ -3357,6 +3368,9 @@ HOST-SUFFIX,vmallres.com,LIST
 HOST-SUFFIX,vmware.com,LIST
 HOST-SUFFIX,vobao.com,LIST
 HOST-SUFFIX,vodtcbk.com,LIST
+HOST-SUFFIX,volceapplog.com,LIST
+HOST-SUFFIX,volces.com,LIST
+HOST-SUFFIX,volcvod.com,LIST
 HOST-SUFFIX,vpgame.com,LIST
 HOST-SUFFIX,vxo7tu.com,LIST
 HOST-SUFFIX,vzuu.com,LIST
@@ -3382,7 +3396,6 @@ HOST-SUFFIX,we4399.com,LIST
 HOST-SUFFIX,weand.com,LIST
 HOST-SUFFIX,weather.com,LIST
 HOST-SUFFIX,webgame163.com,LIST
-HOST-SUFFIX,webnovel.com,LIST
 HOST-SUFFIX,webofknowledge.com,LIST
 HOST-SUFFIX,webqxs.com,LIST
 HOST-SUFFIX,webterren.com,LIST

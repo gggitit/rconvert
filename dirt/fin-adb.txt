@@ -1,5 +1,5 @@
-# Adblock total line 3794
-# Last updated Mon 09/25/2023 22:16:58.31
+# Adblock total line 3807
+# Last updated Thu 09/28/2023 22:17:08.67
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
@@ -427,6 +427,7 @@
 ||alimama.com^
 ||alimebot.com^
 ||alimei.com^
+||alipan.com^
 ||aliplus.com^
 ||aliresearch.com^
 ||alisoft.com^
@@ -1089,6 +1090,7 @@
 ||ctfile.com^
 ||ctfund.com^
 ||ctiforum.com^
+||ctobsnssdk.com^
 ||ctoutiao.com^
 ||ctrip.co.id^
 ||ctrip.co.kr^
@@ -1181,6 +1183,7 @@
 ||didiglobal.com^
 ||didimobility.co.jp^
 ||didistatic.com^
+||dig.bdurl.net^
 ||digicert.com^
 ||dilidili.wang^
 ||dingding.xin^
@@ -1304,6 +1307,7 @@
 ||ecitic.net^
 ||ecjobhome.com^
 ||ecloud-gdu.com^
+||ecombdapi.com^
 ||edu4399.com^
 ||eduei.com^
 ||eeyy.com^
@@ -1351,6 +1355,7 @@
 ||fang.com^
 ||fangxiaoer.com^
 ||fanli.com^
+||fanqienovel.com^
 ||fantasy.tv^
 ||fanxian.com^
 ||fastapi.net^
@@ -1399,6 +1404,9 @@
 ||foundertype.com^
 ||foxmail.com^
 ||fqjob.net^
+||fqnovel.com^
+||fqnovelpic.com^
+||fqnovelvod.com^
 ||frdic.com^
 ||freebuf.com^
 ||fresh-ideas.cc^
@@ -2134,6 +2142,7 @@
 ||kuaihou.com^
 ||kuaikanmanhua.com^
 ||kuaishou.com^
+||kuaishouzt.com^
 ||kuaizhan.com^
 ||kuangxiangit.com^
 ||kugou.com^
@@ -2161,6 +2170,7 @@
 ||kuqin.com^
 ||kuyiso.com^
 ||kuyunbo.club^
+||kwaizt.com^
 ||la-north-2.myhuaweicloud.com^
 ||la-south-2.myhuaweicloud.com^
 ||lady8844.com^
@@ -2325,7 +2335,6 @@
 ||maisanqi.com^
 ||maitix.com^
 ||mamecn.com^
-||manhuagui.com^
 ||manhuatai.com^
 ||manmanbuy.com^
 ||manmankan.com^
@@ -2612,6 +2621,7 @@
 ||pailitao.com^
 ||paipai.com^
 ||paipaibang.com^
+||pangolin-sdk-toutiao.com^
 ||paopaoche.net^
 ||papocket.com^
 ||passthepopcorn.me^
@@ -2623,6 +2633,7 @@
 ||pcpop.com^
 ||pddpic.com^
 ||peccn.com^
+||pglstatp-toutiao.com^
 ||pgyer.com^
 ||pgzs.com^
 ||pharmacodia.com^
@@ -3357,6 +3368,9 @@
 ||vmware.com^
 ||vobao.com^
 ||vodtcbk.com^
+||volceapplog.com^
+||volces.com^
+||volcvod.com^
 ||vpgame.com^
 ||vxo7tu.com^
 ||vzuu.com^
@@ -3382,7 +3396,6 @@
 ||weand.com^
 ||weather.com^
 ||webgame163.com^
-||webnovel.com^
 ||webofknowledge.com^
 ||webqxs.com^
 ||webterren.com^

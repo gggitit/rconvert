@@ -1,5 +1,5 @@
-# Clash total line 4337
-# Last updated Mon 09/25/2023 22:16:47.58
+# Clash total line 4358
+# Last updated Thu 09/28/2023 22:16:57.36
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -33,8 +33,10 @@ payload:
   - DOMAIN,app.backinstock.org
   - DOMAIN,app.chatwoot.com
   - DOMAIN,app.roboflow.com
+  - DOMAIN,appassets.mvtdev.com
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN,archive.mozilla.org
+  - DOMAIN,asset-cdn.uscardforum.com
   - DOMAIN,asset.booth.pm
   - DOMAIN,assets-cdn.abcnews.com
   - DOMAIN,assets-cdn.jable.tv
@@ -98,6 +100,7 @@ payload:
   - DOMAIN,assets.volvo.com
   - DOMAIN,assets.xbox.com
   - DOMAIN,assets.xmind.net
+  - DOMAIN,assets.yande.re
   - DOMAIN,assets.zerohedge.com
   - DOMAIN,assets0.lottiefiles.com
   - DOMAIN,assets1.lottiefiles.com
@@ -122,6 +125,7 @@ payload:
   - DOMAIN,avatars.micro.blog
   - DOMAIN,avatars.plurk.com
   - DOMAIN,az764295.vo.msecnd.net
+  - DOMAIN,badbits.dwebops.pub
   - DOMAIN,badge.buildkite.com
   - DOMAIN,badge.fury.io
   - DOMAIN,badge.waffle.io
@@ -205,6 +209,7 @@ payload:
   - DOMAIN,cdn.forms.office.net
   - DOMAIN,cdn.fosstodon.org
   - DOMAIN,cdn.fourthwall.com
+  - DOMAIN,cdn.freebiesupply.com
   - DOMAIN,cdn.freecodecamp.org
   - DOMAIN,cdn.getkoala.com
   - DOMAIN,cdn.glitch.com
@@ -223,6 +228,7 @@ payload:
   - DOMAIN,cdn.jetphotos.com
   - DOMAIN,cdn.jolipage.co
   - DOMAIN,cdn.judge.me
+  - DOMAIN,cdn.kagi.com
   - DOMAIN,cdn.koala.live
   - DOMAIN,cdn.langshop.app
   - DOMAIN,cdn.linearicons.com
@@ -275,6 +281,7 @@ payload:
   - DOMAIN,cdn.solvvy.com
   - DOMAIN,cdn.split.io
   - DOMAIN,cdn.sprig.com
+  - DOMAIN,cdn.sunofbeaches.com
   - DOMAIN,cdn.tailwindcss.com
   - DOMAIN,cdn.termius.com
   - DOMAIN,cdn.thisav.com
@@ -426,8 +433,10 @@ payload:
   - DOMAIN,files.readme.io
   - DOMAIN,files.slack.com
   - DOMAIN,files.writefreely.org
+  - DOMAIN,files.yande.re
   - DOMAIN,flows.trysavvy.com
   - DOMAIN,fontbit.io
+  - DOMAIN,fonts-api.wp.com
   - DOMAIN,fonts.bunny.net
   - DOMAIN,fonts.cat.net
   - DOMAIN,fonts.cdnfonts.com
@@ -436,6 +445,7 @@ payload:
   - DOMAIN,fonts.gstatic.com
   - DOMAIN,fonts.twitter.com
   - DOMAIN,fonts.upset.dev
+  - DOMAIN,fonts.wp.com
   - DOMAIN,fonts.zapier.com
   - DOMAIN,fonts1.unidays.world
   - DOMAIN,forest-mt-s3.seekrtech.com
@@ -463,6 +473,7 @@ payload:
   - DOMAIN,hulu.com.c.footprint.net
   - DOMAIN,hulu.map.fastly.net
   - DOMAIN,hv-monsterdb-data.skk.moe
+  - DOMAIN,i.1password.com
   - DOMAIN,i.giphy.com
   - DOMAIN,i.hamreus.com
   - DOMAIN,i.ibb.co
@@ -489,6 +500,7 @@ payload:
   - DOMAIN,image.send.grammarly.com
   - DOMAIN,image.ship.vercel.com
   - DOMAIN,image.status.io
+  - DOMAIN,image.theblockbeats.info
   - DOMAIN,image.thefly.com
   - DOMAIN,image.tmdb.org
   - DOMAIN,imagehost.player.fm
@@ -521,8 +533,10 @@ payload:
   - DOMAIN,img.bigcloud.cyou
   - DOMAIN,img.biguz.net
   - DOMAIN,img.bttimg.com
+  - DOMAIN,img.clerk.com
   - DOMAIN,img.dlsite.jp
   - DOMAIN,img.domaintools.com
+  - DOMAIN,img.foresightnews.pro
   - DOMAIN,img.freepik.com
   - DOMAIN,img.hellofresh.com
   - DOMAIN,img.icons8.com
@@ -703,6 +717,7 @@ payload:
   - DOMAIN,ps.w.org
   - DOMAIN,public-assets.typeform.com
   - DOMAIN,public-files.gumroad.com
+  - DOMAIN,public.saasexch.com
   - DOMAIN,publicsuffix.org
   - DOMAIN,quriobot.com
   - DOMAIN,raw.github.com
@@ -772,6 +787,7 @@ payload:
   - DOMAIN,s3media.squarespace.com
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,sandpack-cdn-staging.blazingly.io
+  - DOMAIN,scdn.clerk.com
   - DOMAIN,scontent.whatsapp.net
   - DOMAIN,screenshots.codesandbox.io
   - DOMAIN,sdk.qikify.com
@@ -817,6 +833,7 @@ payload:
   - DOMAIN,static-clst.avgle.com
   - DOMAIN,static-dm.ubisoft.com
   - DOMAIN,static-gcp.freepikcompany.com
+  - DOMAIN,static-main.moovit.com
   - DOMAIN,static-overlay.ubisoft.com
   - DOMAIN,static-production.npmjs.com
   - DOMAIN,static-web-prod.skillshare.com
@@ -884,6 +901,7 @@ payload:
   - DOMAIN,static.t-ru.org
   - DOMAIN,static.thisav.com
   - DOMAIN,static.tokenview.io
+  - DOMAIN,static.tronscan.org
   - DOMAIN,static.tumblr.com
   - DOMAIN,static.v2ex.com
   - DOMAIN,static.whatsapp.net
@@ -2029,6 +2047,7 @@ payload:
   - DOMAIN-SUFFIX,gradle-dn.com
   - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,gravity.jup.io
   - DOMAIN-SUFFIX,gv.com
   - DOMAIN-SUFFIX,gvt0.com
   - DOMAIN-SUFFIX,gvt1.com
@@ -2234,6 +2253,8 @@ payload:
   - DOMAIN-SUFFIX,ipfs.slang.cx
   - DOMAIN-SUFFIX,ipfs.sloppyta.co
   - DOMAIN-SUFFIX,ipfs.smartholdem.io
+  - DOMAIN-SUFFIX,ipfs.soul-network.com
+  - DOMAIN-SUFFIX,ipfs.tayfundogdas.me
   - DOMAIN-SUFFIX,ipfs.telos.miami
   - DOMAIN-SUFFIX,ipfs.tribecap.co
   - DOMAIN-SUFFIX,ipfs.trusti.id

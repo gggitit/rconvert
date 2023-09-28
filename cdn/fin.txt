@@ -1,5 +1,5 @@
-# Main total line 1573
-# Last updated Mon 09/25/2023 22:16:32.09
+# Main total line 1593
+# Last updated Thu 09/28/2023 22:16:42.39
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -30,7 +30,9 @@ DOMAIN,app-spm.com
 DOMAIN,app.backinstock.org
 DOMAIN,app.chatwoot.com
 DOMAIN,app.roboflow.com
+DOMAIN,appassets.mvtdev.com
 DOMAIN,archive.mozilla.org
+DOMAIN,asset-cdn.uscardforum.com
 DOMAIN,asset.booth.pm
 DOMAIN,assets-cdn.abcnews.com
 DOMAIN,assets-cdn.jable.tv
@@ -97,6 +99,7 @@ DOMAIN,assets.volvo.com
 DOMAIN,assets.xbox.com
 DOMAIN,assets.xboxservices.com
 DOMAIN,assets.xmind.net
+DOMAIN,assets.yande.re
 DOMAIN,assets.zerohedge.com
 DOMAIN,assets0.lottiefiles.com
 DOMAIN,assets1.lottiefiles.com
@@ -120,6 +123,7 @@ DOMAIN,avatars.hubspot.net
 DOMAIN,avatars.mds.yandex.net
 DOMAIN,avatars.micro.blog
 DOMAIN,avatars.plurk.com
+DOMAIN,badbits.dwebops.pub
 DOMAIN,badge.buildkite.com
 DOMAIN,badge.fury.io
 DOMAIN,badge.waffle.io
@@ -202,6 +206,7 @@ DOMAIN,cdn.firebase.com
 DOMAIN,cdn.forms.office.net
 DOMAIN,cdn.fosstodon.org
 DOMAIN,cdn.fourthwall.com
+DOMAIN,cdn.freebiesupply.com
 DOMAIN,cdn.freecodecamp.org
 DOMAIN,cdn.getkoala.com
 DOMAIN,cdn.glitch.com
@@ -276,6 +281,7 @@ DOMAIN,cdn.solvvy.com
 DOMAIN,cdn.split.io
 DOMAIN,cdn.sprig.com
 DOMAIN,cdn.sstatic.net
+DOMAIN,cdn.sunofbeaches.com
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.termius.com
 DOMAIN,cdn.thisav.com
@@ -404,8 +410,10 @@ DOMAIN,files.mastodon.social
 DOMAIN,files.readme.io
 DOMAIN,files.slack.com
 DOMAIN,files.writefreely.org
+DOMAIN,files.yande.re
 DOMAIN,flows.trysavvy.com
 DOMAIN,fontbit.io
+DOMAIN,fonts-api.wp.com
 DOMAIN,fonts.bunny.net
 DOMAIN,fonts.cat.net
 DOMAIN,fonts.cdnfonts.com
@@ -414,6 +422,7 @@ DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fonts.twitter.com
 DOMAIN,fonts.upset.dev
+DOMAIN,fonts.wp.com
 DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
@@ -435,6 +444,7 @@ DOMAIN,gtranslate.io
 DOMAIN,hawk.tomsguide.com
 DOMAIN,hp.foxnews.com
 DOMAIN,hv-monsterdb-data.skk.moe
+DOMAIN,i.1password.com
 DOMAIN,i.giphy.com
 DOMAIN,i.hamreus.com
 DOMAIN,i.ibb.co
@@ -464,6 +474,7 @@ DOMAIN,image.lichess1.org
 DOMAIN,image.send.grammarly.com
 DOMAIN,image.ship.vercel.com
 DOMAIN,image.status.io
+DOMAIN,image.theblockbeats.info
 DOMAIN,image.thefly.com
 DOMAIN,image.tmdb.org
 DOMAIN,imagehost.player.fm
@@ -497,9 +508,11 @@ DOMAIN,img.badgesize.io
 DOMAIN,img.bigcloud.cyou
 DOMAIN,img.biguz.net
 DOMAIN,img.bttimg.com
+DOMAIN,img.clerk.com
 DOMAIN,img.connatix.com
 DOMAIN,img.dlsite.jp
 DOMAIN,img.domaintools.com
+DOMAIN,img.foresightnews.pro
 DOMAIN,img.freepik.com
 DOMAIN,img.hellofresh.com
 DOMAIN,img.icons8.com
@@ -682,6 +695,7 @@ DOMAIN,proxy.joinmastodon.org
 DOMAIN,ps.w.org
 DOMAIN,public-assets.typeform.com
 DOMAIN,public-files.gumroad.com
+DOMAIN,public.saasexch.com
 DOMAIN,publicsuffix.org
 DOMAIN,quriobot.com
 DOMAIN,raw.github.com
@@ -751,6 +765,7 @@ DOMAIN,s3.wp.com
 DOMAIN,s3media.squarespace.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sandpack-cdn-staging.blazingly.io
+DOMAIN,scdn.clerk.com
 DOMAIN,scontent.whatsapp.net
 DOMAIN,screenshots.codesandbox.io
 DOMAIN,sdk.qikify.com
@@ -800,6 +815,7 @@ DOMAIN,static-cdn.spot.im
 DOMAIN,static-clst.avgle.com
 DOMAIN,static-dm.ubisoft.com
 DOMAIN,static-gcp.freepikcompany.com
+DOMAIN,static-main.moovit.com
 DOMAIN,static-overlay.ubisoft.com
 DOMAIN,static-production.npmjs.com
 DOMAIN,static-web-prod.skillshare.com
@@ -875,10 +891,10 @@ DOMAIN,static.status.io
 DOMAIN,static.t-ru.org
 DOMAIN,static.thisav.com
 DOMAIN,static.tokenview.io
+DOMAIN,static.tronscan.org
 DOMAIN,static.tumblr.com
 DOMAIN,static.twitchcdn.net
 DOMAIN,static.v2ex.com
-DOMAIN,static.vx-cdn.com
 DOMAIN,static.whatsapp.net
 DOMAIN,static.zaobao.com
 DOMAIN,static0.lottiefiles.com
@@ -1183,6 +1199,7 @@ DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gitpage.si
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,gravity.jup.io
 DOMAIN-SUFFIX,hackerone-user-content.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,hembed.com
@@ -1259,6 +1276,8 @@ DOMAIN-SUFFIX,ipfs.scalaproject.io
 DOMAIN-SUFFIX,ipfs.slang.cx
 DOMAIN-SUFFIX,ipfs.sloppyta.co
 DOMAIN-SUFFIX,ipfs.smartholdem.io
+DOMAIN-SUFFIX,ipfs.soul-network.com
+DOMAIN-SUFFIX,ipfs.tayfundogdas.me
 DOMAIN-SUFFIX,ipfs.telos.miami
 DOMAIN-SUFFIX,ipfs.tribecap.co
 DOMAIN-SUFFIX,ipfs.trusti.id
@@ -1536,6 +1555,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vsmarketplacebadges.dev
 DOMAIN-SUFFIX,vultrobjects.com
+DOMAIN-SUFFIX,vx-cdn.com
 DOMAIN-SUFFIX,w-corp.staticblitz.com
 DOMAIN-SUFFIX,w-credentialless.staticblitz.com
 DOMAIN-SUFFIX,w.staticblitz.com

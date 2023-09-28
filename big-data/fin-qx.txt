@@ -1,5 +1,5 @@
-# Quantumult total line 4324
-# Last updated Mon 09/25/2023 22:16:47.50
+# Quantumult total line 4345
+# Last updated Thu 09/28/2023 22:16:57.30
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -32,8 +32,10 @@ HOST,app-spm.com,LIST
 HOST,app.backinstock.org,LIST
 HOST,app.chatwoot.com,LIST
 HOST,app.roboflow.com,LIST
+HOST,appassets.mvtdev.com,LIST
 HOST,apple.comscoreresearch.com,LIST
 HOST,archive.mozilla.org,LIST
+HOST,asset-cdn.uscardforum.com,LIST
 HOST,asset.booth.pm,LIST
 HOST,assets-cdn.abcnews.com,LIST
 HOST,assets-cdn.jable.tv,LIST
@@ -97,6 +99,7 @@ HOST,assets.vidyard.com,LIST
 HOST,assets.volvo.com,LIST
 HOST,assets.xbox.com,LIST
 HOST,assets.xmind.net,LIST
+HOST,assets.yande.re,LIST
 HOST,assets.zerohedge.com,LIST
 HOST,assets0.lottiefiles.com,LIST
 HOST,assets1.lottiefiles.com,LIST
@@ -121,6 +124,7 @@ HOST,avatars.mds.yandex.net,LIST
 HOST,avatars.micro.blog,LIST
 HOST,avatars.plurk.com,LIST
 HOST,az764295.vo.msecnd.net,LIST
+HOST,badbits.dwebops.pub,LIST
 HOST,badge.buildkite.com,LIST
 HOST,badge.fury.io,LIST
 HOST,badge.waffle.io,LIST
@@ -204,6 +208,7 @@ HOST,cdn.firebase.com,LIST
 HOST,cdn.forms.office.net,LIST
 HOST,cdn.fosstodon.org,LIST
 HOST,cdn.fourthwall.com,LIST
+HOST,cdn.freebiesupply.com,LIST
 HOST,cdn.freecodecamp.org,LIST
 HOST,cdn.getkoala.com,LIST
 HOST,cdn.glitch.com,LIST
@@ -222,6 +227,7 @@ HOST,cdn.jetboost.io,LIST
 HOST,cdn.jetphotos.com,LIST
 HOST,cdn.jolipage.co,LIST
 HOST,cdn.judge.me,LIST
+HOST,cdn.kagi.com,LIST
 HOST,cdn.koala.live,LIST
 HOST,cdn.langshop.app,LIST
 HOST,cdn.linearicons.com,LIST
@@ -274,6 +280,7 @@ HOST,cdn.smooch.io,LIST
 HOST,cdn.solvvy.com,LIST
 HOST,cdn.split.io,LIST
 HOST,cdn.sprig.com,LIST
+HOST,cdn.sunofbeaches.com,LIST
 HOST,cdn.tailwindcss.com,LIST
 HOST,cdn.termius.com,LIST
 HOST,cdn.thisav.com,LIST
@@ -425,8 +432,10 @@ HOST,files.mastodon.social,LIST
 HOST,files.readme.io,LIST
 HOST,files.slack.com,LIST
 HOST,files.writefreely.org,LIST
+HOST,files.yande.re,LIST
 HOST,flows.trysavvy.com,LIST
 HOST,fontbit.io,LIST
+HOST,fonts-api.wp.com,LIST
 HOST,fonts.bunny.net,LIST
 HOST,fonts.cat.net,LIST
 HOST,fonts.cdnfonts.com,LIST
@@ -435,6 +444,7 @@ HOST,fonts.googleapis.com,LIST
 HOST,fonts.gstatic.com,LIST
 HOST,fonts.twitter.com,LIST
 HOST,fonts.upset.dev,LIST
+HOST,fonts.wp.com,LIST
 HOST,fonts.zapier.com,LIST
 HOST,fonts1.unidays.world,LIST
 HOST,forest-mt-s3.seekrtech.com,LIST
@@ -462,6 +472,7 @@ HOST,hls.itunes.apple.com,LIST
 HOST,hulu.com.c.footprint.net,LIST
 HOST,hulu.map.fastly.net,LIST
 HOST,hv-monsterdb-data.skk.moe,LIST
+HOST,i.1password.com,LIST
 HOST,i.giphy.com,LIST
 HOST,i.hamreus.com,LIST
 HOST,i.ibb.co,LIST
@@ -488,6 +499,7 @@ HOST,image.lichess1.org,LIST
 HOST,image.send.grammarly.com,LIST
 HOST,image.ship.vercel.com,LIST
 HOST,image.status.io,LIST
+HOST,image.theblockbeats.info,LIST
 HOST,image.thefly.com,LIST
 HOST,image.tmdb.org,LIST
 HOST,imagehost.player.fm,LIST
@@ -520,8 +532,10 @@ HOST,img.badgesize.io,LIST
 HOST,img.bigcloud.cyou,LIST
 HOST,img.biguz.net,LIST
 HOST,img.bttimg.com,LIST
+HOST,img.clerk.com,LIST
 HOST,img.dlsite.jp,LIST
 HOST,img.domaintools.com,LIST
+HOST,img.foresightnews.pro,LIST
 HOST,img.freepik.com,LIST
 HOST,img.hellofresh.com,LIST
 HOST,img.icons8.com,LIST
@@ -702,6 +716,7 @@ HOST,proxy.joinmastodon.org,LIST
 HOST,ps.w.org,LIST
 HOST,public-assets.typeform.com,LIST
 HOST,public-files.gumroad.com,LIST
+HOST,public.saasexch.com,LIST
 HOST,publicsuffix.org,LIST
 HOST,quriobot.com,LIST
 HOST,raw.github.com,LIST
@@ -771,6 +786,7 @@ HOST,s3.wp.com,LIST
 HOST,s3media.squarespace.com,LIST
 HOST,safebrowsing.googleapis.com,LIST
 HOST,sandpack-cdn-staging.blazingly.io,LIST
+HOST,scdn.clerk.com,LIST
 HOST,scontent.whatsapp.net,LIST
 HOST,screenshots.codesandbox.io,LIST
 HOST,sdk.qikify.com,LIST
@@ -816,6 +832,7 @@ HOST,static-cdn.spot.im,LIST
 HOST,static-clst.avgle.com,LIST
 HOST,static-dm.ubisoft.com,LIST
 HOST,static-gcp.freepikcompany.com,LIST
+HOST,static-main.moovit.com,LIST
 HOST,static-overlay.ubisoft.com,LIST
 HOST,static-production.npmjs.com,LIST
 HOST,static-web-prod.skillshare.com,LIST
@@ -883,6 +900,7 @@ HOST,static.status.io,LIST
 HOST,static.t-ru.org,LIST
 HOST,static.thisav.com,LIST
 HOST,static.tokenview.io,LIST
+HOST,static.tronscan.org,LIST
 HOST,static.tumblr.com,LIST
 HOST,static.v2ex.com,LIST
 HOST,static.whatsapp.net,LIST
@@ -2028,6 +2046,7 @@ HOST-SUFFIX,gounlimited.to,LIST
 HOST-SUFFIX,gradle-dn.com,LIST
 HOST-SUFFIX,gradle.org,LIST
 HOST-SUFFIX,gravatar.com,LIST
+HOST-SUFFIX,gravity.jup.io,LIST
 HOST-SUFFIX,gv.com,LIST
 HOST-SUFFIX,gvt0.com,LIST
 HOST-SUFFIX,gvt1.com,LIST
@@ -2233,6 +2252,8 @@ HOST-SUFFIX,ipfs.scalaproject.io,LIST
 HOST-SUFFIX,ipfs.slang.cx,LIST
 HOST-SUFFIX,ipfs.sloppyta.co,LIST
 HOST-SUFFIX,ipfs.smartholdem.io,LIST
+HOST-SUFFIX,ipfs.soul-network.com,LIST
+HOST-SUFFIX,ipfs.tayfundogdas.me,LIST
 HOST-SUFFIX,ipfs.telos.miami,LIST
 HOST-SUFFIX,ipfs.tribecap.co,LIST
 HOST-SUFFIX,ipfs.trusti.id,LIST
