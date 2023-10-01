@@ -1,5 +1,5 @@
-# Clash total line 1593
-# Last updated Thu 09/28/2023 22:16:42.59
+# Clash total line 1603
+# Last updated Sun 10/01/2023 22:15:24.18
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -299,6 +299,7 @@ payload:
   - DOMAIN,cdn.viglink.com
   - DOMAIN,cdn.wccftech.com
   - DOMAIN,cdn.weglot.com
+  - DOMAIN,cdn.windowsreport.com
   - DOMAIN,cdn.writeas.net
   - DOMAIN,cdn.zapier.com
   - DOMAIN,cdn.ziffstatic.com
@@ -639,6 +640,7 @@ payload:
   - DOMAIN,ooo.0o0.ooo
   - DOMAIN,ooo.o0o.ooo
   - DOMAIN,openseauserdata.com
+  - DOMAIN,opensignal.cdnbye.com
   - DOMAIN,opt.moovweb.net
   - DOMAIN,optimizely.com
   - DOMAIN,organizer.bizzabo.com
@@ -780,6 +782,8 @@ payload:
   - DOMAIN,showcase.abovemarket.com
   - DOMAIN,sig.grumpybumpers.com
   - DOMAIN,sigma9.zokhoi.com
+  - DOMAIN,signal.cdnbye.com
+  - DOMAIN,signalcloud.cdnbye.com
   - DOMAIN,simplicity.trustpilot.com
   - DOMAIN,sites.super.so
   - DOMAIN,skills-assets.pstmn.io
@@ -823,6 +827,7 @@ payload:
   - DOMAIN,static-web.grammarly.com
   - DOMAIN,static.ada.support
   - DOMAIN,static.addtoany.com
+  - DOMAIN,static.adguard.com
   - DOMAIN,static.adguardvpn.com
   - DOMAIN,static.agilebits.com
   - DOMAIN,static.apkpure.com
@@ -883,6 +888,7 @@ payload:
   - DOMAIN,static.rust-lang.org
   - DOMAIN,static.scarf.sh
   - DOMAIN,static.scroll.com
+  - DOMAIN,static.skyassets.com
   - DOMAIN,static.snapchat.com
   - DOMAIN,static.snaptube.in
   - DOMAIN,static.snyk.io
@@ -958,6 +964,7 @@ payload:
   - DOMAIN,thumbsnap.com
   - DOMAIN,tiles.stadiamaps.com
   - DOMAIN,topbar-static.piano.io
+  - DOMAIN,tracker.cdnbye.com
   - DOMAIN,tvdownloaddw-a.akamaihd.net
   - DOMAIN,twemoji.maxcdn.com
   - DOMAIN,typeface.nyt.com
@@ -987,6 +994,7 @@ payload:
   - DOMAIN,vetted.ai
   - DOMAIN,vice-web-statics-cdn.vice.com
   - DOMAIN,video-images.vice.com
+  - DOMAIN,video.cdnbye.com
   - DOMAIN,video1.7mmtv.sx
   - DOMAIN,video2.7mmtv.sx
   - DOMAIN,videos.elephas.app
@@ -1050,6 +1058,7 @@ payload:
   - DOMAIN-SUFFIX,agechecker-northern-apps.com
   - DOMAIN-SUFFIX,agechecker.northern-apps.com
   - DOMAIN-SUFFIX,akamai-content-delivery.com
+  - DOMAIN-SUFFIX,akamai-content-network.com
   - DOMAIN-SUFFIX,alonestreaming.com
   - DOMAIN-SUFFIX,amaicdn.com
   - DOMAIN-SUFFIX,ampproject.org
@@ -1293,6 +1302,7 @@ payload:
   - DOMAIN-SUFFIX,itsre-sumo.mozilla.net
   - DOMAIN-SUFFIX,javplayer.me
   - DOMAIN-SUFFIX,javtxt.com
+  - DOMAIN-SUFFIX,jbkcdn.io
   - DOMAIN-SUFFIX,jitpack.io
   - DOMAIN-SUFFIX,js.hubspotfeedback.com
   - DOMAIN-SUFFIX,js.usemessages.com

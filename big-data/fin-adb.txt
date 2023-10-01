@@ -1,5 +1,5 @@
-# Adblock total line 3342
-# Last updated Thu 09/28/2023 22:16:57.52
+# Adblock total line 3353
+# Last updated Sun 10/01/2023 22:15:36.88
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -295,6 +295,7 @@
 ||cdn.viglink.com^
 ||cdn.wccftech.com^
 ||cdn.weglot.com^
+||cdn.windowsreport.com^
 ||cdn.writeas.net^
 ||cdn.zapier.com^
 ||cdn.ziffstatic.com^
@@ -665,6 +666,7 @@
 ||ooo.0o0.ooo^
 ||ooo.o0o.ooo^
 ||openseauserdata.com^
+||opensignal.cdnbye.com^
 ||opt.moovweb.net^
 ||optimizely.com^
 ||organizer.bizzabo.com^
@@ -800,6 +802,8 @@
 ||showcase.abovemarket.com^
 ||sig.grumpybumpers.com^
 ||sigma9.zokhoi.com^
+||signal.cdnbye.com^
+||signalcloud.cdnbye.com^
 ||simplicity.trustpilot.com^
 ||sites.super.so^
 ||skills-assets.pstmn.io^
@@ -839,6 +843,7 @@
 ||static-web.grammarly.com^
 ||static.ada.support^
 ||static.addtoany.com^
+||static.adguard.com^
 ||static.adguardvpn.com^
 ||static.agilebits.com^
 ||static.arxiv.org^
@@ -891,6 +896,7 @@
 ||static.rust-lang.org^
 ||static.scarf.sh^
 ||static.scroll.com^
+||static.skyassets.com^
 ||static.snapchat.com^
 ||static.snaptube.in^
 ||static.snyk.io^
@@ -953,6 +959,7 @@
 ||thumbsnap.com^
 ||tiles.stadiamaps.com^
 ||topbar-static.piano.io^
+||tracker.cdnbye.com^
 ||typescript.azureedge.net^
 ||ubistatic-a.ubisoft.com^
 ||ubistatic2-a.ubisoft.com^
@@ -979,6 +986,7 @@
 ||vetted.ai^
 ||vice-web-statics-cdn.vice.com^
 ||video-images.vice.com^
+||video.cdnbye.com^
 ||video1.7mmtv.sx^
 ||video2.7mmtv.sx^
 ||videos.elephas.app^
@@ -1129,6 +1137,7 @@
 ||aiv-delivery.net^
 ||akamai-cdn-content.com^
 ||akamai-content-delivery.com^
+||akamai-content-network.com^
 ||akamai.com^
 ||akamai.net^
 ||akamaiedge.net^
@@ -1592,6 +1601,7 @@
 ||disquscdn.com^
 ||divio-media.net^
 ||dl-file.xyz^
+||dl.delivery.mp.microsoft.com^
 ||dl.free.fr^
 ||dl.steam.clngaa.com^
 ||dl.steam.ksyna.com^
@@ -2283,6 +2293,7 @@
 ||javplayer.me^
 ||javtxt.com^
 ||jazzradio.com^
+||jbkcdn.io^
 ||jetbrains.com^
 ||jetbrains.team^
 ||jetload.net^

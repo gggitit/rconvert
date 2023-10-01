@@ -1,5 +1,5 @@
-# Quantumult total line 1593
-# Last updated Thu 09/28/2023 22:16:42.56
+# Quantumult total line 1603
+# Last updated Sun 10/01/2023 22:15:24.15
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -298,6 +298,7 @@ HOST,cdn.vidyard.com,LIST
 HOST,cdn.viglink.com,LIST
 HOST,cdn.wccftech.com,LIST
 HOST,cdn.weglot.com,LIST
+HOST,cdn.windowsreport.com,LIST
 HOST,cdn.writeas.net,LIST
 HOST,cdn.zapier.com,LIST
 HOST,cdn.ziffstatic.com,LIST
@@ -638,6 +639,7 @@ HOST,objects.hit.moe,LIST
 HOST,ooo.0o0.ooo,LIST
 HOST,ooo.o0o.ooo,LIST
 HOST,openseauserdata.com,LIST
+HOST,opensignal.cdnbye.com,LIST
 HOST,opt.moovweb.net,LIST
 HOST,optimizely.com,LIST
 HOST,organizer.bizzabo.com,LIST
@@ -779,6 +781,8 @@ HOST,shopify.cleverecommerce.com,LIST
 HOST,showcase.abovemarket.com,LIST
 HOST,sig.grumpybumpers.com,LIST
 HOST,sigma9.zokhoi.com,LIST
+HOST,signal.cdnbye.com,LIST
+HOST,signalcloud.cdnbye.com,LIST
 HOST,simplicity.trustpilot.com,LIST
 HOST,sites.super.so,LIST
 HOST,skills-assets.pstmn.io,LIST
@@ -822,6 +826,7 @@ HOST,static-web-prod.skillshare.com,LIST
 HOST,static-web.grammarly.com,LIST
 HOST,static.ada.support,LIST
 HOST,static.addtoany.com,LIST
+HOST,static.adguard.com,LIST
 HOST,static.adguardvpn.com,LIST
 HOST,static.agilebits.com,LIST
 HOST,static.apkpure.com,LIST
@@ -882,6 +887,7 @@ HOST,static.redhat.com,LIST
 HOST,static.rust-lang.org,LIST
 HOST,static.scarf.sh,LIST
 HOST,static.scroll.com,LIST
+HOST,static.skyassets.com,LIST
 HOST,static.snapchat.com,LIST
 HOST,static.snaptube.in,LIST
 HOST,static.snyk.io,LIST
@@ -957,6 +963,7 @@ HOST,thumbs44.redgifs.com,LIST
 HOST,thumbsnap.com,LIST
 HOST,tiles.stadiamaps.com,LIST
 HOST,topbar-static.piano.io,LIST
+HOST,tracker.cdnbye.com,LIST
 HOST,tvdownloaddw-a.akamaihd.net,LIST
 HOST,twemoji.maxcdn.com,LIST
 HOST,typeface.nyt.com,LIST
@@ -986,6 +993,7 @@ HOST,versionbadg.es,LIST
 HOST,vetted.ai,LIST
 HOST,vice-web-statics-cdn.vice.com,LIST
 HOST,video-images.vice.com,LIST
+HOST,video.cdnbye.com,LIST
 HOST,video1.7mmtv.sx,LIST
 HOST,video2.7mmtv.sx,LIST
 HOST,videos.elephas.app,LIST
@@ -1049,6 +1057,7 @@ HOST-SUFFIX,adtidy.org,LIST
 HOST-SUFFIX,agechecker-northern-apps.com,LIST
 HOST-SUFFIX,agechecker.northern-apps.com,LIST
 HOST-SUFFIX,akamai-content-delivery.com,LIST
+HOST-SUFFIX,akamai-content-network.com,LIST
 HOST-SUFFIX,alonestreaming.com,LIST
 HOST-SUFFIX,amaicdn.com,LIST
 HOST-SUFFIX,ampproject.org,LIST
@@ -1292,6 +1301,7 @@ HOST-SUFFIX,ipns.co,LIST
 HOST-SUFFIX,itsre-sumo.mozilla.net,LIST
 HOST-SUFFIX,javplayer.me,LIST
 HOST-SUFFIX,javtxt.com,LIST
+HOST-SUFFIX,jbkcdn.io,LIST
 HOST-SUFFIX,jitpack.io,LIST
 HOST-SUFFIX,js.hubspotfeedback.com,LIST
 HOST-SUFFIX,js.usemessages.com,LIST

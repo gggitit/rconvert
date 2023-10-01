@@ -1,5 +1,5 @@
-# Adblock total line 1593
-# Last updated Thu 09/28/2023 22:16:42.70
+# Adblock total line 1603
+# Last updated Sun 10/01/2023 22:15:24.28
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -298,6 +298,7 @@
 ||cdn.viglink.com^
 ||cdn.wccftech.com^
 ||cdn.weglot.com^
+||cdn.windowsreport.com^
 ||cdn.writeas.net^
 ||cdn.zapier.com^
 ||cdn.ziffstatic.com^
@@ -638,6 +639,7 @@
 ||ooo.0o0.ooo^
 ||ooo.o0o.ooo^
 ||openseauserdata.com^
+||opensignal.cdnbye.com^
 ||opt.moovweb.net^
 ||optimizely.com^
 ||organizer.bizzabo.com^
@@ -779,6 +781,8 @@
 ||showcase.abovemarket.com^
 ||sig.grumpybumpers.com^
 ||sigma9.zokhoi.com^
+||signal.cdnbye.com^
+||signalcloud.cdnbye.com^
 ||simplicity.trustpilot.com^
 ||sites.super.so^
 ||skills-assets.pstmn.io^
@@ -822,6 +826,7 @@
 ||static-web.grammarly.com^
 ||static.ada.support^
 ||static.addtoany.com^
+||static.adguard.com^
 ||static.adguardvpn.com^
 ||static.agilebits.com^
 ||static.apkpure.com^
@@ -882,6 +887,7 @@
 ||static.rust-lang.org^
 ||static.scarf.sh^
 ||static.scroll.com^
+||static.skyassets.com^
 ||static.snapchat.com^
 ||static.snaptube.in^
 ||static.snyk.io^
@@ -957,6 +963,7 @@
 ||thumbsnap.com^
 ||tiles.stadiamaps.com^
 ||topbar-static.piano.io^
+||tracker.cdnbye.com^
 ||tvdownloaddw-a.akamaihd.net^
 ||twemoji.maxcdn.com^
 ||typeface.nyt.com^
@@ -986,6 +993,7 @@
 ||vetted.ai^
 ||vice-web-statics-cdn.vice.com^
 ||video-images.vice.com^
+||video.cdnbye.com^
 ||video1.7mmtv.sx^
 ||video2.7mmtv.sx^
 ||videos.elephas.app^
@@ -1049,6 +1057,7 @@
 ||agechecker-northern-apps.com^
 ||agechecker.northern-apps.com^
 ||akamai-content-delivery.com^
+||akamai-content-network.com^
 ||alonestreaming.com^
 ||amaicdn.com^
 ||ampproject.org^
@@ -1292,6 +1301,7 @@
 ||itsre-sumo.mozilla.net^
 ||javplayer.me^
 ||javtxt.com^
+||jbkcdn.io^
 ||jitpack.io^
 ||js.hubspotfeedback.com^
 ||js.usemessages.com^

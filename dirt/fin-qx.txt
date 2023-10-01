@@ -1,5 +1,5 @@
-# Quantumult total line 4095
-# Last updated Thu 09/28/2023 22:17:08.45
+# Quantumult total line 4096
+# Last updated Sun 10/01/2023 22:15:46.03
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -3368,6 +3368,7 @@ HOST-SUFFIX,vmallres.com,LIST
 HOST-SUFFIX,vmware.com,LIST
 HOST-SUFFIX,vobao.com,LIST
 HOST-SUFFIX,vodtcbk.com,LIST
+HOST-SUFFIX,volccdn.com,LIST
 HOST-SUFFIX,volceapplog.com,LIST
 HOST-SUFFIX,volces.com,LIST
 HOST-SUFFIX,volcvod.com,LIST

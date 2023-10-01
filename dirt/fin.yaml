@@ -1,5 +1,5 @@
-# Clash total line 4135
-# Last updated Thu 09/28/2023 22:17:08.52
+# Clash total line 4136
+# Last updated Sun 10/01/2023 22:15:46.07
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -3369,6 +3369,7 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,vobao.com
   - DOMAIN-SUFFIX,vodtcbk.com
+  - DOMAIN-SUFFIX,volccdn.com
   - DOMAIN-SUFFIX,volceapplog.com
   - DOMAIN-SUFFIX,volces.com
   - DOMAIN-SUFFIX,volcvod.com
