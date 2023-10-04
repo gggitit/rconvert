@@ -1,5 +1,5 @@
-# Clash total line 4369
-# Last updated Sun 10/01/2023 22:15:36.76
+# Clash total line 4371
+# Last updated Wed 10/04/2023 22:17:20.52
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -69,6 +69,7 @@ payload:
   - DOMAIN,assets.grammarly.com
   - DOMAIN,assets.gumroad.com
   - DOMAIN,assets.habr.com
+  - DOMAIN,assets.holopin.io
   - DOMAIN,assets.ifttt.com
   - DOMAIN,assets.ipstack.com
   - DOMAIN,assets.jable.tv
@@ -359,6 +360,7 @@ payload:
   - DOMAIN,design-system.yext.com
   - DOMAIN,design.mayoclinic.org
   - DOMAIN,desktop.parallels.com
+  - DOMAIN,detectportal.firefox.com
   - DOMAIN,devimages-cdn.apple.com
   - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,disco.headliner.link

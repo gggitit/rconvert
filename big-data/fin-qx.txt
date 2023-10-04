@@ -1,5 +1,5 @@
-# Quantumult total line 4356
-# Last updated Sun 10/01/2023 22:15:36.71
+# Quantumult total line 4358
+# Last updated Wed 10/04/2023 22:17:20.48
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -68,6 +68,7 @@ HOST,assets.getkirby.com,LIST
 HOST,assets.grammarly.com,LIST
 HOST,assets.gumroad.com,LIST
 HOST,assets.habr.com,LIST
+HOST,assets.holopin.io,LIST
 HOST,assets.ifttt.com,LIST
 HOST,assets.ipstack.com,LIST
 HOST,assets.jable.tv,LIST
@@ -358,6 +359,7 @@ HOST,denali-static.grammarly.com,LIST
 HOST,design-system.yext.com,LIST
 HOST,design.mayoclinic.org,LIST
 HOST,desktop.parallels.com,LIST
+HOST,detectportal.firefox.com,LIST
 HOST,devimages-cdn.apple.com,LIST
 HOST,devstreaming-cdn.apple.com,LIST
 HOST,disco.headliner.link,LIST

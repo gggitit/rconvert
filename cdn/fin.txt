@@ -1,5 +1,5 @@
-# Main total line 1603
-# Last updated Sun 10/01/2023 22:15:24.01
+# Main total line 1605
+# Last updated Wed 10/04/2023 22:17:09.33
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -66,6 +66,7 @@ DOMAIN,assets.getkirby.com
 DOMAIN,assets.grammarly.com
 DOMAIN,assets.gumroad.com
 DOMAIN,assets.habr.com
+DOMAIN,assets.holopin.io
 DOMAIN,assets.ifttt.com
 DOMAIN,assets.ipstack.com
 DOMAIN,assets.jable.tv
@@ -362,6 +363,7 @@ DOMAIN,demo.unified-streaming.com
 DOMAIN,denali-static.grammarly.com
 DOMAIN,design-system.yext.com
 DOMAIN,design.mayoclinic.org
+DOMAIN,detectportal.firefox.com
 DOMAIN,disco.headliner.link
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,dl.nwjs.io

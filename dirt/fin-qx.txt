@@ -1,5 +1,5 @@
-# Quantumult total line 4096
-# Last updated Sun 10/01/2023 22:15:46.03
+# Quantumult total line 4097
+# Last updated Wed 10/04/2023 22:17:28.14
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -3456,6 +3456,7 @@ HOST-SUFFIX,wjx.top,LIST
 HOST-SUFFIX,wkcdn.com,LIST
 HOST-SUFFIX,wmzhe.com,LIST
 HOST-SUFFIX,wnhuifu.com,LIST
+HOST-SUFFIX,wo116114.com,LIST
 HOST-SUFFIX,wo1wan.com,LIST
 HOST-SUFFIX,wodingche.com,LIST
 HOST-SUFFIX,wol.tv,LIST
