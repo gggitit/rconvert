@@ -1,5 +1,5 @@
-# Adblock total line 1605
-# Last updated Wed 10/04/2023 22:17:09.60
+# Adblock total line 1609
+# Last updated Sat 10/07/2023 22:15:33.16
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -124,6 +124,7 @@
 ||avatars.mds.yandex.net^
 ||avatars.micro.blog^
 ||avatars.plurk.com^
+||az700632.vo.msecnd.net^
 ||badbits.dwebops.pub^
 ||badge.buildkite.com^
 ||badge.fury.io^
@@ -501,6 +502,7 @@
 ||images.purevpn-tools.com^
 ||images.scalero.io^
 ||images.spot.im^
+||images.store.crowdstrike.com^
 ||images.unsplash.com^
 ||images.web3.storage^
 ||images.weserv.nl^
@@ -956,6 +958,7 @@
 ||t5.nhentai.net^
 ||t7.nhentai.net^
 ||talk.hyvor.com^
+||telemetry.nextjs.org^
 ||th.bing.com^
 ||themes.fourthwall.com^
 ||thumbnail.missav.com^
@@ -1509,6 +1512,7 @@
 ||software-download.microsoft.com^
 ||sqspcdn.com^
 ||squarespace-cdn.com^
+||ss-cdn.com^
 ||ssl-images-amazon.com^
 ||stack.imgur.com^
 ||stackblitz.io^

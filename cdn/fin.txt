@@ -1,5 +1,5 @@
-# Main total line 1605
-# Last updated Wed 10/04/2023 22:17:09.33
+# Main total line 1609
+# Last updated Sat 10/07/2023 22:15:32.90
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -124,6 +124,7 @@ DOMAIN,avatars.hubspot.net
 DOMAIN,avatars.mds.yandex.net
 DOMAIN,avatars.micro.blog
 DOMAIN,avatars.plurk.com
+DOMAIN,az700632.vo.msecnd.net
 DOMAIN,badbits.dwebops.pub
 DOMAIN,badge.buildkite.com
 DOMAIN,badge.fury.io
@@ -501,6 +502,7 @@ DOMAIN,images.ptt.cc
 DOMAIN,images.purevpn-tools.com
 DOMAIN,images.scalero.io
 DOMAIN,images.spot.im
+DOMAIN,images.store.crowdstrike.com
 DOMAIN,images.unsplash.com
 DOMAIN,images.web3.storage
 DOMAIN,images.weserv.nl
@@ -956,6 +958,7 @@ DOMAIN,t4.picb.cc
 DOMAIN,t5.nhentai.net
 DOMAIN,t7.nhentai.net
 DOMAIN,talk.hyvor.com
+DOMAIN,telemetry.nextjs.org
 DOMAIN,th.bing.com
 DOMAIN,themes.fourthwall.com
 DOMAIN,thumbnail.missav.com
@@ -1509,6 +1512,7 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,sqspcdn.com
 DOMAIN-SUFFIX,squarespace-cdn.com
+DOMAIN-SUFFIX,ss-cdn.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,stack.imgur.com
 DOMAIN-SUFFIX,stackblitz.io

@@ -1,5 +1,5 @@
-# Quantumult total line 4358
-# Last updated Wed 10/04/2023 22:17:20.48
+# Quantumult total line 4361
+# Last updated Sat 10/07/2023 22:15:43.68
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -124,6 +124,7 @@ HOST,avatars.hubspot.net,LIST
 HOST,avatars.mds.yandex.net,LIST
 HOST,avatars.micro.blog,LIST
 HOST,avatars.plurk.com,LIST
+HOST,az700632.vo.msecnd.net,LIST
 HOST,az764295.vo.msecnd.net,LIST
 HOST,badbits.dwebops.pub,LIST
 HOST,badge.buildkite.com,LIST
@@ -526,6 +527,7 @@ HOST,images.ptt.cc,LIST
 HOST,images.purevpn-tools.com,LIST
 HOST,images.scalero.io,LIST
 HOST,images.spot.im,LIST
+HOST,images.store.crowdstrike.com,LIST
 HOST,images.unsplash.com,LIST
 HOST,images.web3.storage,LIST
 HOST,images.weserv.nl,LIST
@@ -2922,6 +2924,7 @@ HOST-SUFFIX,spotifynewsroom.jp,LIST
 HOST-SUFFIX,spotilocal.com,LIST
 HOST-SUFFIX,sqspcdn.com,LIST
 HOST-SUFFIX,squarespace-cdn.com,LIST
+HOST-SUFFIX,ss-cdn.com,LIST
 HOST-SUFFIX,ssl-images-amazon.com,LIST
 HOST-SUFFIX,ssl0d.com,LIST
 HOST-SUFFIX,sstatic.net,LIST
