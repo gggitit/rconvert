@@ -1,5 +1,5 @@
-# Adblock total line 3394
-# Last updated Fri 10/13/2023 22:16:16.16
+# Adblock total line 3397
+# Last updated Mon 10/16/2023 22:16:08.75
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -544,6 +544,7 @@
 ||img2.xiangbinjun.com^
 ||img3.lltaohuaxiang.com^
 ||imgcdn.91pic.org^
+||imgix.setapp.com^
 ||imgproxy.fourthwall.com^
 ||imgrs.apkcombo.com^
 ||imgs.plurk.com^
@@ -571,7 +572,6 @@
 ||js.smile.io^
 ||js.upload.io^
 ||js.userflow.com^
-||jscloud.net^
 ||kdata1.com^
 ||kh.google.com^
 ||ktpx.amazon.com^
@@ -907,6 +907,7 @@
 ||static.tronscan.org^
 ||static.tumblr.com^
 ||static.v2ex.com^
+||static.vocadb.net^
 ||static.whatsapp.net^
 ||static.zaobao.com^
 ||static0.lottiefiles.com^
@@ -1009,6 +1010,7 @@
 ||widget.trustpilot.com^
 ||widget.user.com^
 ||widgets.outbrain.com^
+||widgets.tree-nation.com^
 ||widgets.wp.com^
 ||widgets.zohosalesiq.com^
 ||wikiwandv2-19431.kxcdn.com^
@@ -2321,6 +2323,7 @@
 ||js-agent.newrelic.com^
 ||js.hubspotfeedback.com^
 ||js.usemessages.com^
+||jscloud.net^
 ||jsdelivr.com^
 ||jsdelivr.net^
 ||jspm.dev^

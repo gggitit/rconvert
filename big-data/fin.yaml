@@ -1,5 +1,5 @@
-# Clash total line 4409
-# Last updated Fri 10/13/2023 22:16:16.02
+# Clash total line 4412
+# Last updated Mon 10/16/2023 22:16:08.61
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -545,6 +545,7 @@ payload:
   - DOMAIN,img2.xiangbinjun.com
   - DOMAIN,img3.lltaohuaxiang.com
   - DOMAIN,imgcdn.91pic.org
+  - DOMAIN,imgix.setapp.com
   - DOMAIN,imgproxy.fourthwall.com
   - DOMAIN,imgrs.apkcombo.com
   - DOMAIN,imgs.plurk.com
@@ -572,7 +573,6 @@ payload:
   - DOMAIN,js.smile.io
   - DOMAIN,js.upload.io
   - DOMAIN,js.userflow.com
-  - DOMAIN,jscloud.net
   - DOMAIN,kdata1.com
   - DOMAIN,kh.google.com
   - DOMAIN,ktpx.amazon.com
@@ -908,6 +908,7 @@ payload:
   - DOMAIN,static.tronscan.org
   - DOMAIN,static.tumblr.com
   - DOMAIN,static.v2ex.com
+  - DOMAIN,static.vocadb.net
   - DOMAIN,static.whatsapp.net
   - DOMAIN,static.zaobao.com
   - DOMAIN,static0.lottiefiles.com
@@ -1010,6 +1011,7 @@ payload:
   - DOMAIN,widget.trustpilot.com
   - DOMAIN,widget.user.com
   - DOMAIN,widgets.outbrain.com
+  - DOMAIN,widgets.tree-nation.com
   - DOMAIN,widgets.wp.com
   - DOMAIN,widgets.zohosalesiq.com
   - DOMAIN,wikiwandv2-19431.kxcdn.com
@@ -2322,6 +2324,7 @@ payload:
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,js.hubspotfeedback.com
   - DOMAIN-SUFFIX,js.usemessages.com
+  - DOMAIN-SUFFIX,jscloud.net
   - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jspm.dev

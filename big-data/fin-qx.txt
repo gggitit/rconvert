@@ -1,5 +1,5 @@
-# Quantumult total line 4396
-# Last updated Fri 10/13/2023 22:16:15.97
+# Quantumult total line 4399
+# Last updated Mon 10/16/2023 22:16:08.54
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -544,6 +544,7 @@ HOST,img2.tnaflix.com,LIST
 HOST,img2.xiangbinjun.com,LIST
 HOST,img3.lltaohuaxiang.com,LIST
 HOST,imgcdn.91pic.org,LIST
+HOST,imgix.setapp.com,LIST
 HOST,imgproxy.fourthwall.com,LIST
 HOST,imgrs.apkcombo.com,LIST
 HOST,imgs.plurk.com,LIST
@@ -571,7 +572,6 @@ HOST,js.short.io,LIST
 HOST,js.smile.io,LIST
 HOST,js.upload.io,LIST
 HOST,js.userflow.com,LIST
-HOST,jscloud.net,LIST
 HOST,kdata1.com,LIST
 HOST,kh.google.com,LIST
 HOST,ktpx.amazon.com,LIST
@@ -907,6 +907,7 @@ HOST,static.tokenview.io,LIST
 HOST,static.tronscan.org,LIST
 HOST,static.tumblr.com,LIST
 HOST,static.v2ex.com,LIST
+HOST,static.vocadb.net,LIST
 HOST,static.whatsapp.net,LIST
 HOST,static.zaobao.com,LIST
 HOST,static0.lottiefiles.com,LIST
@@ -1009,6 +1010,7 @@ HOST,widget.intercom.io,LIST
 HOST,widget.trustpilot.com,LIST
 HOST,widget.user.com,LIST
 HOST,widgets.outbrain.com,LIST
+HOST,widgets.tree-nation.com,LIST
 HOST,widgets.wp.com,LIST
 HOST,widgets.zohosalesiq.com,LIST
 HOST,wikiwandv2-19431.kxcdn.com,LIST
@@ -2321,6 +2323,7 @@ HOST-SUFFIX,joox.com,LIST
 HOST-SUFFIX,js-agent.newrelic.com,LIST
 HOST-SUFFIX,js.hubspotfeedback.com,LIST
 HOST-SUFFIX,js.usemessages.com,LIST
+HOST-SUFFIX,jscloud.net,LIST
 HOST-SUFFIX,jsdelivr.com,LIST
 HOST-SUFFIX,jsdelivr.net,LIST
 HOST-SUFFIX,jspm.dev,LIST
