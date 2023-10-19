@@ -1,5 +1,5 @@
 # Clash total line 4412
-# Last updated Mon 10/16/2023 22:16:08.61
+# Last updated Thu 10/19/2023 22:15:37.21
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -943,7 +943,6 @@ payload:
   - DOMAIN,store-images.s-microsoft.com
   - DOMAIN,stories.freepiklabs.com
   - DOMAIN,streetviewpixels-pa.googleapis.com
-  - DOMAIN,stripecdn.com
   - DOMAIN,t.betterstack.com
   - DOMAIN,t1.picb.cc
   - DOMAIN,t2.picb.cc
@@ -3010,6 +3009,7 @@ payload:
   - DOMAIN-SUFFIX,streamsb.com
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,stripcdn.com
+  - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,strpst.com
   - DOMAIN-SUFFIX,subyshare.com
   - DOMAIN-SUFFIX,sundryfiles.com

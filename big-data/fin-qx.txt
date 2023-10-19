@@ -1,5 +1,5 @@
 # Quantumult total line 4399
-# Last updated Mon 10/16/2023 22:16:08.54
+# Last updated Thu 10/19/2023 22:15:37.16
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -942,7 +942,6 @@ HOST,store-images.microsoft.com,LIST
 HOST,store-images.s-microsoft.com,LIST
 HOST,stories.freepiklabs.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
-HOST,stripecdn.com,LIST
 HOST,t.betterstack.com,LIST
 HOST,t1.picb.cc,LIST
 HOST,t2.picb.cc,LIST
@@ -3009,6 +3008,7 @@ HOST-SUFFIX,streamingdisney.net,LIST
 HOST-SUFFIX,streamsb.com,LIST
 HOST-SUFFIX,streamtape.com,LIST
 HOST-SUFFIX,stripcdn.com,LIST
+HOST-SUFFIX,stripecdn.com,LIST
 HOST-SUFFIX,strpst.com,LIST
 HOST-SUFFIX,subyshare.com,LIST
 HOST-SUFFIX,sundryfiles.com,LIST

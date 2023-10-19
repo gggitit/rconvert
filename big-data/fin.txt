@@ -1,5 +1,5 @@
 # Main total line 4412
-# Last updated Mon 10/16/2023 22:16:08.34
+# Last updated Thu 10/19/2023 22:15:36.97
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -942,7 +942,6 @@ DOMAIN,store-images.microsoft.com
 DOMAIN,store-images.s-microsoft.com
 DOMAIN,stories.freepiklabs.com
 DOMAIN,streetviewpixels-pa.googleapis.com
-DOMAIN,stripecdn.com
 DOMAIN,t.betterstack.com
 DOMAIN,t1.picb.cc
 DOMAIN,t2.picb.cc
@@ -3009,6 +3008,7 @@ DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,streamsb.com
 DOMAIN-SUFFIX,streamtape.com
 DOMAIN-SUFFIX,stripcdn.com
+DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,subyshare.com
 DOMAIN-SUFFIX,sundryfiles.com
