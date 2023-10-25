@@ -1,5 +1,5 @@
-# Quantumult total line 4077
-# Last updated Sun 10/22/2023 22:16:01.71
+# Quantumult total line 4088
+# Last updated Wed 10/25/2023 22:16:05.20
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -1350,6 +1350,8 @@ HOST-SUFFIX,fastapi.net,LIST
 HOST-SUFFIX,fastcdn.com,LIST
 HOST-SUFFIX,fbank.com,LIST
 HOST-SUFFIX,fdcyun.com,LIST
+HOST-SUFFIX,feidee.com,LIST
+HOST-SUFFIX,feidee.net,LIST
 HOST-SUFFIX,feihuo.com,LIST
 HOST-SUFFIX,feiliao.com,LIST
 HOST-SUFFIX,feimaoyun.com,LIST
@@ -1403,10 +1405,14 @@ HOST-SUFFIX,freshhema.com,LIST
 HOST-SUFFIX,frontjs.com,LIST
 HOST-SUFFIX,frontwize.com,LIST
 HOST-SUFFIX,fsfund.com,LIST
+HOST-SUFFIX,fspcdn.com,LIST
 HOST-SUFFIX,ftfund.com,LIST
 HOST-SUFFIX,fugetech.com,LIST
+HOST-SUFFIX,fun.tv,LIST
 HOST-SUFFIX,funcdn.com,LIST
 HOST-SUFFIX,funnycore.com,LIST
+HOST-SUFFIX,funshion.com,LIST
+HOST-SUFFIX,funshion.net,LIST
 HOST-SUFFIX,futu5.com,LIST
 HOST-SUFFIX,futunn.com,LIST
 HOST-SUFFIX,fuwai.com,LIST
@@ -1727,6 +1733,7 @@ HOST-SUFFIX,i3839.com,LIST
 HOST-SUFFIX,iask.com,LIST
 HOST-SUFFIX,ibaotu.com,LIST
 HOST-SUFFIX,ibcet.org,LIST
+HOST-SUFFIX,ibidian.com,LIST
 HOST-SUFFIX,ibuychem.com,LIST
 HOST-SUFFIX,ibytedapm.com,LIST
 HOST-SUFFIX,ica-alliance.org,LIST
@@ -2969,6 +2976,7 @@ HOST-SUFFIX,springtour.com,LIST
 HOST-SUFFIX,sq.cc,LIST
 HOST-SUFFIX,sqqnh.org,LIST
 HOST-SUFFIX,sseinfo.com,LIST
+HOST-SUFFIX,ssjlicai.com,LIST
 HOST-SUFFIX,sslawy.com,LIST
 HOST-SUFFIX,sslibrary.com,LIST
 HOST-SUFFIX,sspai.com,LIST
@@ -2983,6 +2991,7 @@ HOST-SUFFIX,stcn.com,LIST
 HOST-SUFFIX,steampp.net,LIST
 HOST-SUFFIX,stockstar.com,LIST
 HOST-SUFFIX,suanya.com,LIST
+HOST-SUFFIX,sui.com,LIST
 HOST-SUFFIX,sumkoo.com,LIST
 HOST-SUFFIX,sumkoo.net,LIST
 HOST-SUFFIX,sun0769.com,LIST
@@ -3391,6 +3400,7 @@ HOST-SUFFIX,weilaicaijing.com,LIST
 HOST-SUFFIX,weilaiyunxiao.com,LIST
 HOST-SUFFIX,weiphone.com,LIST
 HOST-SUFFIX,weiphone.net,LIST
+HOST-SUFFIX,weixinbridge.com,LIST
 HOST-SUFFIX,weixing.com,LIST
 HOST-SUFFIX,weiyangx.com,LIST
 HOST-SUFFIX,weiyun.com,LIST
@@ -3480,6 +3490,7 @@ HOST-SUFFIX,xfdown.com,LIST
 HOST-SUFFIX,xhaiwai.com,LIST
 HOST-SUFFIX,xhostfire.com,LIST
 HOST-SUFFIX,xhscdn.com,LIST
+HOST-SUFFIX,xhscdn.net,LIST
 HOST-SUFFIX,xiachufang.com,LIST
 HOST-SUFFIX,xiamenair.com,LIST
 HOST-SUFFIX,xiami.com,LIST

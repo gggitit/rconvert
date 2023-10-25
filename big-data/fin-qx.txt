@@ -1,5 +1,5 @@
-# Quantumult total line 4423
-# Last updated Sun 10/22/2023 22:15:49.58
+# Quantumult total line 4425
+# Last updated Wed 10/25/2023 22:15:54.33
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -53,6 +53,7 @@ HOST,assets.bbhub.io,LIST
 HOST,assets.bitstamp.net,LIST
 HOST,assets.braintreegateway.com,LIST
 HOST,assets.bwbx.io,LIST
+HOST,assets.byteplus.com,LIST
 HOST,assets.calendly.com,LIST
 HOST,assets.canny.io,LIST
 HOST,assets.capterra.com,LIST
@@ -88,6 +89,7 @@ HOST,assets.orz.uno,LIST
 HOST,assets.plurk.com,LIST
 HOST,assets.poool.fr,LIST
 HOST,assets.repair.org,LIST
+HOST,assets.safing.io,LIST
 HOST,assets.scaleflex.com,LIST
 HOST,assets.scroll.com,LIST
 HOST,assets.squarespace.com,LIST
