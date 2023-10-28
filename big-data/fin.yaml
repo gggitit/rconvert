@@ -1,5 +1,5 @@
-# Clash total line 4438
-# Last updated Wed 10/25/2023 22:15:54.39
+# Clash total line 4449
+# Last updated Sat 10/28/2023 22:14:50.39
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -181,6 +181,7 @@ payload:
   - DOMAIN,cdn.accounts.nintendo.com
   - DOMAIN,cdn.adguard.com
   - DOMAIN,cdn.amcharts.com
+  - DOMAIN,cdn.announcekit.app
   - DOMAIN,cdn.apkmonk.com
   - DOMAIN,cdn.apple-cloudkit.com
   - DOMAIN,cdn.arcade.software
@@ -384,7 +385,6 @@ payload:
   - DOMAIN,devimages-cdn.apple.com
   - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,disco.headliner.link
-  - DOMAIN,dl-cdn.alpinelinux.org
   - DOMAIN,dl.nwjs.io
   - DOMAIN,dl2.nwjs.io
   - DOMAIN,docs.rs
@@ -529,6 +529,7 @@ payload:
   - DOMAIN,images.weserv.nl
   - DOMAIN,images.wikia.com
   - DOMAIN,imagizer.imageshack.com
+  - DOMAIN,img.announcekit.app
   - DOMAIN,img.badgesize.io
   - DOMAIN,img.bigcloud.cyou
   - DOMAIN,img.biguz.net
@@ -682,8 +683,10 @@ payload:
   - DOMAIN,p.typekit.com
   - DOMAIN,p.typekit.net
   - DOMAIN,pacdn.500px.org
+  - DOMAIN,packages-cf.termux.dev
   - DOMAIN,packages.argotunnel.com
   - DOMAIN,packages.httpie.io
+  - DOMAIN,packages.termux.dev
   - DOMAIN,participants.evolv.ai
   - DOMAIN,parts.blog.livedoor.jp
   - DOMAIN,pcz.javidol.org
@@ -710,7 +713,6 @@ payload:
   - DOMAIN,polyfill.bbhub.io
   - DOMAIN,polyfill.mailchimp.com
   - DOMAIN,pool.jortage.com
-  - DOMAIN,ppa.launchpad.net
   - DOMAIN,practicaldev-herokuapp-com.freetls.fastly.net
   - DOMAIN,prego-cache.prod.sketch.com
   - DOMAIN,previews.fleek.co
@@ -730,6 +732,7 @@ payload:
   - DOMAIN,raw.github.com
   - DOMAIN,react.dev
   - DOMAIN,rebound.postmarkapp.com
+  - DOMAIN,registry-cdn.wapm.io
   - DOMAIN,registry.bower.io
   - DOMAIN,registry.npmjs.cf
   - DOMAIN,registry.npmjs.com
@@ -798,6 +801,7 @@ payload:
   - DOMAIN,scdn1.plesk.com
   - DOMAIN,scontent.whatsapp.net
   - DOMAIN,screenshots.codesandbox.io
+  - DOMAIN,screenshots.debian.net
   - DOMAIN,screenshots.downloadtorrentfile.com
   - DOMAIN,scripts.webeo.com
   - DOMAIN,sdk.qikify.com
@@ -1327,6 +1331,7 @@ payload:
   - DOMAIN-SUFFIX,bundle.run
   - DOMAIN-SUFFIX,bundle.thimatic-apps.com
   - DOMAIN-SUFFIX,buyvm.net
+  - DOMAIN-SUFFIX,bytebucket.org
   - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,c.staticblitz.com
@@ -1379,6 +1384,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.nintendo.net
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cdn.plus500.com
+  - DOMAIN-SUFFIX,cdn.printfriendly.com
   - DOMAIN-SUFFIX,cdn.prismic.io
   - DOMAIN-SUFFIX,cdn.replit.com
   - DOMAIN-SUFFIX,cdn.runcloud.io
@@ -1404,6 +1410,7 @@ payload:
   - DOMAIN-SUFFIX,centfile.com
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN-SUFFIX,cf-ipfs.com
+  - DOMAIN-SUFFIX,cfcdn.mux.com
   - DOMAIN-SUFFIX,channel4.com
   - DOMAIN-SUFFIX,channel5.com
   - DOMAIN-SUFFIX,charontv.com
@@ -2477,6 +2484,7 @@ payload:
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,minecraftforge.net
   - DOMAIN-SUFFIX,mirrorcreator.com
+  - DOMAIN-SUFFIX,mirrors.utermux.dev
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misskeyusercontent.com
@@ -2785,6 +2793,7 @@ payload:
   - DOMAIN-SUFFIX,put.re
   - DOMAIN-SUFFIX,putlockertv.to
   - DOMAIN-SUFFIX,pv-cdn.net
+  - DOMAIN-SUFFIX,pxgcdn.com
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,pythonhosted.org
@@ -3093,6 +3102,7 @@ payload:
   - DOMAIN-SUFFIX,tmp.link
   - DOMAIN-SUFFIX,tnastatic.com
   - DOMAIN-SUFFIX,top4top.net
+  - DOMAIN-SUFFIX,trackerslist.com
   - DOMAIN-SUFFIX,transcend-cdn.com
   - DOMAIN-SUFFIX,tth-ipfs.com
   - DOMAIN-SUFFIX,ttwstatic.com
@@ -3192,6 +3202,7 @@ payload:
   - DOMAIN-SUFFIX,usanetwork.com
   - DOMAIN-SUFFIX,uschovna.cz
   - DOMAIN-SUFFIX,usemet.nl
+  - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,usercontent.dev
   - DOMAIN-SUFFIX,usercontent.goog
   - DOMAIN-SUFFIX,usercontent.one

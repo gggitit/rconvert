@@ -1,5 +1,5 @@
-# Adblock total line 3423
-# Last updated Wed 10/25/2023 22:15:54.53
+# Adblock total line 3434
+# Last updated Sat 10/28/2023 22:14:50.50
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -180,6 +180,7 @@
 ||cdn.accounts.nintendo.com^
 ||cdn.adguard.com^
 ||cdn.amcharts.com^
+||cdn.announcekit.app^
 ||cdn.apkmonk.com^
 ||cdn.apple-cloudkit.com^
 ||cdn.arcade.software^
@@ -383,7 +384,6 @@
 ||devimages-cdn.apple.com^
 ||devstreaming-cdn.apple.com^
 ||disco.headliner.link^
-||dl-cdn.alpinelinux.org^
 ||dl.nwjs.io^
 ||dl2.nwjs.io^
 ||docs.rs^
@@ -528,6 +528,7 @@
 ||images.weserv.nl^
 ||images.wikia.com^
 ||imagizer.imageshack.com^
+||img.announcekit.app^
 ||img.badgesize.io^
 ||img.bigcloud.cyou^
 ||img.biguz.net^
@@ -681,8 +682,10 @@
 ||p.typekit.com^
 ||p.typekit.net^
 ||pacdn.500px.org^
+||packages-cf.termux.dev^
 ||packages.argotunnel.com^
 ||packages.httpie.io^
+||packages.termux.dev^
 ||participants.evolv.ai^
 ||parts.blog.livedoor.jp^
 ||pcz.javidol.org^
@@ -709,7 +712,6 @@
 ||polyfill.bbhub.io^
 ||polyfill.mailchimp.com^
 ||pool.jortage.com^
-||ppa.launchpad.net^
 ||practicaldev-herokuapp-com.freetls.fastly.net^
 ||prego-cache.prod.sketch.com^
 ||previews.fleek.co^
@@ -729,6 +731,7 @@
 ||raw.github.com^
 ||react.dev^
 ||rebound.postmarkapp.com^
+||registry-cdn.wapm.io^
 ||registry.bower.io^
 ||registry.npmjs.cf^
 ||registry.npmjs.com^
@@ -797,6 +800,7 @@
 ||scdn1.plesk.com^
 ||scontent.whatsapp.net^
 ||screenshots.codesandbox.io^
+||screenshots.debian.net^
 ||screenshots.downloadtorrentfile.com^
 ||scripts.webeo.com^
 ||sdk.qikify.com^
@@ -1326,6 +1330,7 @@
 ||bundle.run^
 ||bundle.thimatic-apps.com^
 ||buyvm.net^
+||bytebucket.org^
 ||bytedapm.com^
 ||byteoversea.com^
 ||c.staticblitz.com^
@@ -1378,6 +1383,7 @@
 ||cdn.nintendo.net^
 ||cdn.optimizely.com^
 ||cdn.plus500.com^
+||cdn.printfriendly.com^
 ||cdn.prismic.io^
 ||cdn.replit.com^
 ||cdn.runcloud.io^
@@ -1403,6 +1409,7 @@
 ||centfile.com^
 ||cf-images.ap-southeast-1.prod.boltdns.net^
 ||cf-ipfs.com^
+||cfcdn.mux.com^
 ||channel4.com^
 ||channel5.com^
 ||charontv.com^
@@ -2476,6 +2483,7 @@
 ||minecraft.net^
 ||minecraftforge.net^
 ||mirrorcreator.com^
+||mirrors.utermux.dev^
 ||misakaf.org^
 ||misakaf.xyz^
 ||misskeyusercontent.com^
@@ -2784,6 +2792,7 @@
 ||put.re^
 ||putlockertv.to^
 ||pv-cdn.net^
+||pxgcdn.com^
 ||pximg.net^
 ||pypi.org^
 ||pythonhosted.org^
@@ -3092,6 +3101,7 @@
 ||tmp.link^
 ||tnastatic.com^
 ||top4top.net^
+||trackerslist.com^
 ||transcend-cdn.com^
 ||tth-ipfs.com^
 ||ttwstatic.com^
@@ -3191,6 +3201,7 @@
 ||usanetwork.com^
 ||uschovna.cz^
 ||usemet.nl^
+||userapi.com^
 ||usercontent.dev^
 ||usercontent.goog^
 ||usercontent.one^

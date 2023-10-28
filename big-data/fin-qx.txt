@@ -1,5 +1,5 @@
-# Quantumult total line 4425
-# Last updated Wed 10/25/2023 22:15:54.33
+# Quantumult total line 4436
+# Last updated Sat 10/28/2023 22:14:50.34
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -180,6 +180,7 @@ HOST,cdn-www.bluestacks.com,LIST
 HOST,cdn.accounts.nintendo.com,LIST
 HOST,cdn.adguard.com,LIST
 HOST,cdn.amcharts.com,LIST
+HOST,cdn.announcekit.app,LIST
 HOST,cdn.apkmonk.com,LIST
 HOST,cdn.apple-cloudkit.com,LIST
 HOST,cdn.arcade.software,LIST
@@ -383,7 +384,6 @@ HOST,detectportal.firefox.com,LIST
 HOST,devimages-cdn.apple.com,LIST
 HOST,devstreaming-cdn.apple.com,LIST
 HOST,disco.headliner.link,LIST
-HOST,dl-cdn.alpinelinux.org,LIST
 HOST,dl.nwjs.io,LIST
 HOST,dl2.nwjs.io,LIST
 HOST,docs.rs,LIST
@@ -528,6 +528,7 @@ HOST,images.web3.storage,LIST
 HOST,images.weserv.nl,LIST
 HOST,images.wikia.com,LIST
 HOST,imagizer.imageshack.com,LIST
+HOST,img.announcekit.app,LIST
 HOST,img.badgesize.io,LIST
 HOST,img.bigcloud.cyou,LIST
 HOST,img.biguz.net,LIST
@@ -681,8 +682,10 @@ HOST,p.bstarstatic.com,LIST
 HOST,p.typekit.com,LIST
 HOST,p.typekit.net,LIST
 HOST,pacdn.500px.org,LIST
+HOST,packages-cf.termux.dev,LIST
 HOST,packages.argotunnel.com,LIST
 HOST,packages.httpie.io,LIST
+HOST,packages.termux.dev,LIST
 HOST,participants.evolv.ai,LIST
 HOST,parts.blog.livedoor.jp,LIST
 HOST,pcz.javidol.org,LIST
@@ -709,7 +712,6 @@ HOST,plus.unsplash.com,LIST
 HOST,polyfill.bbhub.io,LIST
 HOST,polyfill.mailchimp.com,LIST
 HOST,pool.jortage.com,LIST
-HOST,ppa.launchpad.net,LIST
 HOST,practicaldev-herokuapp-com.freetls.fastly.net,LIST
 HOST,prego-cache.prod.sketch.com,LIST
 HOST,previews.fleek.co,LIST
@@ -729,6 +731,7 @@ HOST,quriobot.com,LIST
 HOST,raw.github.com,LIST
 HOST,react.dev,LIST
 HOST,rebound.postmarkapp.com,LIST
+HOST,registry-cdn.wapm.io,LIST
 HOST,registry.bower.io,LIST
 HOST,registry.npmjs.cf,LIST
 HOST,registry.npmjs.com,LIST
@@ -797,6 +800,7 @@ HOST,scdn.clerk.com,LIST
 HOST,scdn1.plesk.com,LIST
 HOST,scontent.whatsapp.net,LIST
 HOST,screenshots.codesandbox.io,LIST
+HOST,screenshots.debian.net,LIST
 HOST,screenshots.downloadtorrentfile.com,LIST
 HOST,scripts.webeo.com,LIST
 HOST,sdk.qikify.com,LIST
@@ -1326,6 +1330,7 @@ HOST-SUFFIX,bucketeer.jp,LIST
 HOST-SUFFIX,bundle.run,LIST
 HOST-SUFFIX,bundle.thimatic-apps.com,LIST
 HOST-SUFFIX,buyvm.net,LIST
+HOST-SUFFIX,bytebucket.org,LIST
 HOST-SUFFIX,bytedapm.com,LIST
 HOST-SUFFIX,byteoversea.com,LIST
 HOST-SUFFIX,c.staticblitz.com,LIST
@@ -1378,6 +1383,7 @@ HOST-SUFFIX,cdn.mozilla.net,LIST
 HOST-SUFFIX,cdn.nintendo.net,LIST
 HOST-SUFFIX,cdn.optimizely.com,LIST
 HOST-SUFFIX,cdn.plus500.com,LIST
+HOST-SUFFIX,cdn.printfriendly.com,LIST
 HOST-SUFFIX,cdn.prismic.io,LIST
 HOST-SUFFIX,cdn.replit.com,LIST
 HOST-SUFFIX,cdn.runcloud.io,LIST
@@ -1403,6 +1409,7 @@ HOST-SUFFIX,cdntrex.com,LIST
 HOST-SUFFIX,centfile.com,LIST
 HOST-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,LIST
 HOST-SUFFIX,cf-ipfs.com,LIST
+HOST-SUFFIX,cfcdn.mux.com,LIST
 HOST-SUFFIX,channel4.com,LIST
 HOST-SUFFIX,channel5.com,LIST
 HOST-SUFFIX,charontv.com,LIST
@@ -2476,6 +2483,7 @@ HOST-SUFFIX,mightyupload.com,LIST
 HOST-SUFFIX,minecraft.net,LIST
 HOST-SUFFIX,minecraftforge.net,LIST
 HOST-SUFFIX,mirrorcreator.com,LIST
+HOST-SUFFIX,mirrors.utermux.dev,LIST
 HOST-SUFFIX,misakaf.org,LIST
 HOST-SUFFIX,misakaf.xyz,LIST
 HOST-SUFFIX,misskeyusercontent.com,LIST
@@ -2784,6 +2792,7 @@ HOST-SUFFIX,pureapk.com,LIST
 HOST-SUFFIX,put.re,LIST
 HOST-SUFFIX,putlockertv.to,LIST
 HOST-SUFFIX,pv-cdn.net,LIST
+HOST-SUFFIX,pxgcdn.com,LIST
 HOST-SUFFIX,pximg.net,LIST
 HOST-SUFFIX,pypi.org,LIST
 HOST-SUFFIX,pythonhosted.org,LIST
@@ -3092,6 +3101,7 @@ HOST-SUFFIX,tln4.ru,LIST
 HOST-SUFFIX,tmp.link,LIST
 HOST-SUFFIX,tnastatic.com,LIST
 HOST-SUFFIX,top4top.net,LIST
+HOST-SUFFIX,trackerslist.com,LIST
 HOST-SUFFIX,transcend-cdn.com,LIST
 HOST-SUFFIX,tth-ipfs.com,LIST
 HOST-SUFFIX,ttwstatic.com,LIST
@@ -3191,6 +3201,7 @@ HOST-SUFFIX,urduvoa.com,LIST
 HOST-SUFFIX,usanetwork.com,LIST
 HOST-SUFFIX,uschovna.cz,LIST
 HOST-SUFFIX,usemet.nl,LIST
+HOST-SUFFIX,userapi.com,LIST
 HOST-SUFFIX,usercontent.dev,LIST
 HOST-SUFFIX,usercontent.goog,LIST
 HOST-SUFFIX,usercontent.one,LIST
