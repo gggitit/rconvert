@@ -1,5 +1,5 @@
-# Clash total line 4449
-# Last updated Sat 10/28/2023 22:14:50.39
+# Clash total line 4459
+# Last updated Tue 10/31/2023 22:15:45.79
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -86,6 +86,8 @@ payload:
   - DOMAIN,assets.nationbuilder.com
   - DOMAIN,assets.nintendo.com
   - DOMAIN,assets.onestore.ms
+  - DOMAIN,assets.openshift.com
+  - DOMAIN,assets.openshift.net
   - DOMAIN,assets.orz.uno
   - DOMAIN,assets.plurk.com
   - DOMAIN,assets.poool.fr
@@ -93,6 +95,7 @@ payload:
   - DOMAIN,assets.safing.io
   - DOMAIN,assets.scaleflex.com
   - DOMAIN,assets.scroll.com
+  - DOMAIN,assets.sendinblue.com
   - DOMAIN,assets.squarespace.com
   - DOMAIN,assets.static-upwork.com
   - DOMAIN,assets.swoogo.com
@@ -352,6 +355,7 @@ payload:
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,ci.testling.com
   - DOMAIN,client.px-cloud.net
+  - DOMAIN,cloud.redhat.com
   - DOMAIN,cms-assets.webediamovies.pro
   - DOMAIN,cms-cdn.now.gg
   - DOMAIN,code.benco.io
@@ -381,6 +385,7 @@ payload:
   - DOMAIN,denali-static.grammarly.com
   - DOMAIN,design-system.yext.com
   - DOMAIN,design.mayoclinic.org
+  - DOMAIN,designsystem.brevo.com
   - DOMAIN,detectportal.firefox.com
   - DOMAIN,devimages-cdn.apple.com
   - DOMAIN,devstreaming-cdn.apple.com
@@ -390,6 +395,7 @@ payload:
   - DOMAIN,docs.rs
   - DOMAIN,download.maxmind.com
   - DOMAIN,downloads.coindesk.com
+  - DOMAIN,downloads.wordpress.org
   - DOMAIN,drscdn.500px.org
   - DOMAIN,dynamic-assets.mobilius.top
   - DOMAIN,e3.365dm.com
@@ -598,6 +604,7 @@ payload:
   - DOMAIN,logo.clearbit.com
   - DOMAIN,logos.speedtestcustom.com
   - DOMAIN,loutre.blockchair.io
+  - DOMAIN,m-cdn.phonearena.com
   - DOMAIN,maps.geoapify.com
   - DOMAIN,mastodon-static.miao.dev
   - DOMAIN,maven.google.com
@@ -762,6 +769,7 @@ payload:
   - DOMAIN,ruleset.skk.moe
   - DOMAIN,runkit-packages-static-executables.com
   - DOMAIN,runkit-packages-static.com
+  - DOMAIN,s-cdn.phonearena.com
   - DOMAIN,s.abcnews.com
   - DOMAIN,s.namemc.com
   - DOMAIN,s.plurk.com
@@ -1232,6 +1240,7 @@ payload:
   - DOMAIN-SUFFIX,asmr.one
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,assets-servd.host
+  - DOMAIN-SUFFIX,assets-yammer.com
   - DOMAIN-SUFFIX,assets.getpocket.com
   - DOMAIN-SUFFIX,assets.heroku.com
   - DOMAIN-SUFFIX,assets.pinterest.com
@@ -3395,6 +3404,7 @@ payload:
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,yahooinc.com
+  - DOMAIN-SUFFIX,yammerusercontent.com
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yb.uncn.jp

@@ -1,5 +1,5 @@
-# Adblock total line 3434
-# Last updated Sat 10/28/2023 22:14:50.50
+# Adblock total line 3444
+# Last updated Tue 10/31/2023 22:15:45.92
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -85,6 +85,8 @@
 ||assets.nationbuilder.com^
 ||assets.nintendo.com^
 ||assets.onestore.ms^
+||assets.openshift.com^
+||assets.openshift.net^
 ||assets.orz.uno^
 ||assets.plurk.com^
 ||assets.poool.fr^
@@ -92,6 +94,7 @@
 ||assets.safing.io^
 ||assets.scaleflex.com^
 ||assets.scroll.com^
+||assets.sendinblue.com^
 ||assets.squarespace.com^
 ||assets.static-upwork.com^
 ||assets.swoogo.com^
@@ -351,6 +354,7 @@
 ||chuangcachecdnoversea-tw.inter.ptqy.gitv.tv^
 ||ci.testling.com^
 ||client.px-cloud.net^
+||cloud.redhat.com^
 ||cms-assets.webediamovies.pro^
 ||cms-cdn.now.gg^
 ||code.benco.io^
@@ -380,6 +384,7 @@
 ||denali-static.grammarly.com^
 ||design-system.yext.com^
 ||design.mayoclinic.org^
+||designsystem.brevo.com^
 ||detectportal.firefox.com^
 ||devimages-cdn.apple.com^
 ||devstreaming-cdn.apple.com^
@@ -389,6 +394,7 @@
 ||docs.rs^
 ||download.maxmind.com^
 ||downloads.coindesk.com^
+||downloads.wordpress.org^
 ||drscdn.500px.org^
 ||dynamic-assets.mobilius.top^
 ||e3.365dm.com^
@@ -597,6 +603,7 @@
 ||logo.clearbit.com^
 ||logos.speedtestcustom.com^
 ||loutre.blockchair.io^
+||m-cdn.phonearena.com^
 ||maps.geoapify.com^
 ||mastodon-static.miao.dev^
 ||maven.google.com^
@@ -761,6 +768,7 @@
 ||ruleset.skk.moe^
 ||runkit-packages-static-executables.com^
 ||runkit-packages-static.com^
+||s-cdn.phonearena.com^
 ||s.abcnews.com^
 ||s.namemc.com^
 ||s.plurk.com^
@@ -1231,6 +1239,7 @@
 ||asmr.one^
 ||aspnetcdn.com^
 ||assets-servd.host^
+||assets-yammer.com^
 ||assets.getpocket.com^
 ||assets.heroku.com^
 ||assets.pinterest.com^
@@ -3394,6 +3403,7 @@
 ||yahoo.com^
 ||yahoo.net^
 ||yahooinc.com^
+||yammerusercontent.com^
 ||yarnpkg.com^
 ||yastatic.net^
 ||yb.uncn.jp^

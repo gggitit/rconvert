@@ -1,5 +1,5 @@
-# Quantumult total line 4436
-# Last updated Sat 10/28/2023 22:14:50.34
+# Quantumult total line 4446
+# Last updated Tue 10/31/2023 22:15:45.71
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -85,6 +85,8 @@ HOST,assets.msn.com,LIST
 HOST,assets.nationbuilder.com,LIST
 HOST,assets.nintendo.com,LIST
 HOST,assets.onestore.ms,LIST
+HOST,assets.openshift.com,LIST
+HOST,assets.openshift.net,LIST
 HOST,assets.orz.uno,LIST
 HOST,assets.plurk.com,LIST
 HOST,assets.poool.fr,LIST
@@ -92,6 +94,7 @@ HOST,assets.repair.org,LIST
 HOST,assets.safing.io,LIST
 HOST,assets.scaleflex.com,LIST
 HOST,assets.scroll.com,LIST
+HOST,assets.sendinblue.com,LIST
 HOST,assets.squarespace.com,LIST
 HOST,assets.static-upwork.com,LIST
 HOST,assets.swoogo.com,LIST
@@ -351,6 +354,7 @@ HOST,checkout.stripe.com,LIST
 HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,ci.testling.com,LIST
 HOST,client.px-cloud.net,LIST
+HOST,cloud.redhat.com,LIST
 HOST,cms-assets.webediamovies.pro,LIST
 HOST,cms-cdn.now.gg,LIST
 HOST,code.benco.io,LIST
@@ -380,6 +384,7 @@ HOST,demo.unified-streaming.com,LIST
 HOST,denali-static.grammarly.com,LIST
 HOST,design-system.yext.com,LIST
 HOST,design.mayoclinic.org,LIST
+HOST,designsystem.brevo.com,LIST
 HOST,detectportal.firefox.com,LIST
 HOST,devimages-cdn.apple.com,LIST
 HOST,devstreaming-cdn.apple.com,LIST
@@ -389,6 +394,7 @@ HOST,dl2.nwjs.io,LIST
 HOST,docs.rs,LIST
 HOST,download.maxmind.com,LIST
 HOST,downloads.coindesk.com,LIST
+HOST,downloads.wordpress.org,LIST
 HOST,drscdn.500px.org,LIST
 HOST,dynamic-assets.mobilius.top,LIST
 HOST,e3.365dm.com,LIST
@@ -597,6 +603,7 @@ HOST,livedoor.blogimg.jp,LIST
 HOST,logo.clearbit.com,LIST
 HOST,logos.speedtestcustom.com,LIST
 HOST,loutre.blockchair.io,LIST
+HOST,m-cdn.phonearena.com,LIST
 HOST,maps.geoapify.com,LIST
 HOST,mastodon-static.miao.dev,LIST
 HOST,maven.google.com,LIST
@@ -761,6 +768,7 @@ HOST,rules.ac,LIST
 HOST,ruleset.skk.moe,LIST
 HOST,runkit-packages-static-executables.com,LIST
 HOST,runkit-packages-static.com,LIST
+HOST,s-cdn.phonearena.com,LIST
 HOST,s.abcnews.com,LIST
 HOST,s.namemc.com,LIST
 HOST,s.plurk.com,LIST
@@ -1231,6 +1239,7 @@ HOST-SUFFIX,asmfile.com,LIST
 HOST-SUFFIX,asmr.one,LIST
 HOST-SUFFIX,aspnetcdn.com,LIST
 HOST-SUFFIX,assets-servd.host,LIST
+HOST-SUFFIX,assets-yammer.com,LIST
 HOST-SUFFIX,assets.getpocket.com,LIST
 HOST-SUFFIX,assets.heroku.com,LIST
 HOST-SUFFIX,assets.pinterest.com,LIST
@@ -3394,6 +3403,7 @@ HOST-SUFFIX,xxoo.skin,LIST
 HOST-SUFFIX,yahoo.com,LIST
 HOST-SUFFIX,yahoo.net,LIST
 HOST-SUFFIX,yahooinc.com,LIST
+HOST-SUFFIX,yammerusercontent.com,LIST
 HOST-SUFFIX,yarnpkg.com,LIST
 HOST-SUFFIX,yastatic.net,LIST
 HOST-SUFFIX,yb.uncn.jp,LIST
