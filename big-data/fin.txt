@@ -1,5 +1,5 @@
-# Main total line 4459
-# Last updated Tue 10/31/2023 22:15:45.51
+# Main total line 4462
+# Last updated Wed 11/01/2023 22:16:24.73
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -218,6 +218,7 @@ DOMAIN,cdn.dribbble.com
 DOMAIN,cdn.dynamicyield.com
 DOMAIN,cdn.equalweb.com
 DOMAIN,cdn.faire.com
+DOMAIN,cdn.faveohelpdesk.com
 DOMAIN,cdn.filen.io
 DOMAIN,cdn.firebase.com
 DOMAIN,cdn.forms.office.net
@@ -1504,6 +1505,7 @@ DOMAIN-SUFFIX,curiositystream.com
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,cwseed.com
 DOMAIN-SUFFIX,cwtv.com
+DOMAIN-SUFFIX,cwwcdn.com
 DOMAIN-SUFFIX,d9.flashtalking.com
 DOMAIN-SUFFIX,dai.ly
 DOMAIN-SUFFIX,dailymotion.com
@@ -2069,6 +2071,7 @@ DOMAIN-SUFFIX,gentcdn.com
 DOMAIN-SUFFIX,geraldoatlarge.com
 DOMAIN-SUFFIX,getblueshift.com
 DOMAIN-SUFFIX,getbukkit.org
+DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,gettyfile.ru
 DOMAIN-SUFFIX,gfxfile.com

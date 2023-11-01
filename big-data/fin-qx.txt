@@ -1,5 +1,5 @@
-# Quantumult total line 4446
-# Last updated Tue 10/31/2023 22:15:45.71
+# Quantumult total line 4449
+# Last updated Wed 11/01/2023 22:16:24.96
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -218,6 +218,7 @@ HOST,cdn.dribbble.com,LIST
 HOST,cdn.dynamicyield.com,LIST
 HOST,cdn.equalweb.com,LIST
 HOST,cdn.faire.com,LIST
+HOST,cdn.faveohelpdesk.com,LIST
 HOST,cdn.filen.io,LIST
 HOST,cdn.firebase.com,LIST
 HOST,cdn.forms.office.net,LIST
@@ -1504,6 +1505,7 @@ HOST-SUFFIX,curiositystream.com,LIST
 HOST-SUFFIX,curseforge.com,LIST
 HOST-SUFFIX,cwseed.com,LIST
 HOST-SUFFIX,cwtv.com,LIST
+HOST-SUFFIX,cwwcdn.com,LIST
 HOST-SUFFIX,d9.flashtalking.com,LIST
 HOST-SUFFIX,dai.ly,LIST
 HOST-SUFFIX,dailymotion.com,LIST
@@ -2069,6 +2071,7 @@ HOST-SUFFIX,gentcdn.com,LIST
 HOST-SUFFIX,geraldoatlarge.com,LIST
 HOST-SUFFIX,getblueshift.com,LIST
 HOST-SUFFIX,getbukkit.org,LIST
+HOST-SUFFIX,getcomposer.org,LIST
 HOST-SUFFIX,getdropbox.com,LIST
 HOST-SUFFIX,gettyfile.ru,LIST
 HOST-SUFFIX,gfxfile.com,LIST

@@ -1,5 +1,5 @@
-# Clash total line 4459
-# Last updated Tue 10/31/2023 22:15:45.79
+# Clash total line 4462
+# Last updated Wed 11/01/2023 22:16:25.01
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -219,6 +219,7 @@ payload:
   - DOMAIN,cdn.dynamicyield.com
   - DOMAIN,cdn.equalweb.com
   - DOMAIN,cdn.faire.com
+  - DOMAIN,cdn.faveohelpdesk.com
   - DOMAIN,cdn.filen.io
   - DOMAIN,cdn.firebase.com
   - DOMAIN,cdn.forms.office.net
@@ -1505,6 +1506,7 @@ payload:
   - DOMAIN-SUFFIX,curseforge.com
   - DOMAIN-SUFFIX,cwseed.com
   - DOMAIN-SUFFIX,cwtv.com
+  - DOMAIN-SUFFIX,cwwcdn.com
   - DOMAIN-SUFFIX,d9.flashtalking.com
   - DOMAIN-SUFFIX,dai.ly
   - DOMAIN-SUFFIX,dailymotion.com
@@ -2070,6 +2072,7 @@ payload:
   - DOMAIN-SUFFIX,geraldoatlarge.com
   - DOMAIN-SUFFIX,getblueshift.com
   - DOMAIN-SUFFIX,getbukkit.org
+  - DOMAIN-SUFFIX,getcomposer.org
   - DOMAIN-SUFFIX,getdropbox.com
   - DOMAIN-SUFFIX,gettyfile.ru
   - DOMAIN-SUFFIX,gfxfile.com
