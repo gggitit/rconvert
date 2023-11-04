@@ -1,5 +1,5 @@
-# Quantumult total line 4449
-# Last updated Wed 11/01/2023 22:16:24.96
+# Quantumult total line 4454
+# Last updated Sat 11/04/2023 22:15:15.34
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -485,6 +485,7 @@ HOST,i.imgur.com,LIST
 HOST,i.iwara.tv,LIST
 HOST,i.jpg.dog,LIST
 HOST,i.loli.best,LIST
+HOST,i.mt.lv,LIST
 HOST,i.niupic.com,LIST
 HOST,i.pcmag.com,LIST
 HOST,i.snap.as,LIST
@@ -574,6 +575,7 @@ HOST,imgs.xkcd.com,LIST
 HOST,imgssl.constantcontact.com,LIST
 HOST,imgur.dcard.tw,LIST
 HOST,info.cloudflare.com,LIST
+HOST,info.knak.com,LIST
 HOST,ipfs.d.tube,LIST
 HOST,j.udn.com.tw,LIST
 HOST,js-cdn.blockchair.io,LIST
@@ -1008,6 +1010,8 @@ HOST,user-images.trustpilot.com,LIST
 HOST,user-uploads.perchance.org,LIST
 HOST,usercontent.flodesk.com,LIST
 HOST,userfiles.uptimerobot.com,LIST
+HOST,userimg-assets.customeriomail.com,LIST
+HOST,userimg-bee.customeriomail.com,LIST
 HOST,userimg.customeriomail.com,LIST
 HOST,userpic.redgifs.com,LIST
 HOST,useruploads.visualwebsiteoptimizer.com,LIST
@@ -1731,6 +1735,7 @@ HOST-SUFFIX,edditstatic.com,LIST
 HOST-SUFFIX,edge.api.brightcove.com,LIST
 HOST-SUFFIX,edgecastcdn.net,LIST
 HOST-SUFFIX,edgedatg.com,LIST
+HOST-SUFFIX,edgestorewebcdn.azureedge.net,LIST
 HOST-SUFFIX,edis.at,LIST
 HOST-SUFFIX,edx-cdn.org,LIST
 HOST-SUFFIX,ehgt.org,LIST

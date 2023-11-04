@@ -1,5 +1,5 @@
-# Adblock total line 3447
-# Last updated Wed 11/01/2023 22:16:25.17
+# Adblock total line 3452
+# Last updated Sat 11/04/2023 22:15:15.48
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -485,6 +485,7 @@
 ||i.iwara.tv^
 ||i.jpg.dog^
 ||i.loli.best^
+||i.mt.lv^
 ||i.niupic.com^
 ||i.pcmag.com^
 ||i.snap.as^
@@ -574,6 +575,7 @@
 ||imgssl.constantcontact.com^
 ||imgur.dcard.tw^
 ||info.cloudflare.com^
+||info.knak.com^
 ||ipfs.d.tube^
 ||j.udn.com.tw^
 ||js-cdn.blockchair.io^
@@ -1008,6 +1010,8 @@
 ||user-uploads.perchance.org^
 ||usercontent.flodesk.com^
 ||userfiles.uptimerobot.com^
+||userimg-assets.customeriomail.com^
+||userimg-bee.customeriomail.com^
 ||userimg.customeriomail.com^
 ||userpic.redgifs.com^
 ||useruploads.visualwebsiteoptimizer.com^
@@ -1731,6 +1735,7 @@
 ||edge.api.brightcove.com^
 ||edgecastcdn.net^
 ||edgedatg.com^
+||edgestorewebcdn.azureedge.net^
 ||edis.at^
 ||edx-cdn.org^
 ||ehgt.org^

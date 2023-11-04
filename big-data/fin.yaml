@@ -1,5 +1,5 @@
-# Clash total line 4462
-# Last updated Wed 11/01/2023 22:16:25.01
+# Clash total line 4467
+# Last updated Sat 11/04/2023 22:15:15.39
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -486,6 +486,7 @@ payload:
   - DOMAIN,i.iwara.tv
   - DOMAIN,i.jpg.dog
   - DOMAIN,i.loli.best
+  - DOMAIN,i.mt.lv
   - DOMAIN,i.niupic.com
   - DOMAIN,i.pcmag.com
   - DOMAIN,i.snap.as
@@ -575,6 +576,7 @@ payload:
   - DOMAIN,imgssl.constantcontact.com
   - DOMAIN,imgur.dcard.tw
   - DOMAIN,info.cloudflare.com
+  - DOMAIN,info.knak.com
   - DOMAIN,ipfs.d.tube
   - DOMAIN,j.udn.com.tw
   - DOMAIN,js-cdn.blockchair.io
@@ -1009,6 +1011,8 @@ payload:
   - DOMAIN,user-uploads.perchance.org
   - DOMAIN,usercontent.flodesk.com
   - DOMAIN,userfiles.uptimerobot.com
+  - DOMAIN,userimg-assets.customeriomail.com
+  - DOMAIN,userimg-bee.customeriomail.com
   - DOMAIN,userimg.customeriomail.com
   - DOMAIN,userpic.redgifs.com
   - DOMAIN,useruploads.visualwebsiteoptimizer.com
@@ -1732,6 +1736,7 @@ payload:
   - DOMAIN-SUFFIX,edge.api.brightcove.com
   - DOMAIN-SUFFIX,edgecastcdn.net
   - DOMAIN-SUFFIX,edgedatg.com
+  - DOMAIN-SUFFIX,edgestorewebcdn.azureedge.net
   - DOMAIN-SUFFIX,edis.at
   - DOMAIN-SUFFIX,edx-cdn.org
   - DOMAIN-SUFFIX,ehgt.org
