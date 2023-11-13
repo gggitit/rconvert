@@ -1,5 +1,5 @@
-# Clash total line 4473
-# Last updated Fri 11/10/2023 22:15:10.50
+# Clash total line 4474
+# Last updated Mon 11/13/2023 22:15:23.80
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -712,6 +712,7 @@ payload:
   - DOMAIN,pics.paypal.com
   - DOMAIN,pics.vpdmm.cc
   - DOMAIN,pics.x-n-x-x.pro
+  - DOMAIN,pkg-size.dev
   - DOMAIN,pkg.csb.dev
   - DOMAIN,placeimg.com
   - DOMAIN,play-edge.itunes.apple.com
