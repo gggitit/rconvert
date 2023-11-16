@@ -1,5 +1,5 @@
-# Adblock total line 3459
-# Last updated Mon 11/13/2023 22:15:23.90
+# Adblock total line 3460
+# Last updated Thu 11/16/2023 22:15:52.02
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -809,6 +809,7 @@
 ||s3.us-west-004.backblazeb2.com^
 ||s3.wp.com^
 ||s3media.squarespace.com^
+||safebrowsing.google.com^
 ||safebrowsing.googleapis.com^
 ||sandpack-cdn-staging.blazingly.io^
 ||scdn.clerk.com^

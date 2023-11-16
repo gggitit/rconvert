@@ -1,5 +1,5 @@
-# Quantumult total line 4461
-# Last updated Mon 11/13/2023 22:15:23.77
+# Quantumult total line 4462
+# Last updated Thu 11/16/2023 22:15:51.89
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -809,6 +809,7 @@ HOST,s3.us-west-002.backblazeb2.com,LIST
 HOST,s3.us-west-004.backblazeb2.com,LIST
 HOST,s3.wp.com,LIST
 HOST,s3media.squarespace.com,LIST
+HOST,safebrowsing.google.com,LIST
 HOST,safebrowsing.googleapis.com,LIST
 HOST,sandpack-cdn-staging.blazingly.io,LIST
 HOST,scdn.clerk.com,LIST

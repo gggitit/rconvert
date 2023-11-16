@@ -1,5 +1,5 @@
-# Main total line 4474
-# Last updated Mon 11/13/2023 22:15:23.63
+# Main total line 4475
+# Last updated Thu 11/16/2023 22:15:51.76
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -809,6 +809,7 @@ DOMAIN,s3.us-west-002.backblazeb2.com
 DOMAIN,s3.us-west-004.backblazeb2.com
 DOMAIN,s3.wp.com
 DOMAIN,s3media.squarespace.com
+DOMAIN,safebrowsing.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sandpack-cdn-staging.blazingly.io
 DOMAIN,scdn.clerk.com
