@@ -1,5 +1,5 @@
-# Clash total line 4475
-# Last updated Thu 11/16/2023 22:15:51.93
+# Clash total line 4478
+# Last updated Sun 11/19/2023 22:14:58.49
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -620,6 +620,7 @@ payload:
   - DOMAIN,media-s3-us-east-1.ceros.com
   - DOMAIN,media-s3-us-west-1.ceros.com
   - DOMAIN,media.breitbart.com
+  - DOMAIN,media.cleanshot.cloud
   - DOMAIN,media.cmx.edu.kg
   - DOMAIN,media.convertkit.com
   - DOMAIN,media.discordapp.net
@@ -2681,6 +2682,8 @@ payload:
   - DOMAIN-SUFFIX,nytimg.com
   - DOMAIN-SUFFIX,nytlog.com
   - DOMAIN-SUFFIX,nytstyle.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oath.cloud
   - DOMAIN-SUFFIX,oath.com
   - DOMAIN-SUFFIX,oboom.com

@@ -1,5 +1,5 @@
-# Quantumult total line 4462
-# Last updated Thu 11/16/2023 22:15:51.89
+# Quantumult total line 4465
+# Last updated Sun 11/19/2023 22:14:58.46
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -619,6 +619,7 @@ HOST,media-s3-eu-west-1.ceros.com,LIST
 HOST,media-s3-us-east-1.ceros.com,LIST
 HOST,media-s3-us-west-1.ceros.com,LIST
 HOST,media.breitbart.com,LIST
+HOST,media.cleanshot.cloud,LIST
 HOST,media.cmx.edu.kg,LIST
 HOST,media.convertkit.com,LIST
 HOST,media.discordapp.net,LIST
@@ -2680,6 +2681,8 @@ HOST-SUFFIX,nytimes.com,LIST
 HOST-SUFFIX,nytimg.com,LIST
 HOST-SUFFIX,nytlog.com,LIST
 HOST-SUFFIX,nytstyle.com,LIST
+HOST-SUFFIX,oaistatic.com,LIST
+HOST-SUFFIX,oaiusercontent.com,LIST
 HOST-SUFFIX,oath.cloud,LIST
 HOST-SUFFIX,oath.com,LIST
 HOST-SUFFIX,oboom.com,LIST

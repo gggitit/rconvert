@@ -1,5 +1,5 @@
-# Adblock total line 3460
-# Last updated Thu 11/16/2023 22:15:52.02
+# Adblock total line 3463
+# Last updated Sun 11/19/2023 22:14:58.58
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -619,6 +619,7 @@
 ||media-s3-us-east-1.ceros.com^
 ||media-s3-us-west-1.ceros.com^
 ||media.breitbart.com^
+||media.cleanshot.cloud^
 ||media.cmx.edu.kg^
 ||media.convertkit.com^
 ||media.discordapp.net^
@@ -2680,6 +2681,8 @@
 ||nytimg.com^
 ||nytlog.com^
 ||nytstyle.com^
+||oaistatic.com^
+||oaiusercontent.com^
 ||oath.cloud^
 ||oath.com^
 ||oboom.com^
