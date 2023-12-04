@@ -1,5 +1,5 @@
-# Adblock total line 3464
-# Last updated Fri 12/01/2023 22:15:36.12
+# Adblock total line 3481
+# Last updated Mon 12/04/2023 22:16:01.89
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -32,9 +32,11 @@
 ||app-updates.agilebits.com^
 ||app.backinstock.org^
 ||app.chatwoot.com^
+||app.cookieyes.com^
 ||app.roboflow.com^
 ||appassets.mvtdev.com^
 ||apple.comscoreresearch.com^
+||apps.profitihub.com^
 ||archive.mozilla.org^
 ||asset-cdn.uscardforum.com^
 ||asset.booth.pm^
@@ -165,6 +167,7 @@
 ||cdn-assets.circleci.com^
 ||cdn-assets.porntube.com^
 ||cdn-client.medium.com^
+||cdn-cookieyes.com^
 ||cdn-eu.dynamicyield.com^
 ||cdn-fck.tnaflix.com^
 ||cdn-images.mailchimp.com^
@@ -180,6 +183,7 @@
 ||cdn-thumbs.porntube.com^
 ||cdn-txweb.transifex.com^
 ||cdn-www.bluestacks.com^
+||cdn-yotpo-images-production.yotpo.com^
 ||cdn.accounts.nintendo.com^
 ||cdn.adguard.com^
 ||cdn.amcharts.com^
@@ -256,6 +260,7 @@
 ||cdn.maptiler.com^
 ||cdn.masto.host^
 ||cdn.mcauto-images-production.sendgrid.net^
+||cdn.mcr.ea.com^
 ||cdn.micro.blog^
 ||cdn.minecraft-server-list.com^
 ||cdn.missav.com^
@@ -293,6 +298,7 @@
 ||cdn.setapp.com^
 ||cdn.sheetjs.com^
 ||cdn.shopify.com^
+||cdn.shoppinggives.com^
 ||cdn.signalfx.com^
 ||cdn.sketch.com^
 ||cdn.skk.moe^
@@ -341,6 +347,7 @@
 ||cdn3.unrealengine.com^
 ||cdn5.hextom.com^
 ||cdn7.pornmaster.fun^
+||cdnapisec.kaltura.com^
 ||cdne-pics.youjizz.com^
 ||cdnjs.betterstack.com^
 ||cdnjs.cat.net^
@@ -351,6 +358,7 @@
 ||cf.channel.io^
 ||cf.hamreus.com^
 ||cf.javfree.me^
+||cfvod.kaltura.com^
 ||chart.googleapis.com^
 ||checkout.stripe.com^
 ||chuangcachecdnoversea-tw.inter.ptqy.gitv.tv^
@@ -371,9 +379,9 @@
 ||content.any.run^
 ||cookie-cdn.cookiepro.com^
 ||cpwebassets.codepen.io^
-||crates.io^
 ||creativajs.altervista.org^
 ||css.createsend1.com^
+||curl.se^
 ||d4.alternativeto.net^
 ||dam.freshworks.com^
 ||dashasiafox.akamaized.netflix^
@@ -604,6 +612,7 @@
 ||lib.arvancloud.com^
 ||link.storjshare.io^
 ||linkstorage.linkfire.com^
+||live.fanmingming.com^
 ||livedoor.blogimg.jp^
 ||logo.clearbit.com^
 ||logos.speedtestcustom.com^
@@ -621,6 +630,7 @@
 ||media.breitbart.com^
 ||media.cleanshot.cloud^
 ||media.cmx.edu.kg^
+||media.contentapi.ea.com^
 ||media.convertkit.com^
 ||media.discordapp.net^
 ||media.dlsite.com^
@@ -713,7 +723,9 @@
 ||pics.vpdmm.cc^
 ||pics.x-n-x-x.pro^
 ||pkg-size.dev^
+||pkg.cloudflareclient.com^
 ||pkg.csb.dev^
+||pl.ea.com^
 ||placeimg.com^
 ||play-edge.itunes.apple.com^
 ||play.publicradio.org^
@@ -776,6 +788,7 @@
 ||ruleset.skk.moe^
 ||runkit-packages-static-executables.com^
 ||runkit-packages-static.com^
+||s-cdn.anthropic.com^
 ||s-cdn.phonearena.com^
 ||s.abcnews.com^
 ||s.namemc.com^
@@ -825,6 +838,7 @@
 ||searchanise-ef84.kxcdn.com^
 ||searchserverapi.com^
 ||seccdn.libravatar.org^
+||secure-uploads.ui.com^
 ||secure.beer7live.com^
 ||secure.fanboy.co.nz^
 ||services.linkfire.com^
@@ -893,7 +907,6 @@
 ||static.corp.google.com^
 ||static.cracked.io^
 ||static.cracked.to^
-||static.crates.io^
 ||static.crypto.com^
 ||static.dash.cloudflare.com^
 ||static.deepl.com^
@@ -940,6 +953,7 @@
 ||static.snyk.io^
 ||static.solarwinds.com^
 ||static.spankbang.com^
+||static.srcspot.com^
 ||static.start.me^
 ||static.status.io^
 ||static.t-ru.org^
@@ -1009,6 +1023,7 @@
 ||updates.istatmenus.app^
 ||updates.signal.org^
 ||updates2.signal.org^
+||upload.filebase.com^
 ||upload.wikimedia.org^
 ||uploads.codesandbox.io^
 ||us.hamreus.com^
@@ -1027,6 +1042,7 @@
 ||utteranc.es^
 ||versionbadg.es^
 ||vetted.ai^
+||vice-prod.sdiapi.com^
 ||vice-web-statics-cdn.vice.com^
 ||video-images.vice.com^
 ||video.cdnbye.com^
@@ -1505,6 +1521,7 @@
 ||cos.na-toronto.myqcloud.com^
 ||cos.sa-saopaulo.myqcloud.com^
 ||cosmobox.org^
+||crates.io^
 ||cristiamo.xyz^
 ||crocko.com^
 ||crossbell.io^

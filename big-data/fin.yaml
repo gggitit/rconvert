@@ -1,5 +1,5 @@
-# Clash total line 4479
-# Last updated Fri 12/01/2023 22:15:36.03
+# Clash total line 4496
+# Last updated Mon 12/04/2023 22:16:01.81
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -33,9 +33,11 @@ payload:
   - DOMAIN,app-updates.agilebits.com
   - DOMAIN,app.backinstock.org
   - DOMAIN,app.chatwoot.com
+  - DOMAIN,app.cookieyes.com
   - DOMAIN,app.roboflow.com
   - DOMAIN,appassets.mvtdev.com
   - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN,apps.profitihub.com
   - DOMAIN,archive.mozilla.org
   - DOMAIN,asset-cdn.uscardforum.com
   - DOMAIN,asset.booth.pm
@@ -166,6 +168,7 @@ payload:
   - DOMAIN,cdn-assets.circleci.com
   - DOMAIN,cdn-assets.porntube.com
   - DOMAIN,cdn-client.medium.com
+  - DOMAIN,cdn-cookieyes.com
   - DOMAIN,cdn-eu.dynamicyield.com
   - DOMAIN,cdn-fck.tnaflix.com
   - DOMAIN,cdn-images.mailchimp.com
@@ -181,6 +184,7 @@ payload:
   - DOMAIN,cdn-thumbs.porntube.com
   - DOMAIN,cdn-txweb.transifex.com
   - DOMAIN,cdn-www.bluestacks.com
+  - DOMAIN,cdn-yotpo-images-production.yotpo.com
   - DOMAIN,cdn.accounts.nintendo.com
   - DOMAIN,cdn.adguard.com
   - DOMAIN,cdn.amcharts.com
@@ -257,6 +261,7 @@ payload:
   - DOMAIN,cdn.maptiler.com
   - DOMAIN,cdn.masto.host
   - DOMAIN,cdn.mcauto-images-production.sendgrid.net
+  - DOMAIN,cdn.mcr.ea.com
   - DOMAIN,cdn.micro.blog
   - DOMAIN,cdn.minecraft-server-list.com
   - DOMAIN,cdn.missav.com
@@ -294,6 +299,7 @@ payload:
   - DOMAIN,cdn.setapp.com
   - DOMAIN,cdn.sheetjs.com
   - DOMAIN,cdn.shopify.com
+  - DOMAIN,cdn.shoppinggives.com
   - DOMAIN,cdn.signalfx.com
   - DOMAIN,cdn.sketch.com
   - DOMAIN,cdn.skk.moe
@@ -342,6 +348,7 @@ payload:
   - DOMAIN,cdn3.unrealengine.com
   - DOMAIN,cdn5.hextom.com
   - DOMAIN,cdn7.pornmaster.fun
+  - DOMAIN,cdnapisec.kaltura.com
   - DOMAIN,cdne-pics.youjizz.com
   - DOMAIN,cdnjs.betterstack.com
   - DOMAIN,cdnjs.cat.net
@@ -352,6 +359,7 @@ payload:
   - DOMAIN,cf.channel.io
   - DOMAIN,cf.hamreus.com
   - DOMAIN,cf.javfree.me
+  - DOMAIN,cfvod.kaltura.com
   - DOMAIN,chart.googleapis.com
   - DOMAIN,checkout.stripe.com
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
@@ -372,9 +380,9 @@ payload:
   - DOMAIN,content.any.run
   - DOMAIN,cookie-cdn.cookiepro.com
   - DOMAIN,cpwebassets.codepen.io
-  - DOMAIN,crates.io
   - DOMAIN,creativajs.altervista.org
   - DOMAIN,css.createsend1.com
+  - DOMAIN,curl.se
   - DOMAIN,d4.alternativeto.net
   - DOMAIN,dam.freshworks.com
   - DOMAIN,dashasiafox.akamaized.netflix
@@ -605,6 +613,7 @@ payload:
   - DOMAIN,lib.arvancloud.com
   - DOMAIN,link.storjshare.io
   - DOMAIN,linkstorage.linkfire.com
+  - DOMAIN,live.fanmingming.com
   - DOMAIN,livedoor.blogimg.jp
   - DOMAIN,logo.clearbit.com
   - DOMAIN,logos.speedtestcustom.com
@@ -622,6 +631,7 @@ payload:
   - DOMAIN,media.breitbart.com
   - DOMAIN,media.cleanshot.cloud
   - DOMAIN,media.cmx.edu.kg
+  - DOMAIN,media.contentapi.ea.com
   - DOMAIN,media.convertkit.com
   - DOMAIN,media.discordapp.net
   - DOMAIN,media.dlsite.com
@@ -714,7 +724,9 @@ payload:
   - DOMAIN,pics.vpdmm.cc
   - DOMAIN,pics.x-n-x-x.pro
   - DOMAIN,pkg-size.dev
+  - DOMAIN,pkg.cloudflareclient.com
   - DOMAIN,pkg.csb.dev
+  - DOMAIN,pl.ea.com
   - DOMAIN,placeimg.com
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.publicradio.org
@@ -777,6 +789,7 @@ payload:
   - DOMAIN,ruleset.skk.moe
   - DOMAIN,runkit-packages-static-executables.com
   - DOMAIN,runkit-packages-static.com
+  - DOMAIN,s-cdn.anthropic.com
   - DOMAIN,s-cdn.phonearena.com
   - DOMAIN,s.abcnews.com
   - DOMAIN,s.namemc.com
@@ -826,6 +839,7 @@ payload:
   - DOMAIN,searchanise-ef84.kxcdn.com
   - DOMAIN,searchserverapi.com
   - DOMAIN,seccdn.libravatar.org
+  - DOMAIN,secure-uploads.ui.com
   - DOMAIN,secure.beer7live.com
   - DOMAIN,secure.fanboy.co.nz
   - DOMAIN,services.linkfire.com
@@ -894,7 +908,6 @@ payload:
   - DOMAIN,static.corp.google.com
   - DOMAIN,static.cracked.io
   - DOMAIN,static.cracked.to
-  - DOMAIN,static.crates.io
   - DOMAIN,static.crypto.com
   - DOMAIN,static.dash.cloudflare.com
   - DOMAIN,static.deepl.com
@@ -941,6 +954,7 @@ payload:
   - DOMAIN,static.snyk.io
   - DOMAIN,static.solarwinds.com
   - DOMAIN,static.spankbang.com
+  - DOMAIN,static.srcspot.com
   - DOMAIN,static.start.me
   - DOMAIN,static.status.io
   - DOMAIN,static.t-ru.org
@@ -1010,6 +1024,7 @@ payload:
   - DOMAIN,updates.istatmenus.app
   - DOMAIN,updates.signal.org
   - DOMAIN,updates2.signal.org
+  - DOMAIN,upload.filebase.com
   - DOMAIN,upload.wikimedia.org
   - DOMAIN,uploads.codesandbox.io
   - DOMAIN,us.hamreus.com
@@ -1028,6 +1043,7 @@ payload:
   - DOMAIN,utteranc.es
   - DOMAIN,versionbadg.es
   - DOMAIN,vetted.ai
+  - DOMAIN,vice-prod.sdiapi.com
   - DOMAIN,vice-web-statics-cdn.vice.com
   - DOMAIN,video-images.vice.com
   - DOMAIN,video.cdnbye.com
@@ -1506,6 +1522,7 @@ payload:
   - DOMAIN-SUFFIX,cos.na-toronto.myqcloud.com
   - DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
   - DOMAIN-SUFFIX,cosmobox.org
+  - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,cristiamo.xyz
   - DOMAIN-SUFFIX,crocko.com
   - DOMAIN-SUFFIX,crossbell.io
