@@ -1,5 +1,5 @@
 # Adblock total line 3801
-# Last updated Mon 12/04/2023 22:16:07.98
+# Last updated Thu 12/07/2023 22:16:24.99
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
@@ -27,7 +27,6 @@
 /alicdn/
 /alipay/
 /aliyun/
-/announce/
 /baidu/
 /beplay/
 /cnki.net/
@@ -41,8 +40,6 @@
 /readcube/
 /sciencedirect/
 /taobao/
-/torrent/
-/tracker/
 /wanfangdata/
 /westlawchina/
 ||00cdn.com^
@@ -446,6 +443,7 @@
 ||anfensi.com^
 ||animebytes.tv^
 ||animetamashi.com^
+||animetorrents.me^
 ||anitama.net^
 ||anjuke.com^
 ||anjukestatic.com^
@@ -1039,6 +1037,7 @@
 ||colinker.com^
 ||coloros.com^
 ||com-hs-hkdy.com^
+||comicat.org^
 ||computeinit.com^
 ||comsenz.com^
 ||concertos.live^
@@ -1789,6 +1788,7 @@
 ||icbkfs.com^
 ||icbkus.com^
 ||icedropper.com^
+||icetorrent.org^
 ||icevirtuallibrary.com^
 ||ichangtou.com^
 ||ichangyan.com^

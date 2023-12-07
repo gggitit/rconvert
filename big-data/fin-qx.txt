@@ -1,5 +1,5 @@
-# Quantumult total line 4483
-# Last updated Mon 12/04/2023 22:16:01.78
+# Quantumult total line 4496
+# Last updated Thu 12/07/2023 22:16:18.76
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -60,6 +60,7 @@ HOST,assets.calendly.com,LIST
 HOST,assets.canny.io,LIST
 HOST,assets.capterra.com,LIST
 HOST,assets.change.org,LIST
+HOST,assets.chaos.social,LIST
 HOST,assets.chess24.com,LIST
 HOST,assets.clever-cloud.com,LIST
 HOST,assets.codepen.io,LIST
@@ -170,6 +171,7 @@ HOST,cdn-client.medium.com,LIST
 HOST,cdn-cookieyes.com,LIST
 HOST,cdn-eu.dynamicyield.com,LIST
 HOST,cdn-fck.tnaflix.com,LIST
+HOST,cdn-images-1.medium.com,LIST
 HOST,cdn-images.mailchimp.com,LIST
 HOST,cdn-live.foreignaffairs.com,LIST
 HOST,cdn-media-1.freecodecamp.org,LIST
@@ -179,6 +181,7 @@ HOST,cdn-raw.modrinth.com,LIST
 HOST,cdn-sellix.com,LIST
 HOST,cdn-service.jp.sumologic.com,LIST
 HOST,cdn-share-sprites.flaticon.com,LIST
+HOST,cdn-static-1.medium.com,LIST
 HOST,cdn-static.talent.com,LIST
 HOST,cdn-thumbs.porntube.com,LIST
 HOST,cdn-txweb.transifex.com,LIST
@@ -190,6 +193,7 @@ HOST,cdn.amcharts.com,LIST
 HOST,cdn.announcekit.app,LIST
 HOST,cdn.apkmonk.com,LIST
 HOST,cdn.apple-cloudkit.com,LIST
+HOST,cdn.apponic.com,LIST
 HOST,cdn.arcade.software,LIST
 HOST,cdn.arstechnica.net,LIST
 HOST,cdn.ashbyprd.com,LIST
@@ -412,7 +416,6 @@ HOST,easylist-downloads.adblockplus.org,LIST
 HOST,ec-prod.scene7.com,LIST
 HOST,edge.cwtv-vod-ext.top.comcast.net,LIST
 HOST,edge.personalizer.io,LIST
-HOST,edgedl.me.gvt4.com,LIST
 HOST,eep.io,LIST
 HOST,embed-ssl.wistia.com,LIST
 HOST,embed.runkit.com,LIST
@@ -426,6 +429,7 @@ HOST,epic-social-social-modules-prod.ol.epicgames.com,LIST
 HOST,eu-proxy.startpage.com,LIST
 HOST,eu.hamreus.com,LIST
 HOST,euc-widget.freshworks.com,LIST
+HOST,events-live.apple.com,LIST
 HOST,external-content.duckduckgo.com,LIST
 HOST,f.convertkit.com,LIST
 HOST,f.start.me,LIST
@@ -486,6 +490,7 @@ HOST,hulu.com.c.footprint.net,LIST
 HOST,hulu.map.fastly.net,LIST
 HOST,hv-monsterdb-data.skk.moe,LIST
 HOST,i.1password.com,LIST
+HOST,i.creativecommons.org,LIST
 HOST,i.geekflare.com,LIST
 HOST,i.giphy.com,LIST
 HOST,i.hamreus.com,LIST
@@ -547,6 +552,7 @@ HOST,images.weserv.nl,LIST
 HOST,images.wikia.com,LIST
 HOST,imagizer.imageshack.com,LIST
 HOST,img.announcekit.app,LIST
+HOST,img.apponic.com,LIST
 HOST,img.badgesize.io,LIST
 HOST,img.bigcloud.cyou,LIST
 HOST,img.biguz.net,LIST
@@ -709,6 +715,7 @@ HOST,packages-cf.termux.dev,LIST
 HOST,packages.argotunnel.com,LIST
 HOST,packages.httpie.io,LIST
 HOST,packages.termux.dev,LIST
+HOST,panel-production-libs.b-cdn.net,LIST
 HOST,participants.evolv.ai,LIST
 HOST,parts.blog.livedoor.jp,LIST
 HOST,pcz.javidol.org,LIST
@@ -727,6 +734,7 @@ HOST,pkg.cloudflareclient.com,LIST
 HOST,pkg.csb.dev,LIST
 HOST,pl.ea.com,LIST
 HOST,placeimg.com,LIST
+HOST,platform.twitter.com,LIST
 HOST,play-edge.itunes.apple.com,LIST
 HOST,play.publicradio.org,LIST
 HOST,play.vidyard.com,LIST
@@ -840,6 +848,7 @@ HOST,searchserverapi.com,LIST
 HOST,seccdn.libravatar.org,LIST
 HOST,secure-uploads.ui.com,LIST
 HOST,secure.beer7live.com,LIST
+HOST,secure.download.dm.origin.com,LIST
 HOST,secure.fanboy.co.nz,LIST
 HOST,services.linkfire.com,LIST
 HOST,shopify.cleverecommerce.com,LIST
@@ -1087,6 +1096,7 @@ HOST,www.datocms-assets.com,LIST
 HOST,www.googleapis.com,LIST
 HOST,www.typescriptlang.org,LIST
 HOST,wwwimages2.adobe.com,LIST
+HOST,ysa-static.passport.yandex.net,LIST
 HOST,yummlystatic.com,LIST
 HOST-KEYWORD,-files.gitbook.io,LIST
 HOST-KEYWORD,-res.cloudinary.com,LIST
@@ -2283,6 +2293,7 @@ HOST-SUFFIX,ilovepdf.com,LIST
 HOST-SUFFIX,imagebam.com,LIST
 HOST-SUFFIX,imagedelivery.net,LIST
 HOST-SUFFIX,images-amazon.com,LIST
+HOST-SUFFIX,images-iherb.com,LIST
 HOST-SUFFIX,images.arcpublishing.com,LIST
 HOST-SUFFIX,images.gameru.net,LIST
 HOST-SUFFIX,imageshack.us,LIST
@@ -2453,6 +2464,7 @@ HOST-SUFFIX,lf16-geckocdn.bytegecko-i18n.com,LIST
 HOST-SUFFIX,lf16-pkgcdn.pitaya-clientai.com,LIST
 HOST-SUFFIX,libsyn.com,LIST
 HOST-SUFFIX,licdn.com,LIST
+HOST-SUFFIX,licensebuttons.net,LIST
 HOST-SUFFIX,lightboxcdn.com,LIST
 HOST-SUFFIX,limelight.com,LIST
 HOST-SUFFIX,line-cdn.net,LIST
@@ -3059,6 +3071,7 @@ HOST-SUFFIX,starwarskids.com,LIST
 HOST-SUFFIX,static-qobuz.com,LIST
 HOST-SUFFIX,static-verizon.com,LIST
 HOST-SUFFIX,static.ctinets.com,LIST
+HOST-SUFFIX,static.domains,LIST
 HOST-SUFFIX,static.fun,LIST
 HOST-SUFFIX,static.palgrave.com,LIST
 HOST-SUFFIX,static2cdn.hubspot.com,LIST

@@ -1,5 +1,5 @@
-# Clash total line 4496
-# Last updated Mon 12/04/2023 22:16:01.81
+# Clash total line 4511
+# Last updated Thu 12/07/2023 22:16:18.80
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -61,6 +61,7 @@ payload:
   - DOMAIN,assets.canny.io
   - DOMAIN,assets.capterra.com
   - DOMAIN,assets.change.org
+  - DOMAIN,assets.chaos.social
   - DOMAIN,assets.chess24.com
   - DOMAIN,assets.clever-cloud.com
   - DOMAIN,assets.codepen.io
@@ -171,6 +172,7 @@ payload:
   - DOMAIN,cdn-cookieyes.com
   - DOMAIN,cdn-eu.dynamicyield.com
   - DOMAIN,cdn-fck.tnaflix.com
+  - DOMAIN,cdn-images-1.medium.com
   - DOMAIN,cdn-images.mailchimp.com
   - DOMAIN,cdn-live.foreignaffairs.com
   - DOMAIN,cdn-media-1.freecodecamp.org
@@ -180,6 +182,7 @@ payload:
   - DOMAIN,cdn-sellix.com
   - DOMAIN,cdn-service.jp.sumologic.com
   - DOMAIN,cdn-share-sprites.flaticon.com
+  - DOMAIN,cdn-static-1.medium.com
   - DOMAIN,cdn-static.talent.com
   - DOMAIN,cdn-thumbs.porntube.com
   - DOMAIN,cdn-txweb.transifex.com
@@ -191,6 +194,7 @@ payload:
   - DOMAIN,cdn.announcekit.app
   - DOMAIN,cdn.apkmonk.com
   - DOMAIN,cdn.apple-cloudkit.com
+  - DOMAIN,cdn.apponic.com
   - DOMAIN,cdn.arcade.software
   - DOMAIN,cdn.arstechnica.net
   - DOMAIN,cdn.ashbyprd.com
@@ -413,7 +417,6 @@ payload:
   - DOMAIN,ec-prod.scene7.com
   - DOMAIN,edge.cwtv-vod-ext.top.comcast.net
   - DOMAIN,edge.personalizer.io
-  - DOMAIN,edgedl.me.gvt4.com
   - DOMAIN,eep.io
   - DOMAIN,embed-ssl.wistia.com
   - DOMAIN,embed.runkit.com
@@ -427,6 +430,7 @@ payload:
   - DOMAIN,eu-proxy.startpage.com
   - DOMAIN,eu.hamreus.com
   - DOMAIN,euc-widget.freshworks.com
+  - DOMAIN,events-live.apple.com
   - DOMAIN,external-content.duckduckgo.com
   - DOMAIN,f.convertkit.com
   - DOMAIN,f.start.me
@@ -487,6 +491,7 @@ payload:
   - DOMAIN,hulu.map.fastly.net
   - DOMAIN,hv-monsterdb-data.skk.moe
   - DOMAIN,i.1password.com
+  - DOMAIN,i.creativecommons.org
   - DOMAIN,i.geekflare.com
   - DOMAIN,i.giphy.com
   - DOMAIN,i.hamreus.com
@@ -548,6 +553,7 @@ payload:
   - DOMAIN,images.wikia.com
   - DOMAIN,imagizer.imageshack.com
   - DOMAIN,img.announcekit.app
+  - DOMAIN,img.apponic.com
   - DOMAIN,img.badgesize.io
   - DOMAIN,img.bigcloud.cyou
   - DOMAIN,img.biguz.net
@@ -710,6 +716,7 @@ payload:
   - DOMAIN,packages.argotunnel.com
   - DOMAIN,packages.httpie.io
   - DOMAIN,packages.termux.dev
+  - DOMAIN,panel-production-libs.b-cdn.net
   - DOMAIN,participants.evolv.ai
   - DOMAIN,parts.blog.livedoor.jp
   - DOMAIN,pcz.javidol.org
@@ -728,6 +735,7 @@ payload:
   - DOMAIN,pkg.csb.dev
   - DOMAIN,pl.ea.com
   - DOMAIN,placeimg.com
+  - DOMAIN,platform.twitter.com
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.publicradio.org
   - DOMAIN,play.vidyard.com
@@ -841,6 +849,7 @@ payload:
   - DOMAIN,seccdn.libravatar.org
   - DOMAIN,secure-uploads.ui.com
   - DOMAIN,secure.beer7live.com
+  - DOMAIN,secure.download.dm.origin.com
   - DOMAIN,secure.fanboy.co.nz
   - DOMAIN,services.linkfire.com
   - DOMAIN,shopify.cleverecommerce.com
@@ -1088,6 +1097,7 @@ payload:
   - DOMAIN,www.googleapis.com
   - DOMAIN,www.typescriptlang.org
   - DOMAIN,wwwimages2.adobe.com
+  - DOMAIN,ysa-static.passport.yandex.net
   - DOMAIN,yummlystatic.com
   - DOMAIN-KEYWORD,-files.gitbook.io
   - DOMAIN-KEYWORD,-res.cloudinary.com
@@ -2284,6 +2294,7 @@ payload:
   - DOMAIN-SUFFIX,imagebam.com
   - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,images-amazon.com
+  - DOMAIN-SUFFIX,images-iherb.com
   - DOMAIN-SUFFIX,images.arcpublishing.com
   - DOMAIN-SUFFIX,images.gameru.net
   - DOMAIN-SUFFIX,imageshack.us
@@ -2454,6 +2465,7 @@ payload:
   - DOMAIN-SUFFIX,lf16-pkgcdn.pitaya-clientai.com
   - DOMAIN-SUFFIX,libsyn.com
   - DOMAIN-SUFFIX,licdn.com
+  - DOMAIN-SUFFIX,licensebuttons.net
   - DOMAIN-SUFFIX,lightboxcdn.com
   - DOMAIN-SUFFIX,limelight.com
   - DOMAIN-SUFFIX,line-cdn.net
@@ -3060,6 +3072,7 @@ payload:
   - DOMAIN-SUFFIX,static-qobuz.com
   - DOMAIN-SUFFIX,static-verizon.com
   - DOMAIN-SUFFIX,static.ctinets.com
+  - DOMAIN-SUFFIX,static.domains
   - DOMAIN-SUFFIX,static.fun
   - DOMAIN-SUFFIX,static.palgrave.com
   - DOMAIN-SUFFIX,static2cdn.hubspot.com
@@ -4420,10 +4433,12 @@ payload:
   - IP-CIDR6,2a0b:e45:1::/48,no-resolve
   - PROCESS-NAME,com.amazon.avod.thirdpartyclient
   - PROCESS-NAME,com.bstar.intl
+  - PROCESS-NAME,com.hktve.viutv
   - PROCESS-NAME,com.hulu.plus
   - PROCESS-NAME,com.linecorp.linetv
   - PROCESS-NAME,com.netflix.mediaclient
   - PROCESS-NAME,com.tencent.ibg.joox
+  - PROCESS-NAME,com.twgood.android
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
   - PROCESS-NAME,com.vuclip.viu

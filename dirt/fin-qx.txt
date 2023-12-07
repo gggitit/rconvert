@@ -1,5 +1,5 @@
 # Quantumult total line 4088
-# Last updated Mon 12/04/2023 22:16:07.87
+# Last updated Thu 12/07/2023 22:16:24.86
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -27,7 +27,6 @@ HOST-KEYWORD,.tmall.com,LIST
 HOST-KEYWORD,alicdn,LIST
 HOST-KEYWORD,alipay,LIST
 HOST-KEYWORD,aliyun,LIST
-HOST-KEYWORD,announce,LIST
 HOST-KEYWORD,baidu,LIST
 HOST-KEYWORD,beplay,LIST
 HOST-KEYWORD,cnki.net,LIST
@@ -41,8 +40,6 @@ HOST-KEYWORD,qiyi,LIST
 HOST-KEYWORD,readcube,LIST
 HOST-KEYWORD,sciencedirect,LIST
 HOST-KEYWORD,taobao,LIST
-HOST-KEYWORD,torrent,LIST
-HOST-KEYWORD,tracker,LIST
 HOST-KEYWORD,wanfangdata,LIST
 HOST-KEYWORD,westlawchina,LIST
 HOST-SUFFIX,00cdn.com,LIST
@@ -446,6 +443,7 @@ HOST-SUFFIX,andfx.net,LIST
 HOST-SUFFIX,anfensi.com,LIST
 HOST-SUFFIX,animebytes.tv,LIST
 HOST-SUFFIX,animetamashi.com,LIST
+HOST-SUFFIX,animetorrents.me,LIST
 HOST-SUFFIX,anitama.net,LIST
 HOST-SUFFIX,anjuke.com,LIST
 HOST-SUFFIX,anjukestatic.com,LIST
@@ -1039,6 +1037,7 @@ HOST-SUFFIX,coindog.com,LIST
 HOST-SUFFIX,colinker.com,LIST
 HOST-SUFFIX,coloros.com,LIST
 HOST-SUFFIX,com-hs-hkdy.com,LIST
+HOST-SUFFIX,comicat.org,LIST
 HOST-SUFFIX,computeinit.com,LIST
 HOST-SUFFIX,comsenz.com,LIST
 HOST-SUFFIX,concertos.live,LIST
@@ -1789,6 +1788,7 @@ HOST-SUFFIX,icbcthai.com,LIST
 HOST-SUFFIX,icbkfs.com,LIST
 HOST-SUFFIX,icbkus.com,LIST
 HOST-SUFFIX,icedropper.com,LIST
+HOST-SUFFIX,icetorrent.org,LIST
 HOST-SUFFIX,icevirtuallibrary.com,LIST
 HOST-SUFFIX,ichangtou.com,LIST
 HOST-SUFFIX,ichangyan.com,LIST

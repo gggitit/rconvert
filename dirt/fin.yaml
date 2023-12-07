@@ -1,5 +1,5 @@
 # Clash total line 4124
-# Last updated Mon 12/04/2023 22:16:07.90
+# Last updated Thu 12/07/2023 22:16:24.89
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -28,7 +28,6 @@ payload:
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
-  - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
   - DOMAIN-KEYWORD,cnki.net
@@ -42,8 +41,6 @@ payload:
   - DOMAIN-KEYWORD,readcube
   - DOMAIN-KEYWORD,sciencedirect
   - DOMAIN-KEYWORD,taobao
-  - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,wanfangdata
   - DOMAIN-KEYWORD,westlawchina
   - DOMAIN-SUFFIX,00cdn.com
@@ -447,6 +444,7 @@ payload:
   - DOMAIN-SUFFIX,anfensi.com
   - DOMAIN-SUFFIX,animebytes.tv
   - DOMAIN-SUFFIX,animetamashi.com
+  - DOMAIN-SUFFIX,animetorrents.me
   - DOMAIN-SUFFIX,anitama.net
   - DOMAIN-SUFFIX,anjuke.com
   - DOMAIN-SUFFIX,anjukestatic.com
@@ -1040,6 +1038,7 @@ payload:
   - DOMAIN-SUFFIX,colinker.com
   - DOMAIN-SUFFIX,coloros.com
   - DOMAIN-SUFFIX,com-hs-hkdy.com
+  - DOMAIN-SUFFIX,comicat.org
   - DOMAIN-SUFFIX,computeinit.com
   - DOMAIN-SUFFIX,comsenz.com
   - DOMAIN-SUFFIX,concertos.live
@@ -1790,6 +1789,7 @@ payload:
   - DOMAIN-SUFFIX,icbkfs.com
   - DOMAIN-SUFFIX,icbkus.com
   - DOMAIN-SUFFIX,icedropper.com
+  - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,icevirtuallibrary.com
   - DOMAIN-SUFFIX,ichangtou.com
   - DOMAIN-SUFFIX,ichangyan.com

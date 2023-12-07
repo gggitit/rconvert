@@ -1,5 +1,5 @@
-# Adblock total line 3481
-# Last updated Mon 12/04/2023 22:16:01.89
+# Adblock total line 3494
+# Last updated Thu 12/07/2023 22:16:18.88
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -60,6 +60,7 @@
 ||assets.canny.io^
 ||assets.capterra.com^
 ||assets.change.org^
+||assets.chaos.social^
 ||assets.chess24.com^
 ||assets.clever-cloud.com^
 ||assets.codepen.io^
@@ -170,6 +171,7 @@
 ||cdn-cookieyes.com^
 ||cdn-eu.dynamicyield.com^
 ||cdn-fck.tnaflix.com^
+||cdn-images-1.medium.com^
 ||cdn-images.mailchimp.com^
 ||cdn-live.foreignaffairs.com^
 ||cdn-media-1.freecodecamp.org^
@@ -179,6 +181,7 @@
 ||cdn-sellix.com^
 ||cdn-service.jp.sumologic.com^
 ||cdn-share-sprites.flaticon.com^
+||cdn-static-1.medium.com^
 ||cdn-static.talent.com^
 ||cdn-thumbs.porntube.com^
 ||cdn-txweb.transifex.com^
@@ -190,6 +193,7 @@
 ||cdn.announcekit.app^
 ||cdn.apkmonk.com^
 ||cdn.apple-cloudkit.com^
+||cdn.apponic.com^
 ||cdn.arcade.software^
 ||cdn.arstechnica.net^
 ||cdn.ashbyprd.com^
@@ -412,7 +416,6 @@
 ||ec-prod.scene7.com^
 ||edge.cwtv-vod-ext.top.comcast.net^
 ||edge.personalizer.io^
-||edgedl.me.gvt4.com^
 ||eep.io^
 ||embed-ssl.wistia.com^
 ||embed.runkit.com^
@@ -426,6 +429,7 @@
 ||eu-proxy.startpage.com^
 ||eu.hamreus.com^
 ||euc-widget.freshworks.com^
+||events-live.apple.com^
 ||external-content.duckduckgo.com^
 ||f.convertkit.com^
 ||f.start.me^
@@ -486,6 +490,7 @@
 ||hulu.map.fastly.net^
 ||hv-monsterdb-data.skk.moe^
 ||i.1password.com^
+||i.creativecommons.org^
 ||i.geekflare.com^
 ||i.giphy.com^
 ||i.hamreus.com^
@@ -547,6 +552,7 @@
 ||images.wikia.com^
 ||imagizer.imageshack.com^
 ||img.announcekit.app^
+||img.apponic.com^
 ||img.badgesize.io^
 ||img.bigcloud.cyou^
 ||img.biguz.net^
@@ -709,6 +715,7 @@
 ||packages.argotunnel.com^
 ||packages.httpie.io^
 ||packages.termux.dev^
+||panel-production-libs.b-cdn.net^
 ||participants.evolv.ai^
 ||parts.blog.livedoor.jp^
 ||pcz.javidol.org^
@@ -727,6 +734,7 @@
 ||pkg.csb.dev^
 ||pl.ea.com^
 ||placeimg.com^
+||platform.twitter.com^
 ||play-edge.itunes.apple.com^
 ||play.publicradio.org^
 ||play.vidyard.com^
@@ -840,6 +848,7 @@
 ||seccdn.libravatar.org^
 ||secure-uploads.ui.com^
 ||secure.beer7live.com^
+||secure.download.dm.origin.com^
 ||secure.fanboy.co.nz^
 ||services.linkfire.com^
 ||shopify.cleverecommerce.com^
@@ -1087,6 +1096,7 @@
 ||www.googleapis.com^
 ||www.typescriptlang.org^
 ||wwwimages2.adobe.com^
+||ysa-static.passport.yandex.net^
 ||yummlystatic.com^
 /-files.gitbook.io/
 /-res.cloudinary.com/
@@ -2283,6 +2293,7 @@
 ||imagebam.com^
 ||imagedelivery.net^
 ||images-amazon.com^
+||images-iherb.com^
 ||images.arcpublishing.com^
 ||images.gameru.net^
 ||imageshack.us^
@@ -2453,6 +2464,7 @@
 ||lf16-pkgcdn.pitaya-clientai.com^
 ||libsyn.com^
 ||licdn.com^
+||licensebuttons.net^
 ||lightboxcdn.com^
 ||limelight.com^
 ||line-cdn.net^
@@ -3059,6 +3071,7 @@
 ||static-qobuz.com^
 ||static-verizon.com^
 ||static.ctinets.com^
+||static.domains^
 ||static.fun^
 ||static.palgrave.com^
 ||static2cdn.hubspot.com^
