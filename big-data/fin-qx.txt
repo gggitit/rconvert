@@ -1,24 +1,14 @@
-# Quantumult total line 2925
-# Last updated Sun 12/10/2023 22:15:23.22
+# Quantumult total line 2914
+# Last updated Wed 12/13/2023 22:16:06.75
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
-HOST,-media,LIST
-HOST,<body>,LIST
-HOST,<divclass="container">,LIST
-HOST,<divid="suggestions">,LIST
-HOST,<head>,LIST
-HOST,<html>,LIST
-HOST,<p>,LIST
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,api.okzy.tv,LIST
 HOST,apm-misaka.biliapi.net,LIST
 HOST,apple.comscoreresearch.com,LIST
-HOST,aswellasanyfilepermissions.<br>,LIST
-HOST,body{,LIST
 HOST,cache.video.iqiyi.com,LIST
 HOST,cdn.apple-cloudkit.com,LIST
 HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,connect.facebook.net,LIST
-HOST,containtherequestedfile.,LIST
 HOST,dashasiafox.akamaized.netflix,LIST
 HOST,daznfeeds.com.edgekey.net,LIST
 HOST,dca-lm-livedazn.secure.footprint.net,LIST
@@ -50,7 +40,6 @@ HOST,rpg.pic-imges.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
 HOST,uts-api.itunes.apple.com,LIST
 HOST,www.googleapis.com,LIST
-HOST,},LIST
 HOST-KEYWORD,-spotify-,LIST
 HOST-KEYWORD,1drv,LIST
 HOST-KEYWORD,abematv.akamaized.net,LIST

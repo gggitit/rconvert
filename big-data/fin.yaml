@@ -1,25 +1,15 @@
-# Clash total line 2925
-# Last updated Sun 12/10/2023 22:15:23.26
+# Clash total line 2914
+# Last updated Wed 12/13/2023 22:16:06.80
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
-  - DOMAIN,-media
-  - DOMAIN,<body>
-  - DOMAIN,<divclass="container">
-  - DOMAIN,<divid="suggestions">
-  - DOMAIN,<head>
-  - DOMAIN,<html>
-  - DOMAIN,<p>
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,apple.comscoreresearch.com
-  - DOMAIN,aswellasanyfilepermissions.<br>
-  - DOMAIN,body{
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN,cdn.apple-cloudkit.com
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,connect.facebook.net
-  - DOMAIN,containtherequestedfile.
   - DOMAIN,dashasiafox.akamaized.netflix
   - DOMAIN,daznfeeds.com.edgekey.net
   - DOMAIN,dca-lm-livedazn.secure.footprint.net
@@ -51,7 +41,6 @@ payload:
   - DOMAIN,streetviewpixels-pa.googleapis.com
   - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,www.googleapis.com
-  - DOMAIN,}
   - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,abematv.akamaized.net

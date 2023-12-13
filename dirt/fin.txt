@@ -1,22 +1,12 @@
-# Main total line 4019
-# Last updated Sun 12/10/2023 22:15:31.16
+# Main total line 4007
+# Last updated Wed 12/13/2023 22:16:14.18
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
-DOMAIN,-media
-DOMAIN,<body>
-DOMAIN,<divclass="container">
-DOMAIN,<divid="suggestions">
-DOMAIN,<head>
-DOMAIN,<html>
-DOMAIN,<p>
 DOMAIN,a.iqmtp.live
 DOMAIN,analytics.strava.com
-DOMAIN,aswellasanyfilepermissions.<br>
 DOMAIN,blzddist1-a.akamaihd.net
-DOMAIN,body{
 DOMAIN,cdn.angruo.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
-DOMAIN,containtherequestedfile.
 DOMAIN,dl.google.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
@@ -31,7 +21,6 @@ DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,www.libvideo.com
 DOMAIN,www.yxssp.com
-DOMAIN,}
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -1167,7 +1156,6 @@ DOMAIN-SUFFIX,dj99.com
 DOMAIN-SUFFIX,dlgslb.net
 DOMAIN-SUFFIX,dlnel.com
 DOMAIN-SUFFIX,dlnel.org
-DOMAIN-SUFFIX,dmhmusic.com
 DOMAIN-SUFFIX,dmzj.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dnspod.com

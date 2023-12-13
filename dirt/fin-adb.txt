@@ -1,22 +1,12 @@
-# Adblock total line 3733
-# Last updated Sun 12/10/2023 22:15:31.41
+# Adblock total line 3721
+# Last updated Wed 12/13/2023 22:16:14.45
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
-||-media^
-||<body>^
-||<divclass="container">^
-||<divid="suggestions">^
-||<head>^
-||<html>^
-||<p>^
 ||a.iqmtp.live^
 ||analytics.strava.com^
-||aswellasanyfilepermissions.<br>^
 ||blzddist1-a.akamaihd.net^
-||body{^
 ||cdn.angruo.com^
 ||cdp.cloud.unity3d.com^
 ||client.amplifi.com^
-||containtherequestedfile.^
 ||dl.google.com^
 ||download.jetbrains.com^
 ||images-cn.ssl-images-amazon.com^
@@ -31,7 +21,6 @@
 ||upos-hz-mirrorakam.akamaized.net^
 ||www.libvideo.com^
 ||www.yxssp.com^
-||}^
 /.tmall.com/
 /alicdn/
 /alipay/
@@ -1167,7 +1156,6 @@
 ||dlgslb.net^
 ||dlnel.com^
 ||dlnel.org^
-||dmhmusic.com^
 ||dmzj.com^
 ||dns.pub^
 ||dnspod.com^

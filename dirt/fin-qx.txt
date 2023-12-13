@@ -1,22 +1,12 @@
-# Quantumult total line 4019
-# Last updated Sun 12/10/2023 22:15:31.28
+# Quantumult total line 4007
+# Last updated Wed 12/13/2023 22:16:14.32
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
-HOST,-media,LIST
-HOST,<body>,LIST
-HOST,<divclass="container">,LIST
-HOST,<divid="suggestions">,LIST
-HOST,<head>,LIST
-HOST,<html>,LIST
-HOST,<p>,LIST
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
-HOST,aswellasanyfilepermissions.<br>,LIST
 HOST,blzddist1-a.akamaihd.net,LIST
-HOST,body{,LIST
 HOST,cdn.angruo.com,LIST
 HOST,cdp.cloud.unity3d.com,LIST
 HOST,client.amplifi.com,LIST
-HOST,containtherequestedfile.,LIST
 HOST,dl.google.com,LIST
 HOST,download.jetbrains.com,LIST
 HOST,images-cn.ssl-images-amazon.com,LIST
@@ -31,7 +21,6 @@ HOST,steamcommunity-a.akamaihd.net,LIST
 HOST,upos-hz-mirrorakam.akamaized.net,LIST
 HOST,www.libvideo.com,LIST
 HOST,www.yxssp.com,LIST
-HOST,},LIST
 HOST-KEYWORD,.tmall.com,LIST
 HOST-KEYWORD,alicdn,LIST
 HOST-KEYWORD,alipay,LIST
@@ -1167,7 +1156,6 @@ HOST-SUFFIX,dj99.com,LIST
 HOST-SUFFIX,dlgslb.net,LIST
 HOST-SUFFIX,dlnel.com,LIST
 HOST-SUFFIX,dlnel.org,LIST
-HOST-SUFFIX,dmhmusic.com,LIST
 HOST-SUFFIX,dmzj.com,LIST
 HOST-SUFFIX,dns.pub,LIST
 HOST-SUFFIX,dnspod.com,LIST
