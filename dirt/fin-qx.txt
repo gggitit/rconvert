@@ -1,5 +1,5 @@
-# Quantumult total line 4007
-# Last updated Wed 12/13/2023 22:16:14.32
+# Quantumult total line 4008
+# Last updated Sat 12/16/2023 22:14:58.88
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -608,6 +608,7 @@ HOST-SUFFIX,boosj.com,LIST
 HOST-SUFFIX,bootcdn.net,LIST
 HOST-SUFFIX,bootcss.com,LIST
 HOST-SUFFIX,bosera.com,LIST
+HOST-SUFFIX,bosszhipin.com,LIST
 HOST-SUFFIX,broadcasthe.net,LIST
 HOST-SUFFIX,browserleaks.com,LIST
 HOST-SUFFIX,bstatic.com,LIST
