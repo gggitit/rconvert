@@ -1,5 +1,5 @@
-# Clash total line 4008
-# Last updated Sun 01/07/2024 22:15:57.95
+# Clash total line 4005
+# Last updated Wed 01/10/2024 22:15:59.14
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -8,12 +8,10 @@ payload:
   - DOMAIN,cdn.angruo.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,client.amplifi.com
-  - DOMAIN,dl.google.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,kc.kexinshe.com
-  - DOMAIN,mtalk.google.com
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,raw.iqiq.io
@@ -1465,7 +1463,6 @@ payload:
   - DOMAIN-SUFFIX,gongyi.xin
   - DOMAIN-SUFFIX,goodread.com
   - DOMAIN-SUFFIX,goofish.com
-  - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,goosail.com
   - DOMAIN-SUFFIX,goproxy.io
   - DOMAIN-SUFFIX,goselling.com

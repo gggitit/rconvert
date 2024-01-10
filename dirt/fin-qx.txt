@@ -1,5 +1,5 @@
-# Quantumult total line 4008
-# Last updated Sun 01/07/2024 22:15:57.92
+# Quantumult total line 4005
+# Last updated Wed 01/10/2024 22:15:59.11
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -7,12 +7,10 @@ HOST,blzddist1-a.akamaihd.net,LIST
 HOST,cdn.angruo.com,LIST
 HOST,cdp.cloud.unity3d.com,LIST
 HOST,client.amplifi.com,LIST
-HOST,dl.google.com,LIST
 HOST,download.jetbrains.com,LIST
 HOST,images-cn.ssl-images-amazon.com,LIST
 HOST,ip.istatmenus.app,LIST
 HOST,kc.kexinshe.com,LIST
-HOST,mtalk.google.com,LIST
 HOST,origin-a.akamaihd.ne,LIST
 HOST,origin-a.akamaihd.net,LIST
 HOST,raw.iqiq.io,LIST
@@ -1464,7 +1462,6 @@ HOST-SUFFIX,gongxiangcj.com,LIST
 HOST-SUFFIX,gongyi.xin,LIST
 HOST-SUFFIX,goodread.com,LIST
 HOST-SUFFIX,goofish.com,LIST
-HOST-SUFFIX,googletraveladservices.com,LIST
 HOST-SUFFIX,goosail.com,LIST
 HOST-SUFFIX,goproxy.io,LIST
 HOST-SUFFIX,goselling.com,LIST

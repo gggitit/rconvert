@@ -1,5 +1,5 @@
-# Main total line 4008
-# Last updated Sun 01/07/2024 22:15:57.78
+# Main total line 4005
+# Last updated Wed 01/10/2024 22:15:58.99
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,a.iqmtp.live
 DOMAIN,analytics.strava.com
@@ -7,12 +7,10 @@ DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
-DOMAIN,dl.google.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
-DOMAIN,mtalk.google.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,raw.iqiq.io
@@ -1464,7 +1462,6 @@ DOMAIN-SUFFIX,gongxiangcj.com
 DOMAIN-SUFFIX,gongyi.xin
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,goosail.com
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,goselling.com
