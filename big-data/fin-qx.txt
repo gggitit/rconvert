@@ -1,5 +1,5 @@
 # Quantumult total line 2913
-# Last updated Mon 01/22/2024 22:15:01.46
+# Last updated Thu 01/25/2024 22:14:05.12
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,api.okzy.tv,LIST
@@ -34,7 +34,6 @@ HOST,news-edge.apple.com,LIST
 HOST,news-events.apple.com,LIST
 HOST,np-edge.itunes.apple.com,LIST
 HOST,ocvideo.apple.com,LIST
-HOST,p.bstarstatic.com,LIST
 HOST,play-edge.itunes.apple.com,LIST
 HOST,rpg.pic-imges.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
@@ -263,6 +262,7 @@ HOST-SUFFIX,br2share.net,LIST
 HOST-SUFFIX,bravotv.com,LIST
 HOST-SUFFIX,braze.com,LIST
 HOST-SUFFIX,brupload.net,LIST
+HOST-SUFFIX,bstarstatic.com,LIST
 HOST-SUFFIX,btafile.com,LIST
 HOST-SUFFIX,bucketeer.jp,LIST
 HOST-SUFFIX,buyvm.net,LIST

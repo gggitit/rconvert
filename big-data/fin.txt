@@ -1,5 +1,5 @@
 # Main total line 2913
-# Last updated Mon 01/22/2024 22:15:01.35
+# Last updated Thu 01/25/2024 22:14:05.00
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.okzy.tv
@@ -34,7 +34,6 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,ocvideo.apple.com
-DOMAIN,p.bstarstatic.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,rpg.pic-imges.com
 DOMAIN,streetviewpixels-pa.googleapis.com
@@ -263,6 +262,7 @@ DOMAIN-SUFFIX,br2share.net
 DOMAIN-SUFFIX,bravotv.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,brupload.net
+DOMAIN-SUFFIX,bstarstatic.com
 DOMAIN-SUFFIX,btafile.com
 DOMAIN-SUFFIX,bucketeer.jp
 DOMAIN-SUFFIX,buyvm.net
