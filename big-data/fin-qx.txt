@@ -1,5 +1,5 @@
-# Quantumult total line 2913
-# Last updated Sun 01/28/2024 22:14:46.31
+# Quantumult total line 2921
+# Last updated Wed 01/31/2024 22:16:07.44
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,api.okzy.tv,LIST
@@ -19,6 +19,8 @@ HOST,gspe1-ssl.ls.apple.com,LIST
 HOST,h-dazn.online-metrix.net,LIST
 HOST,h-netflix.online-metrix.net,LIST
 HOST,hamifans.emome.net,LIST
+HOST,hls-amt.itunes.apple.com,LIST
+HOST,hls.itunes.apple.com,LIST
 HOST,hulu.com.c.footprint.net,LIST
 HOST,hulu.map.fastly.net,LIST
 HOST,images-daznservices-com.cdn.ampproject.org,LIST
@@ -2865,13 +2867,16 @@ USER-AGENT,Deezer*,LIST
 USER-AGENT,Disney*,LIST
 USER-AGENT,Disney+*,LIST
 USER-AGENT,FOX%20NOW*,LIST
+USER-AGENT,FOXNOW*,LIST
 USER-AGENT,FOXPlus*,LIST
 USER-AGENT,Google.Drive*,LIST
 USER-AGENT,HBO%20GO%20PROD%20HKG*,LIST
 USER-AGENT,HBO%20GO%20PROD*,LIST
 USER-AGENT,HBO%20NOW*,LIST
 USER-AGENT,HBO*,LIST
+USER-AGENT,HBOGOPRODHKG*,LIST
 USER-AGENT,HBOMAX*,LIST
+USER-AGENT,HBONOW*,LIST
 USER-AGENT,HWTVMobile*,LIST
 USER-AGENT,Himalaya*,LIST
 USER-AGENT,Hulu*,LIST
@@ -2881,9 +2886,11 @@ USER-AGENT,JOOX*,LIST
 USER-AGENT,KKTV*,LIST
 USER-AGENT,LINE%20TV*,LIST
 USER-AGENT,LINE*,LIST
+USER-AGENT,LINETV*,LIST
 USER-AGENT,Max*,LIST
 USER-AGENT,My5*,LIST
 USER-AGENT,Naver%20TV*,LIST
+USER-AGENT,NaverTV*,LIST
 USER-AGENT,Niconico*,LIST
 USER-AGENT,OneDrive*,LIST
 USER-AGENT,OneDriveiOSApp*,LIST
@@ -2893,6 +2900,7 @@ USER-AGENT,PPlus*,LIST
 USER-AGENT,Pandora*,LIST
 USER-AGENT,PeacockMobile*,LIST
 USER-AGENT,Prime%20Video*,LIST
+USER-AGENT,PrimeVideo*,LIST
 USER-AGENT,SoundCloud*,LIST
 USER-AGENT,Spotify*,LIST
 USER-AGENT,TIDAL*,LIST

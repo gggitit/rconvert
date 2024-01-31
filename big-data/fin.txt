@@ -1,5 +1,5 @@
-# Main total line 2913
-# Last updated Sun 01/28/2024 22:14:46.20
+# Main total line 2921
+# Last updated Wed 01/31/2024 22:16:07.30
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.okzy.tv
@@ -19,6 +19,8 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,h-dazn.online-metrix.net
 DOMAIN,h-netflix.online-metrix.net
 DOMAIN,hamifans.emome.net
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
 DOMAIN,hulu.com.c.footprint.net
 DOMAIN,hulu.map.fastly.net
 DOMAIN,images-daznservices-com.cdn.ampproject.org
@@ -2865,13 +2867,16 @@ USER-AGENT,Deezer*
 USER-AGENT,Disney*
 USER-AGENT,Disney+*
 USER-AGENT,FOX%20NOW*
+USER-AGENT,FOXNOW*
 USER-AGENT,FOXPlus*
 USER-AGENT,Google.Drive*
 USER-AGENT,HBO%20GO%20PROD%20HKG*
 USER-AGENT,HBO%20GO%20PROD*
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBO*
+USER-AGENT,HBOGOPRODHKG*
 USER-AGENT,HBOMAX*
+USER-AGENT,HBONOW*
 USER-AGENT,HWTVMobile*
 USER-AGENT,Himalaya*
 USER-AGENT,Hulu*
@@ -2881,9 +2886,11 @@ USER-AGENT,JOOX*
 USER-AGENT,KKTV*
 USER-AGENT,LINE%20TV*
 USER-AGENT,LINE*
+USER-AGENT,LINETV*
 USER-AGENT,Max*
 USER-AGENT,My5*
 USER-AGENT,Naver%20TV*
+USER-AGENT,NaverTV*
 USER-AGENT,Niconico*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
@@ -2893,6 +2900,7 @@ USER-AGENT,PPlus*
 USER-AGENT,Pandora*
 USER-AGENT,PeacockMobile*
 USER-AGENT,Prime%20Video*
+USER-AGENT,PrimeVideo*
 USER-AGENT,SoundCloud*
 USER-AGENT,Spotify*
 USER-AGENT,TIDAL*
