@@ -1,5 +1,5 @@
-# Quantumult total line 2919
-# Last updated Tue 03/19/2024 22:15:20.04
+# Quantumult total line 2920
+# Last updated Fri 03/22/2024 22:15:33.79
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,api.okzy.tv,LIST
@@ -314,6 +314,7 @@ HOST-SUFFIX,cdn.vidcrunch.com,LIST
 HOST-SUFFIX,cdnpure.com,LIST
 HOST-SUFFIX,centfile.com,LIST
 HOST-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,LIST
+HOST-SUFFIX,challenges.cloudflare.com,LIST
 HOST-SUFFIX,channel4.com,LIST
 HOST-SUFFIX,channel5.com,LIST
 HOST-SUFFIX,charontv.com,LIST

@@ -1,11 +1,10 @@
-# Quantumult total line 4004
-# Last updated Tue 03/19/2024 22:15:27.56
+# Quantumult total line 4002
+# Last updated Fri 03/22/2024 22:15:39.42
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
 HOST,blzddist1-a.akamaihd.net,LIST
 HOST,cdn.angruo.com,LIST
-HOST,cdp.cloud.unity3d.com,LIST
 HOST,client.amplifi.com,LIST
 HOST,download.jetbrains.com,LIST
 HOST,images-cn.ssl-images-amazon.com,LIST
@@ -15,7 +14,6 @@ HOST,origin-a.akamaihd.ne,LIST
 HOST,origin-a.akamaihd.net,LIST
 HOST,raw.iqiq.io,LIST
 HOST,sms.imagetasks.com,LIST
-HOST,steamcommunity-a.akamaihd.net,LIST
 HOST,upos-hz-mirrorakam.akamaized.net,LIST
 HOST,www.libvideo.com,LIST
 HOST,www.yxssp.com,LIST

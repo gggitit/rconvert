@@ -1,5 +1,5 @@
-# Clash total line 2919
-# Last updated Tue 03/19/2024 22:15:20.07
+# Clash total line 2920
+# Last updated Fri 03/22/2024 22:15:33.82
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
@@ -315,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,cdnpure.com
   - DOMAIN-SUFFIX,centfile.com
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,channel4.com
   - DOMAIN-SUFFIX,channel5.com
   - DOMAIN-SUFFIX,charontv.com
