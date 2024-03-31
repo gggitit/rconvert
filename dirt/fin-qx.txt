@@ -1,5 +1,5 @@
-# Quantumult total line 4002
-# Last updated Thu 03/28/2024 22:15:48.89
+# Quantumult total line 4003
+# Last updated Sun 03/31/2024 22:16:00.21
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -14,6 +14,7 @@ HOST,origin-a.akamaihd.ne,LIST
 HOST,origin-a.akamaihd.net,LIST
 HOST,raw.iqiq.io,LIST
 HOST,sms.imagetasks.com,LIST
+HOST,steamcommunity-a.akamaihd.net,LIST
 HOST,upos-hz-mirrorakam.akamaized.net,LIST
 HOST,www.libvideo.com,LIST
 HOST,www.yxssp.com,LIST
