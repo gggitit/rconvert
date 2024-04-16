@@ -1,5 +1,5 @@
-# Quantumult total line 2921
-# Last updated Sat 04/13/2024 22:14:33.91
+# Quantumult total line 2923
+# Last updated Tue 04/16/2024 22:16:30.04
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,api.okzy.tv,LIST
@@ -1632,6 +1632,8 @@ HOST-SUFFIX,tik-tokapi.com,LIST
 HOST-SUFFIX,tiktok.com,LIST
 HOST-SUFFIX,tiktok.us,LIST
 HOST-SUFFIX,tiktokv.com,LIST
+HOST-SUFFIX,tiktokv.us,LIST
+HOST-SUFFIX,tiktokw.com,LIST
 HOST-SUFFIX,timestalks.com,LIST
 HOST-SUFFIX,tinypass.com,LIST
 HOST-SUFFIX,tinyupload.com,LIST
