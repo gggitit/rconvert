@@ -1,5 +1,5 @@
-# Clash total line 2923
-# Last updated Tue 04/16/2024 22:16:30.07
+# Clash total line 2921
+# Last updated Fri 04/19/2024 22:16:20.62
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
@@ -1633,8 +1633,6 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktok.us
   - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,tiktokv.us
-  - DOMAIN-SUFFIX,tiktokw.com
   - DOMAIN-SUFFIX,timestalks.com
   - DOMAIN-SUFFIX,tinypass.com
   - DOMAIN-SUFFIX,tinyupload.com
