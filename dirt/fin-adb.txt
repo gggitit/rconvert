@@ -1,5 +1,5 @@
 # Adblock total line 3717
-# Last updated Sun 04/28/2024 22:15:51.30
+# Last updated Wed 05/01/2024 22:18:11.50
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
@@ -16,6 +16,7 @@
 ||sms.imagetasks.com^
 ||steamcommunity-a.akamaihd.net^
 ||upos-hz-mirrorakam.akamaized.net^
+||weixin.com^
 ||www.libvideo.com^
 ||www.yxssp.com^
 /.tmall.com/
@@ -3317,7 +3318,6 @@
 ||weiphone.com^
 ||weiphone.net^
 ||weixinbridge.com^
-||weixing.com^
 ||weiyangx.com^
 ||weiyun.com^
 ||welltrend-edu.com^

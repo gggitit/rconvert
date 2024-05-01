@@ -1,5 +1,5 @@
 # Clash total line 4003
-# Last updated Sun 04/28/2024 22:15:51.20
+# Last updated Wed 05/01/2024 22:18:11.41
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -17,6 +17,7 @@ payload:
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
+  - DOMAIN,weixin.com
   - DOMAIN,www.libvideo.com
   - DOMAIN,www.yxssp.com
   - DOMAIN-KEYWORD,.tmall.com
@@ -3318,7 +3319,6 @@ payload:
   - DOMAIN-SUFFIX,weiphone.com
   - DOMAIN-SUFFIX,weiphone.net
   - DOMAIN-SUFFIX,weixinbridge.com
-  - DOMAIN-SUFFIX,weixing.com
   - DOMAIN-SUFFIX,weiyangx.com
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,welltrend-edu.com

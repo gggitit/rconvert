@@ -1,5 +1,5 @@
 # Quantumult total line 4003
-# Last updated Sun 04/28/2024 22:15:51.16
+# Last updated Wed 05/01/2024 22:18:11.38
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -16,6 +16,7 @@ HOST,raw.iqiq.io,LIST
 HOST,sms.imagetasks.com,LIST
 HOST,steamcommunity-a.akamaihd.net,LIST
 HOST,upos-hz-mirrorakam.akamaized.net,LIST
+HOST,weixin.com,LIST
 HOST,www.libvideo.com,LIST
 HOST,www.yxssp.com,LIST
 HOST-KEYWORD,.tmall.com,LIST
@@ -3317,7 +3318,6 @@ HOST-SUFFIX,weilaiyunxiao.com,LIST
 HOST-SUFFIX,weiphone.com,LIST
 HOST-SUFFIX,weiphone.net,LIST
 HOST-SUFFIX,weixinbridge.com,LIST
-HOST-SUFFIX,weixing.com,LIST
 HOST-SUFFIX,weiyangx.com,LIST
 HOST-SUFFIX,weiyun.com,LIST
 HOST-SUFFIX,welltrend-edu.com,LIST
