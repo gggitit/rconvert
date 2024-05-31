@@ -1,5 +1,5 @@
-# Clash total line 4003
-# Last updated Tue 05/28/2024 22:16:57.33
+# Clash total line 4001
+# Last updated Fri 05/31/2024 22:16:47.21
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -1792,6 +1792,7 @@ payload:
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,ipanda.com
   - DOMAIN-SUFFIX,ipanda.net
+  - DOMAIN-SUFFIX,ipapark.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,ipinyou.com
   - DOMAIN-SUFFIX,ipip.net
@@ -2570,9 +2571,6 @@ payload:
   - DOMAIN-SUFFIX,pipix.com
   - DOMAIN-SUFFIX,pkoplink.com
   - DOMAIN-SUFFIX,pkulaw.com
-  - DOMAIN-SUFFIX,playstation.com
-  - DOMAIN-SUFFIX,playstation.net
-  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,pmphmooc.com
   - DOMAIN-SUFFIX,pn1waq.com
   - DOMAIN-SUFFIX,pnas.org
