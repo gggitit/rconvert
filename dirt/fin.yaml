@@ -1,5 +1,5 @@
-# Clash total line 4001
-# Last updated Fri 05/31/2024 22:16:47.21
+# Clash total line 4002
+# Last updated Sat 06/01/2024 22:16:00.38
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -1153,6 +1153,7 @@ payload:
   - DOMAIN-SUFFIX,discuz.org
   - DOMAIN-SUFFIX,diyiyou.com
   - DOMAIN-SUFFIX,dj99.com
+  - DOMAIN-SUFFIX,dler.cloud
   - DOMAIN-SUFFIX,dlgslb.net
   - DOMAIN-SUFFIX,dlnel.com
   - DOMAIN-SUFFIX,dlnel.org
