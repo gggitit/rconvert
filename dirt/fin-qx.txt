@@ -1,5 +1,5 @@
-# Quantumult total line 4001
-# Last updated Sun 08/25/2024 22:18:38.26
+# Quantumult total line 4002
+# Last updated Wed 08/28/2024 22:18:15.35
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -2052,6 +2052,7 @@ HOST-SUFFIX,koubei.com,LIST
 HOST-SUFFIX,kouclo.com,LIST
 HOST-SUFFIX,koudai.com,LIST
 HOST-SUFFIX,koudai8.com,LIST
+HOST-SUFFIX,koyso.com,LIST
 HOST-SUFFIX,kq7.com,LIST
 HOST-SUFFIX,ks-cdn.com,LIST
 HOST-SUFFIX,ks-cdn1.com,LIST
