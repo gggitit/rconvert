@@ -1,5 +1,5 @@
-# Main total line 2921
-# Last updated Wed 11/13/2024 22:19:35.16
+# Main total line 2911
+# Last updated Sat 11/16/2024 22:19:03.66
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.okzy.tv
@@ -38,7 +38,6 @@ DOMAIN,rpg.pic-imges.com
 DOMAIN,streetviewpixels-pa.googleapis.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN,www.googleapis.com
-DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apicdn
@@ -67,7 +66,7 @@ DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,server30cdn1
 DOMAIN-KEYWORD,skydrive
-DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,steamuserimages
 DOMAIN-KEYWORD,strntt00
 DOMAIN-KEYWORD,tiktokcdn
@@ -1551,15 +1550,6 @@ DOMAIN-SUFFIX,speedrun.com
 DOMAIN-SUFFIX,speedxtra.com
 DOMAIN-SUFFIX,spicyfile.com
 DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify-everywhere.com
-DOMAIN-SUFFIX,spotify.design
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,spotifycdn.net
-DOMAIN-SUFFIX,spotifycharts.com
-DOMAIN-SUFFIX,spotifycodes.com
-DOMAIN-SUFFIX,spotifyforbrands.com
-DOMAIN-SUFFIX,spotifyjobs.com
-DOMAIN-SUFFIX,spotifynewsroom.jp
 DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,ssl0d.com
 DOMAIN-SUFFIX,sstatic.net

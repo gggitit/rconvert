@@ -1,5 +1,5 @@
-# Quantumult total line 2921
-# Last updated Wed 11/13/2024 22:19:35.27
+# Quantumult total line 2911
+# Last updated Sat 11/16/2024 22:19:03.78
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,api.okzy.tv,LIST
@@ -38,7 +38,6 @@ HOST,rpg.pic-imges.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
 HOST,uts-api.itunes.apple.com,LIST
 HOST,www.googleapis.com,LIST
-HOST-KEYWORD,-spotify-,LIST
 HOST-KEYWORD,1drv,LIST
 HOST-KEYWORD,abematv.akamaized.net,LIST
 HOST-KEYWORD,apicdn,LIST
@@ -67,7 +66,7 @@ HOST-KEYWORD,onedrive,LIST
 HOST-KEYWORD,rthklive,LIST
 HOST-KEYWORD,server30cdn1,LIST
 HOST-KEYWORD,skydrive,LIST
-HOST-KEYWORD,spotify.com,LIST
+HOST-KEYWORD,spotify,LIST
 HOST-KEYWORD,steamuserimages,LIST
 HOST-KEYWORD,strntt00,LIST
 HOST-KEYWORD,tiktokcdn,LIST
@@ -1551,15 +1550,6 @@ HOST-SUFFIX,speedrun.com,LIST
 HOST-SUFFIX,speedxtra.com,LIST
 HOST-SUFFIX,spicyfile.com,LIST
 HOST-SUFFIX,spoti.fi,LIST
-HOST-SUFFIX,spotify-everywhere.com,LIST
-HOST-SUFFIX,spotify.design,LIST
-HOST-SUFFIX,spotifycdn.com,LIST
-HOST-SUFFIX,spotifycdn.net,LIST
-HOST-SUFFIX,spotifycharts.com,LIST
-HOST-SUFFIX,spotifycodes.com,LIST
-HOST-SUFFIX,spotifyforbrands.com,LIST
-HOST-SUFFIX,spotifyjobs.com,LIST
-HOST-SUFFIX,spotifynewsroom.jp,LIST
 HOST-SUFFIX,spotilocal.com,LIST
 HOST-SUFFIX,ssl0d.com,LIST
 HOST-SUFFIX,sstatic.net,LIST
