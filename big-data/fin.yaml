@@ -1,5 +1,5 @@
-# Clash total line 2911
-# Last updated Tue 11/19/2024 22:19:58.87
+# Clash total line 2908
+# Last updated Fri 11/22/2024 22:20:04.51
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
@@ -32,12 +32,9 @@ payload:
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
-  - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,ocvideo.apple.com
-  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,streetviewpixels-pa.googleapis.com
-  - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,www.googleapis.com
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,abematv.akamaized.net

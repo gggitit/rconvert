@@ -1,5 +1,5 @@
-# Quantumult total line 2911
-# Last updated Tue 11/19/2024 22:19:58.84
+# Quantumult total line 2908
+# Last updated Fri 11/22/2024 22:20:04.48
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,api.okzy.tv,LIST
@@ -31,12 +31,9 @@ HOST,mw1.google.com,LIST
 HOST,news-client.apple.com,LIST
 HOST,news-edge.apple.com,LIST
 HOST,news-events.apple.com,LIST
-HOST,np-edge.itunes.apple.com,LIST
 HOST,ocvideo.apple.com,LIST
-HOST,play-edge.itunes.apple.com,LIST
 HOST,rpg.pic-imges.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
-HOST,uts-api.itunes.apple.com,LIST
 HOST,www.googleapis.com,LIST
 HOST-KEYWORD,1drv,LIST
 HOST-KEYWORD,abematv.akamaized.net,LIST
