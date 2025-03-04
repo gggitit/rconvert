@@ -1,5 +1,5 @@
-# Clash total line 3980
-# Last updated Sat 03/01/2025 22:19:04.25
+# Clash total line 3976
+# Last updated Tue 03/04/2025 22:19:01.49
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -317,7 +317,6 @@ payload:
   - DOMAIN-SUFFIX,acctdns.net
   - DOMAIN-SUFFIX,acetaffy.club
   - DOMAIN-SUFFIX,acfun.tv
-  - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,acm.org
@@ -1796,7 +1795,6 @@ payload:
   - DOMAIN-SUFFIX,ipplus360.com
   - DOMAIN-SUFFIX,iprdp.net
   - DOMAIN-SUFFIX,ipssh.net
-  - DOMAIN-SUFFIX,ipv6-test.com
   - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,iqiyipic.com
@@ -3044,8 +3042,6 @@ payload:
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tenxcloud.com
   - DOMAIN-SUFFIX,test-cignacmb.com
-  - DOMAIN-SUFFIX,test-ipv4.com
-  - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,testwaf.com
   - DOMAIN-SUFFIX,texasholdemcup.com
   - DOMAIN-SUFFIX,texasholdemcup.net
