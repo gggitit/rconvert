@@ -1,5 +1,5 @@
-# Clash total line 3976
-# Last updated Mon 03/10/2025 22:20:16.61
+# Clash total line 3979
+# Last updated Thu 03/13/2025 22:20:03.24
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -1562,6 +1562,7 @@ payload:
   - DOMAIN-SUFFIX,heytapdownload.com
   - DOMAIN-SUFFIX,heytapimage.com
   - DOMAIN-SUFFIX,heytapmobi.com
+  - DOMAIN-SUFFIX,heytea-co.com
   - DOMAIN-SUFFIX,heytea.com
   - DOMAIN-SUFFIX,hftfund.com
   - DOMAIN-SUFFIX,hhtravel.com
@@ -2221,6 +2222,8 @@ payload:
   - DOMAIN-SUFFIX,lsplayer.com
   - DOMAIN-SUFFIX,lu.com
   - DOMAIN-SUFFIX,lucifr.com
+  - DOMAIN-SUFFIX,luckincdn.com
+  - DOMAIN-SUFFIX,luckincoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,luckyair.net
   - DOMAIN-SUFFIX,ludashi.com
