@@ -1,19 +1,26 @@
-# Quantumult total line 2908
-# Last updated Fri 03/28/2025 22:20:46.78
+# Quantumult total line 2930
+# Last updated Mon 03/31/2025 22:21:29.75
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
+HOST,ai.google.dev,LIST
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
+HOST,api.githubcopilot.com,LIST
+HOST,api.groq.com,LIST
 HOST,api.okzy.tv,LIST
+HOST,api.together.xyz,LIST
 HOST,apm-misaka.biliapi.net,LIST
 HOST,apple.comscoreresearch.com,LIST
 HOST,cdn.apple-cloudkit.com,LIST
 HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,LIST
 HOST,connect.facebook.net,LIST
+HOST,console.groq.com,LIST
+HOST,copilot-proxy.githubusercontent.com,LIST
 HOST,dashasiafox.akamaized.netflix,LIST
 HOST,daznfeeds.com.edgekey.net,LIST
 HOST,dca-lm-livedazn.secure.footprint.net,LIST
 HOST,devimages-cdn.apple.com,LIST
 HOST,devstreaming-cdn.apple.com,LIST
 HOST,edge.cwtv-vod-ext.top.comcast.net,LIST
+HOST,generativelanguage.googleapis.com,LIST
 HOST,gspe1-ssl.ls.apple.com,LIST
 HOST,h-dazn.online-metrix.net,LIST
 HOST,h-netflix.online-metrix.net,LIST
@@ -34,13 +41,16 @@ HOST,news-events.apple.com,LIST
 HOST,ocvideo.apple.com,LIST
 HOST,rpg.pic-imges.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
+HOST,sydney.bing.com,LIST
 HOST,www.googleapis.com,LIST
 HOST-KEYWORD,1drv,LIST
 HOST-KEYWORD,abematv.akamaized.net,LIST
+HOST-KEYWORD,anthropic,LIST
 HOST-KEYWORD,apicdn,LIST
 HOST-KEYWORD,apiproxy-device-prod-nlb-,LIST
 HOST-KEYWORD,avoddashs,LIST
 HOST-KEYWORD,bbcfmt,LIST
+HOST-KEYWORD,claude,LIST
 HOST-KEYWORD,discovery.uplynk.com,LIST
 HOST-KEYWORD,dualstack.apiproxy-,LIST
 HOST-KEYWORD,dualstack.ichnaea-web-,LIST
@@ -118,6 +128,7 @@ HOST-SUFFIX,afewmomentswith.com,LIST
 HOST-SUFFIX,afp.com,LIST
 HOST-SUFFIX,afpforum.com,LIST
 HOST-SUFFIX,ahcdn.com,LIST
+HOST-SUFFIX,ai.azure.com,LIST
 HOST-SUFFIX,aiv-cdn.net,LIST
 HOST-SUFFIX,aiv-delivery.net,LIST
 HOST-SUFFIX,akamai-cdn-content.com,LIST
@@ -220,6 +231,7 @@ HOST-SUFFIX,bahamut.com.tw,LIST
 HOST-SUFFIX,bam.nr-data.net,LIST
 HOST-SUFFIX,bam.nr-date.net,LIST
 HOST-SUFFIX,bamgrid.com,LIST
+HOST-SUFFIX,bard.google.com,LIST
 HOST-SUFFIX,bayfiles.com,LIST
 HOST-SUFFIX,bbc.co,LIST
 HOST-SUFFIX,bbc.co.uk,LIST
@@ -356,6 +368,8 @@ HOST-SUFFIX,convertio.co,LIST
 HOST-SUFFIX,convertio.me,LIST
 HOST-SUFFIX,conviva.com,LIST
 HOST-SUFFIX,cookielaw.org,LIST
+HOST-SUFFIX,copilot.cloud.microsoft,LIST
+HOST-SUFFIX,copilot.microsoft.com,LIST
 HOST-SUFFIX,coronavirusnow.com,LIST
 HOST-SUFFIX,cosmobox.org,LIST
 HOST-SUFFIX,cristiamo.xyz,LIST
@@ -881,6 +895,7 @@ HOST-SUFFIX,gamer.com.tw,LIST
 HOST-SUFFIX,gcx920110.com,LIST
 HOST-SUFFIX,ge.tt,LIST
 HOST-SUFFIX,geekprank.com,LIST
+HOST-SUFFIX,gemini.google.com,LIST
 HOST-SUFFIX,geraldoatlarge.com,LIST
 HOST-SUFFIX,getblueshift.com,LIST
 HOST-SUFFIX,getbukkit.org,LIST
@@ -913,6 +928,8 @@ HOST-SUFFIX,gorin.jp,LIST
 HOST-SUFFIX,gounlimited.to,LIST
 HOST-SUFFIX,gradle-dn.com,LIST
 HOST-SUFFIX,gradle.org,LIST
+HOST-SUFFIX,grazie.ai,LIST
+HOST-SUFFIX,grazie.aws.intellij.net,LIST
 HOST-SUFFIX,gv.com,LIST
 HOST-SUFFIX,gvt0.com,LIST
 HOST-SUFFIX,gvt1.com,LIST
@@ -1137,6 +1154,7 @@ HOST-SUFFIX,londonreal.tv,LIST
 HOST-SUFFIX,lookscanned.io,LIST
 HOST-SUFFIX,macupload.net,LIST
 HOST-SUFFIX,maker.tv,LIST
+HOST-SUFFIX,makersuite.google.com,LIST
 HOST-SUFFIX,manifest.prod.boltdns.net,LIST
 HOST-SUFFIX,marvel.com,LIST
 HOST-SUFFIX,marvel10thanniversary.com,LIST
@@ -1170,6 +1188,7 @@ HOST-SUFFIX,megaupload.com,LIST
 HOST-SUFFIX,mercdn.net,LIST
 HOST-SUFFIX,meridian.net,LIST
 HOST-SUFFIX,mesfichiers.org,LIST
+HOST-SUFFIX,meta.ai,LIST
 HOST-SUFFIX,mewatch.sg,LIST
 HOST-SUFFIX,mexa.sh,LIST
 HOST-SUFFIX,mexashare.com,LIST
@@ -1181,6 +1200,7 @@ HOST-SUFFIX,minecraftforge.net,LIST
 HOST-SUFFIX,mirrorcreator.com,LIST
 HOST-SUFFIX,misakaf.org,LIST
 HOST-SUFFIX,misakaf.xyz,LIST
+HOST-SUFFIX,mistral.ai,LIST
 HOST-SUFFIX,mixdrop.club,LIST
 HOST-SUFFIX,mixdrop.co,LIST
 HOST-SUFFIX,mixloads.com,LIST
@@ -1366,6 +1386,7 @@ HOST-SUFFIX,pcloud.com,LIST
 HOST-SUFFIX,pcloud.link,LIST
 HOST-SUFFIX,peacocktv.com,LIST
 HOST-SUFFIX,periscope.tv,LIST
+HOST-SUFFIX,perplexity.ai,LIST
 HOST-SUFFIX,persagg.com,LIST
 HOST-SUFFIX,phncdn.com,LIST
 HOST-SUFFIX,photos.live.com,LIST
@@ -1531,6 +1552,7 @@ HOST-SUFFIX,soccermatchpass.com,LIST
 HOST-SUFFIX,socdm.com,LIST
 HOST-SUFFIX,solidfiles.com,LIST
 HOST-SUFFIX,sonycrackle.club,LIST
+HOST-SUFFIX,sora.com,LIST
 HOST-SUFFIX,sorcerersarena.com,LIST
 HOST-SUFFIX,soundcloud.app.goo.gl,LIST
 HOST-SUFFIX,soundcloud.com,LIST

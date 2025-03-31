@@ -1,19 +1,26 @@
-# Adblock total line 1900
-# Last updated Fri 03/28/2025 22:20:46.89
+# Adblock total line 1922
+# Last updated Mon 03/31/2025 22:21:29.87
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
+||ai.google.dev^
 ||akmcdnoversea-tw.inter.ptqy.gitv.tv^
+||api.githubcopilot.com^
+||api.groq.com^
 ||api.okzy.tv^
+||api.together.xyz^
 ||apm-misaka.biliapi.net^
 ||apple.comscoreresearch.com^
 ||cdn.apple-cloudkit.com^
 ||chuangcachecdnoversea-tw.inter.ptqy.gitv.tv^
 ||connect.facebook.net^
+||console.groq.com^
+||copilot-proxy.githubusercontent.com^
 ||dashasiafox.akamaized.netflix^
 ||daznfeeds.com.edgekey.net^
 ||dca-lm-livedazn.secure.footprint.net^
 ||devimages-cdn.apple.com^
 ||devstreaming-cdn.apple.com^
 ||edge.cwtv-vod-ext.top.comcast.net^
+||generativelanguage.googleapis.com^
 ||gspe1-ssl.ls.apple.com^
 ||h-dazn.online-metrix.net^
 ||h-netflix.online-metrix.net^
@@ -34,13 +41,16 @@
 ||ocvideo.apple.com^
 ||rpg.pic-imges.com^
 ||streetviewpixels-pa.googleapis.com^
+||sydney.bing.com^
 ||www.googleapis.com^
 /1drv/
 /abematv.akamaized.net/
+/anthropic/
 /apicdn/
 /apiproxy-device-prod-nlb-/
 /avoddashs/
 /bbcfmt/
+/claude/
 /discovery.uplynk.com/
 /dualstack.apiproxy-/
 /dualstack.ichnaea-web-/
@@ -118,6 +128,7 @@
 ||afp.com^
 ||afpforum.com^
 ||ahcdn.com^
+||ai.azure.com^
 ||aiv-cdn.net^
 ||aiv-delivery.net^
 ||akamai-cdn-content.com^
@@ -220,6 +231,7 @@
 ||bam.nr-data.net^
 ||bam.nr-date.net^
 ||bamgrid.com^
+||bard.google.com^
 ||bayfiles.com^
 ||bbc.co^
 ||bbc.co.uk^
@@ -356,6 +368,8 @@
 ||convertio.me^
 ||conviva.com^
 ||cookielaw.org^
+||copilot.cloud.microsoft^
+||copilot.microsoft.com^
 ||coronavirusnow.com^
 ||cosmobox.org^
 ||cristiamo.xyz^
@@ -881,6 +895,7 @@
 ||gcx920110.com^
 ||ge.tt^
 ||geekprank.com^
+||gemini.google.com^
 ||geraldoatlarge.com^
 ||getblueshift.com^
 ||getbukkit.org^
@@ -913,6 +928,8 @@
 ||gounlimited.to^
 ||gradle-dn.com^
 ||gradle.org^
+||grazie.ai^
+||grazie.aws.intellij.net^
 ||gv.com^
 ||gvt0.com^
 ||gvt1.com^
@@ -1137,6 +1154,7 @@
 ||lookscanned.io^
 ||macupload.net^
 ||maker.tv^
+||makersuite.google.com^
 ||manifest.prod.boltdns.net^
 ||marvel.com^
 ||marvel10thanniversary.com^
@@ -1170,6 +1188,7 @@
 ||mercdn.net^
 ||meridian.net^
 ||mesfichiers.org^
+||meta.ai^
 ||mewatch.sg^
 ||mexa.sh^
 ||mexashare.com^
@@ -1181,6 +1200,7 @@
 ||mirrorcreator.com^
 ||misakaf.org^
 ||misakaf.xyz^
+||mistral.ai^
 ||mixdrop.club^
 ||mixdrop.co^
 ||mixloads.com^
@@ -1366,6 +1386,7 @@
 ||pcloud.link^
 ||peacocktv.com^
 ||periscope.tv^
+||perplexity.ai^
 ||persagg.com^
 ||phncdn.com^
 ||photos.live.com^
@@ -1531,6 +1552,7 @@
 ||socdm.com^
 ||solidfiles.com^
 ||sonycrackle.club^
+||sora.com^
 ||sorcerersarena.com^
 ||soundcloud.app.goo.gl^
 ||soundcloud.com^
