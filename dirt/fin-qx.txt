@@ -1,5 +1,5 @@
-# Quantumult total line 3968
-# Last updated Thu 04/10/2025 22:22:23.31
+# Quantumult total line 3966
+# Last updated Sun 04/13/2025 22:20:24.03
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -1539,7 +1539,6 @@ HOST-SUFFIX,hdchina.org,LIST
 HOST-SUFFIX,hdcmct.org,LIST
 HOST-SUFFIX,hddolby.com,LIST
 HOST-SUFFIX,hdhome.org,LIST
-HOST-SUFFIX,hdsky.me,LIST
 HOST-SUFFIX,hdslb.com,LIST
 HOST-SUFFIX,hdslb.org,LIST
 HOST-SUFFIX,hdyxgame.com,LIST
@@ -2390,7 +2389,6 @@ HOST-SUFFIX,mubu.com,LIST
 HOST-SUFFIX,mukewang.com,LIST
 HOST-SUFFIX,mumayi.com,LIST
 HOST-SUFFIX,muomou.com,LIST
-HOST-SUFFIX,musical.ly,LIST
 HOST-SUFFIX,muwai.com,LIST
 HOST-SUFFIX,muyewx.com,LIST
 HOST-SUFFIX,muzhiwan.com,LIST
