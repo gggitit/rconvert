@@ -1,5 +1,5 @@
-# Clash total line 2930
-# Last updated Tue 05/13/2025 22:22:22.63
+# Clash total line 2916
+# Last updated Fri 05/16/2025 22:21:30.64
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,ai.google.dev
@@ -44,7 +44,6 @@ payload:
   - DOMAIN,streetviewpixels-pa.googleapis.com
   - DOMAIN,sydney.bing.com
   - DOMAIN,www.googleapis.com
-  - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,apicdn
@@ -70,10 +69,8 @@ payload:
   - DOMAIN-KEYWORD,nowtv100
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,olevod
-  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,rthklive
   - DOMAIN-KEYWORD,server30cdn1
-  - DOMAIN-KEYWORD,skydrive
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,strntt00
@@ -606,7 +603,6 @@ payload:
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,eonline.com
   - DOMAIN-SUFFIX,err.sh
-  - DOMAIN-SUFFIX,esm.run
   - DOMAIN-SUFFIX,espn.co.uk
   - DOMAIN-SUFFIX,espn.com
   - DOMAIN-SUFFIX,espn.hb.omtrdc.net
@@ -1087,8 +1083,6 @@ payload:
   - DOMAIN-SUFFIX,joinmaidez.com
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
-  - DOMAIN-SUFFIX,jsdelivr.com
-  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,jumploads.com
   - DOMAIN-SUFFIX,jwpcdn.com
@@ -1141,7 +1135,6 @@ payload:
   - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,litv.tv
   - DOMAIN-SUFFIX,litvp.com
-  - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,livestream.com
   - DOMAIN-SUFFIX,lldns.net
   - DOMAIN-SUFFIX,llnw-trials.com
@@ -1357,7 +1350,7 @@ payload:
   - DOMAIN-SUFFIX,olehd.com
   - DOMAIN-SUFFIX,olelive.com
   - DOMAIN-SUFFIX,oload.tv
-  - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,openload.co
   - DOMAIN-SUFFIX,optifine.net
@@ -1390,7 +1383,6 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,persagg.com
   - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,photos.live.com
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,piecejointe.net
   - DOMAIN-SUFFIX,pinata.cloud
@@ -1532,8 +1524,6 @@ payload:
   - DOMAIN-SUFFIX,shareflare.net
   - DOMAIN-SUFFIX,sharemods.com
   - DOMAIN-SUFFIX,shareplace.org
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,sho.com
   - DOMAIN-SUFFIX,shopdisney.com
   - DOMAIN-SUFFIX,shops-disney.com
@@ -1593,8 +1583,6 @@ payload:
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,storage.msn.com
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,streamango.com
   - DOMAIN-SUFFIX,streamcherry.com
@@ -2902,8 +2890,6 @@ payload:
   - USER-AGENT,Naver%20TV*
   - USER-AGENT,NaverTV*
   - USER-AGENT,Niconico*
-  - USER-AGENT,OneDrive*
-  - USER-AGENT,OneDriveiOSApp*
   - USER-AGENT,Overcast*
   - USER-AGENT,PBS*
   - USER-AGENT,PPlus*
