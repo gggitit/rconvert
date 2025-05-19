@@ -1,5 +1,5 @@
-# Adblock total line 1910
-# Last updated Fri 05/16/2025 22:21:30.72
+# Adblock total line 1922
+# Last updated Mon 05/19/2025 22:22:07.60
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||ai.google.dev^
 ||akmcdnoversea-tw.inter.ptqy.gitv.tv^
@@ -43,6 +43,7 @@
 ||streetviewpixels-pa.googleapis.com^
 ||sydney.bing.com^
 ||www.googleapis.com^
+/1drv/
 /abematv.akamaized.net/
 /anthropic/
 /apicdn/
@@ -68,8 +69,10 @@
 /nowtv100/
 /odysseyplus/
 /olevod/
+/onedrive/
 /rthklive/
 /server30cdn1/
+/skydrive/
 /spotify/
 /steamuserimages/
 /strntt00/
@@ -602,6 +605,7 @@
 ||encoretvb.com^
 ||eonline.com^
 ||err.sh^
+||esm.run^
 ||espn.co.uk^
 ||espn.com^
 ||espn.hb.omtrdc.net^
@@ -1082,6 +1086,8 @@
 ||joinmaidez.com^
 ||joox.com^
 ||js-agent.newrelic.com^
+||jsdelivr.com^
+||jsdelivr.net^
 ||jtvnw.net^
 ||jumploads.com^
 ||jwpcdn.com^
@@ -1134,6 +1140,7 @@
 ||litix.io^
 ||litv.tv^
 ||litvp.com^
+||livefilestore.com^
 ||livestream.com^
 ||lldns.net^
 ||llnw-trials.com^
@@ -1349,7 +1356,7 @@
 ||olehd.com^
 ||olelive.com^
 ||oload.tv^
-||onedrive.live.com^
+||oneclient.sfx.ms^
 ||onetrust.com^
 ||openload.co^
 ||optifine.net^
@@ -1382,6 +1389,7 @@
 ||perplexity.ai^
 ||persagg.com^
 ||phncdn.com^
+||photos.live.com^
 ||phprcdn.com^
 ||piecejointe.net^
 ||pinata.cloud^
@@ -1523,6 +1531,8 @@
 ||shareflare.net^
 ||sharemods.com^
 ||shareplace.org^
+||sharepoint.com^
+||sharepointonline.com^
 ||sho.com^
 ||shopdisney.com^
 ||shops-disney.com^
@@ -1582,6 +1592,8 @@
 ||steamgames.com^
 ||steamstatic.com^
 ||steamstatic.com.8686c.com^
+||storage.live.com^
+||storage.msn.com^
 ||streaks.jp^
 ||streamango.com^
 ||streamcherry.com^

@@ -1,5 +1,5 @@
-# Quantumult total line 2916
-# Last updated Fri 05/16/2025 22:21:30.61
+# Quantumult total line 2930
+# Last updated Mon 05/19/2025 22:22:07.49
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,ai.google.dev,LIST
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,LIST
@@ -43,6 +43,7 @@ HOST,rpg.pic-imges.com,LIST
 HOST,streetviewpixels-pa.googleapis.com,LIST
 HOST,sydney.bing.com,LIST
 HOST,www.googleapis.com,LIST
+HOST-KEYWORD,1drv,LIST
 HOST-KEYWORD,abematv.akamaized.net,LIST
 HOST-KEYWORD,anthropic,LIST
 HOST-KEYWORD,apicdn,LIST
@@ -68,8 +69,10 @@ HOST-KEYWORD,nivod,LIST
 HOST-KEYWORD,nowtv100,LIST
 HOST-KEYWORD,odysseyplus,LIST
 HOST-KEYWORD,olevod,LIST
+HOST-KEYWORD,onedrive,LIST
 HOST-KEYWORD,rthklive,LIST
 HOST-KEYWORD,server30cdn1,LIST
+HOST-KEYWORD,skydrive,LIST
 HOST-KEYWORD,spotify,LIST
 HOST-KEYWORD,steamuserimages,LIST
 HOST-KEYWORD,strntt00,LIST
@@ -602,6 +605,7 @@ HOST-SUFFIX,emload.com,LIST
 HOST-SUFFIX,encoretvb.com,LIST
 HOST-SUFFIX,eonline.com,LIST
 HOST-SUFFIX,err.sh,LIST
+HOST-SUFFIX,esm.run,LIST
 HOST-SUFFIX,espn.co.uk,LIST
 HOST-SUFFIX,espn.com,LIST
 HOST-SUFFIX,espn.hb.omtrdc.net,LIST
@@ -1082,6 +1086,8 @@ HOST-SUFFIX,joeswall.com,LIST
 HOST-SUFFIX,joinmaidez.com,LIST
 HOST-SUFFIX,joox.com,LIST
 HOST-SUFFIX,js-agent.newrelic.com,LIST
+HOST-SUFFIX,jsdelivr.com,LIST
+HOST-SUFFIX,jsdelivr.net,LIST
 HOST-SUFFIX,jtvnw.net,LIST
 HOST-SUFFIX,jumploads.com,LIST
 HOST-SUFFIX,jwpcdn.com,LIST
@@ -1134,6 +1140,7 @@ HOST-SUFFIX,linx.li,LIST
 HOST-SUFFIX,litix.io,LIST
 HOST-SUFFIX,litv.tv,LIST
 HOST-SUFFIX,litvp.com,LIST
+HOST-SUFFIX,livefilestore.com,LIST
 HOST-SUFFIX,livestream.com,LIST
 HOST-SUFFIX,lldns.net,LIST
 HOST-SUFFIX,llnw-trials.com,LIST
@@ -1349,7 +1356,7 @@ HOST-SUFFIX,oculuscdn.com,LIST
 HOST-SUFFIX,olehd.com,LIST
 HOST-SUFFIX,olelive.com,LIST
 HOST-SUFFIX,oload.tv,LIST
-HOST-SUFFIX,onedrive.live.com,LIST
+HOST-SUFFIX,oneclient.sfx.ms,LIST
 HOST-SUFFIX,onetrust.com,LIST
 HOST-SUFFIX,openload.co,LIST
 HOST-SUFFIX,optifine.net,LIST
@@ -1382,6 +1389,7 @@ HOST-SUFFIX,periscope.tv,LIST
 HOST-SUFFIX,perplexity.ai,LIST
 HOST-SUFFIX,persagg.com,LIST
 HOST-SUFFIX,phncdn.com,LIST
+HOST-SUFFIX,photos.live.com,LIST
 HOST-SUFFIX,phprcdn.com,LIST
 HOST-SUFFIX,piecejointe.net,LIST
 HOST-SUFFIX,pinata.cloud,LIST
@@ -1523,6 +1531,8 @@ HOST-SUFFIX,shared.com,LIST
 HOST-SUFFIX,shareflare.net,LIST
 HOST-SUFFIX,sharemods.com,LIST
 HOST-SUFFIX,shareplace.org,LIST
+HOST-SUFFIX,sharepoint.com,LIST
+HOST-SUFFIX,sharepointonline.com,LIST
 HOST-SUFFIX,sho.com,LIST
 HOST-SUFFIX,shopdisney.com,LIST
 HOST-SUFFIX,shops-disney.com,LIST
@@ -1582,6 +1592,8 @@ HOST-SUFFIX,steamcontent.tnkjmec.com,LIST
 HOST-SUFFIX,steamgames.com,LIST
 HOST-SUFFIX,steamstatic.com,LIST
 HOST-SUFFIX,steamstatic.com.8686c.com,LIST
+HOST-SUFFIX,storage.live.com,LIST
+HOST-SUFFIX,storage.msn.com,LIST
 HOST-SUFFIX,streaks.jp,LIST
 HOST-SUFFIX,streamango.com,LIST
 HOST-SUFFIX,streamcherry.com,LIST
@@ -2889,6 +2901,8 @@ USER-AGENT,My5*,LIST
 USER-AGENT,Naver%20TV*,LIST
 USER-AGENT,NaverTV*,LIST
 USER-AGENT,Niconico*,LIST
+USER-AGENT,OneDrive*,LIST
+USER-AGENT,OneDriveiOSApp*,LIST
 USER-AGENT,Overcast*,LIST
 USER-AGENT,PBS*,LIST
 USER-AGENT,PPlus*,LIST
